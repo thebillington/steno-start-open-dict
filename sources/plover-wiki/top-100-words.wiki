@@ -1,0 +1,628 @@
+What they are, and why they are stroked like that.
+
+<span id="introduction"></span>
+== Introduction ==
+
+Fun fact: The top 100 words in the English language make up about 50% of all written material.
+
+When learning steno theory, you might be confused by the fact that many common words are not written out phonetically. There are many reasons that this is the case, but it boils down to:
+
+* Avoiding [[Glossary#Word Boundary|word boundary errors]]
+* Ease of stroking
+
+<span id="the-list"></span>
+== The List ==
+
+<span id="1-the"></span>
+=== 1. the ===
+
+<code>-T</code>
+
+The most common word in the English language is reserved to just one key, right-hand <code>-T</code>. The right hand position makes it easy to have a single stroke brief for some of the most common two-word phrases. For example: <code>SKP-T</code> for &quot;and the&quot;.
+
+<span id="2-be"></span>
+=== 2. be ===
+
+<code>-B</code>
+
+Right-hand <code>-B</code>. The &quot;B&quot; key in Plover just happens to be the &quot;be&quot; key. How convenient! Writing out &quot;be&quot; like <code>PWE</code> is the word part &quot;be^&quot;. For example: &quot;beware&quot; or &quot;belated&quot;. And the phonetic <code>PWAOE</code> is &quot;bee&quot;!
+
+<span id="3-to"></span>
+=== 3. to ===
+
+<code>TO</code>
+
+Written out by spelling, <code>TO</code>. This is easy to hit and free of conflicts.
+
+Warning: <code>O</code> for &quot;to&quot; in the default dictionary is a misstroke. It is not free from word boundaries.
+
+<span id="4-of"></span>
+=== 4. of ===
+
+<code>-F</code>
+
+Right-hand <code>-F</code>. This is a simple one key stroke, and it frees up <code>OF</code> to be used for &quot;off&quot;.
+
+<span id="5-and"></span>
+=== 5. and ===
+
+<code>SKP-</code>
+
+<code>SKP-</code>. This is an easy to hit stroke with only the left hand. This makes it a good candidate for starting phrases, like <code>SKPU</code> for &quot;and you&quot;.
+
+<span id="6-a"></span>
+=== 6. a ===
+
+<code>AEU</code>
+
+<code>A</code> is used as a prefix for words like &quot;affix&quot; or &quot;arrive&quot;. The tense A sound is used to avoid conflicts. In some theories, these strokes are mixed, and you could swap them safely, if you wanted.
+
+<span id="7-in"></span>
+=== 7. in ===
+
+<code>TPH</code>
+
+<code>TPH</code> is just the left-hand <code>N</code>. This combination frees up <code>EUPB</code> to be used for the &quot;in^&quot; prefix, like in &quot;indoors&quot;. Also good for phrases, such as <code>TPH-T</code> for &quot;in the&quot;.
+
+<span id="8-that"></span>
+=== 8. that ===
+
+<code>THA</code>
+
+We drop the ending T to bring this stroke into the left hand for use at the beginning of phrases. Examples: <code>THAR</code> for &quot;that are&quot;, <code>THAS</code> for &quot;that is&quot;.
+
+<span id="9-have"></span>
+=== 9. have ===
+
+<code>SR-</code>
+
+This is the left-hand <code>V</code>. The phonetic version of this would be <code>HA*F</code> which is much harder to stroke for such a common word, and the left-hand makes right-hand phrase parts feel more natural, like <code>SR-T</code> for &quot;have the&quot;.
+
+<code>HAF</code> and <code>HA*F</code> get mapped to &quot;half&quot; and &quot;1/2&quot; in the default dictionary, respectively.
+
+<span id="10-i"></span>
+=== 10. I ===
+
+<code>EU</code> (<code>I</code>)
+
+This is a non-phonetic stroke to give space for &quot;eye&quot;. It's easy to hit and fits in some phrases, such as <code>SKPEU</code> for &quot;and I&quot;. Note that, in some cases, you will use the <code>AOEU</code> cluster for I, such as in &quot;I'll&quot; (<code>AOEUL</code>) and &quot;I'm&quot; (<code>AOEUPL</code>) because the shorter versions are used for other things, in this case &quot;ill&quot; and the word beginning &quot;im^&quot;.
+
+<span id="11-it"></span>
+=== 11. it ===
+
+<code>T-</code>
+
+This is easy to hit and on the left hand for beginning phrases such as <code>TWAS</code> for &quot;it was&quot;. Same pattern as for &quot;in&quot; and &quot;if&quot;.
+
+<span id="12-for"></span>
+=== 12. for ===
+
+<code>TP-R</code> (F-R).
+
+This drops the vowel to save effort for such a common word. If you want to use &quot;for^&quot; the prefix, then use <code>FAUR</code>. For example, forgone is <code>FAUR/TKPWOPB</code>.
+
+<span id="13-not"></span>
+=== 13. not ===
+
+<code>TPHOT</code>
+
+<span id="14-on"></span>
+=== 14. on ===
+
+<code>OPB</code>
+
+<span id="15-with"></span>
+=== 15. with ===
+
+<code>W-</code>
+
+This is another easy to use single key stroke that can begin phrases like <code>WOUR</code> for &quot;with our&quot; and <code>W-T</code> for &quot;with the&quot;.
+
+<span id="16-he"></span>
+=== 16. he ===
+
+<code>HE</code>
+
+This is recommended over the <code>E</code>-only version for most cases, but depending on the phrase or word you might need <code>E</code> (<code>SKPE</code>: and he), <code>HE</code> (<code>HEBGD</code>: he could), and <code>HAOE</code> (<code>HAO*EL</code>: he'll)
+
+<span id="17-as"></span>
+=== 17. as ===
+
+<code>AS</code> (spelling) or <code>AZ</code> (phonetic).
+
+<span id="18-you"></span>
+=== 18. you ===
+
+<code>U</code>
+
+The <code>U</code> key is used for &quot;you&quot;. Can be used in phrases such as <code>SKPU</code> for &quot;and you&quot;.
+
+<span id="19-do"></span>
+=== 19. do ===
+
+<code>TKO</code> (spelling).
+
+Don't drop the vowel, because <code>TK-</code> alone is used for &quot;did&quot;.
+
+<span id="20-at"></span>
+=== 20. at ===
+
+<code>AT</code>
+
+<span id="21-this"></span>
+=== 21. this ===
+
+<code>TH</code>
+
+&quot;This&quot; is a special case, as it's basically set to <code>TH</code> for convenience and to open up the opportunity for several other briefs. For example, <code>THEU</code> is used for &quot;think&quot;, and <code>THEUS</code> follows as &quot;thinks&quot;.
+
+Also works in phrases: <code>TH-FS</code> for &quot;this was&quot;
+
+<span id="22-but"></span>
+=== 22. but ===
+
+<code>PWUT</code> or <code>PWU</code>.
+
+Mirabai uses <code>PWUT</code> as &quot;but&quot; and that is okay, but you can safely remap <code>PWUT</code> to &quot;but the&quot; if you want to use <code>PWU</code> as &quot;but&quot; exclusively.
+
+<span id="23-his"></span>
+=== 23. his ===
+
+<code>HEUS</code> (spelling), <code>HEUZ</code> (phonetic)
+
+<span id="24-by"></span>
+=== 24. by ===
+
+<code>PWEU</code>
+
+This is a non-phonetic mapping to make room for <code>PWAOEU</code>: &quot;buy&quot;. Add an asterisk to &quot;by&quot; and get the word beginning &quot;bi^&quot;, add an asterisk to &quot;buy&quot; and get &quot;bye&quot;.
+
+<span id="25-from"></span>
+=== 25. from ===
+
+<code>TPR-</code> (<code>FR-</code>).
+
+This is similar to &quot;for&quot; (<code>TP-R</code>), but instead of dropping just the vowel, we drop the ending -M sound as well. This opens up &quot;from&quot; to phrases, like in <code>TPRUS</code> for &quot;from us&quot; and <code>TPR-T</code> for &quot;from the&quot; and <code>TPREUPLT</code> for &quot;from time to time&quot;.
+
+<span id="26-they"></span>
+=== 26. they ===
+
+<code>THE</code>
+
+Since &quot;the&quot; is stroked with just <code>-T</code>, we can place &quot;they&quot; in this stroke. It's important not to use <code>THAEU</code> to avoid potential conflict when we get to &quot;they're&quot; and &quot;their&quot;.
+
+<span id="27-we"></span>
+=== 27. we ===
+
+<code>WE</code> (spelling) or <code>WAOE</code> (phonetic)
+
+<span id="28-say"></span>
+=== 28. say ===
+
+<code>SAEU</code> (phonetic).
+
+Advanced: Also present as a right-hand only shortcut as <code>-BZ</code>, such as <code>THEBZ</code> for &quot;they say&quot;. Get the past tense with <code>-BS</code> such as <code>THEBS</code> for &quot;they said&quot;.
+
+<span id="29-her"></span>
+=== 29. her ===
+
+<code>HER</code>
+
+<span id="30-she"></span>
+=== 30. she ===
+
+<code>SHE</code> (spelling) or <code>SHAOE</code> (phonetic)
+
+<span id="31-or"></span>
+=== 31. or ===
+
+<code>OR</code>.
+
+The phonetic version is given instead to &quot;other&quot; (<code>OER</code>).
+
+<span id="32-an"></span>
+=== 32. an ===
+
+<code>APB</code>
+
+<span id="33-will"></span>
+=== 33. will ===
+
+<code>HR-</code>
+
+Left-hand L. Useful for phrases, such as <code>HR-B</code> for &quot;will be&quot; and <code>HRU</code> for &quot;will you&quot;.
+
+<span id="34-my"></span>
+=== 34. my ===
+
+<code>PHEU</code> or <code>PHAOEU</code>.
+
+We break phonetic convention to offer an easier to hit stroke.
+
+<span id="35-one"></span>
+=== 35. one ===
+
+<code>WUPB</code> (phonetic)
+
+<span id="36-all"></span>
+=== 36. all ===
+
+<code>AUL</code> (phonetic).
+
+This vowel is common in the Plover dictionary, such as in <code>WAUL</code> (wall) and <code>PWAUL</code> (ball).
+
+<span id="37-would"></span>
+=== 37. would ===
+
+<code>WO</code>.
+
+Left-hand-only brief is useful for phrases: <code>WOB</code> for &quot;would be&quot; and <code>WOU</code> for &quot;would you&quot;.
+
+<span id="38-there"></span>
+=== 38. there ===
+
+<code>THR-</code>
+
+This brief is used to avoid conflict with <code>THER</code> for &quot;they're&quot; and <code>THAEUR</code> for &quot;their&quot;.
+
+<span id="39-their"></span>
+=== 39. their ===
+
+<code>THAEUR</code> (phonetic).
+
+The homophone &quot;they're&quot; is stroked with <code>THER</code> which is the brief <code>THE</code> for &quot;they&quot; with <code>-R</code> added on.
+
+<span id="40-what"></span>
+=== 40. what ===
+
+<code>WHA</code>
+
+Similar to <code>THA</code> for &quot;that&quot;, <code>WHAT</code> is &quot;what the&quot;.
+
+<span id="41-so"></span>
+=== 41. so ===
+
+<code>SO</code> (spelling)
+
+<span id="42-up"></span>
+=== 42. up ===
+
+<code>UP</code>
+
+Use <code>AUP</code> for the word beginning &quot;up^&quot; like <code>AUP/WARDZ</code> for &quot;upwards&quot;.
+
+<span id="43-out"></span>
+=== 43. out ===
+
+<code>OUT</code>
+
+Use <code>AOUT</code> for the word beginning &quot;out^&quot; like <code>AOUT/SPOEBG/*EN</code> for &quot;outspoken&quot; or <code>AOUT/RAEUPBLG</code> for &quot;outrage&quot;.
+
+<span id="44-if"></span>
+=== 44. if ===
+
+<code>TP-</code>
+
+The bare left F is used for &quot;if&quot;. Good as a phrase beginner, such as <code>TP-T</code> for &quot;if the&quot;. Same pattern as &quot;it&quot; and &quot;in&quot;.
+
+<span id="45-about"></span>
+=== 45. about ===
+
+<code>PW-</code>
+
+The left-hand B is used for &quot;about&quot; as a convenient brief. Some theories do this word differently. One nice benefit of being on the left side is, of course, phrases: <code>PW-T</code> for &quot;about the&quot;.
+
+<span id="46-who"></span>
+=== 46. who ===
+
+<code>WHO</code> (spelling).
+
+We can't use <code>HAOU</code> (hue) or <code>HAO</code> (hoo).
+
+<span id="47-get"></span>
+=== 47. get ===
+
+<code>TKPWET</code> or <code>TKPW-T</code>
+
+<span id="48-which"></span>
+=== 48. which ===
+
+<code>WEU</code>. Just a brief.
+
+<span id="49-go"></span>
+=== 49. go ===
+
+<code>TKPWO</code> (spelling), <code>TKPWOE</code> (phonetic), or just <code>TKPW</code>.
+
+<span id="50-me"></span>
+=== 50. me ===
+
+<code>PHE</code> (spelling), <code>PHAOE</code> (phonetic).
+
+As with many of these common words, being less strict on the vowel gives your fingers a potential break.
+
+<span id="51-when"></span>
+=== 51. when ===
+
+<code>WH</code> (brief) or <code>WHEPB</code> (spelling)
+
+<span id="52-make"></span>
+=== 52. make ===
+
+<code>PHAEUBG</code> (<code>MAIK</code>) (phonetic)
+
+<span id="53-can"></span>
+=== 53. can ===
+
+The left-hand <code>K-</code> only, useful for phrases. <code>K-B</code> (can be).
+
+<span id="54-like"></span>
+=== 54. like ===
+
+<code>HRAOEUBG</code> (phonetic)
+
+<span id="55-time"></span>
+=== 55. time ===
+
+<code>TAOEUPL</code> (phonetic)
+
+<span id="56-no"></span>
+=== 56. no ===
+
+<code>TPHO</code> (spelling).
+
+The phonetic version is saved for &quot;know&quot;.
+
+<span id="57-just"></span>
+=== 57. just ===
+
+<code>SKWRUFT</code>
+
+Remember that <code>-F</code> is sometimes used for S.
+
+<span id="58-him"></span>
+=== 58. him ===
+
+<code>HEUPL</code>
+
+<span id="59-know"></span>
+=== 59. know ===
+
+<code>TPHOE</code> (phonetic)
+
+<span id="60-take"></span>
+=== 60. take ===
+
+<code>TAEUBG</code> (phonetic)
+
+<span id="61-people"></span>
+=== 61. people ===
+
+<code>PAOEPL</code>
+
+In this case <code>-PL</code> is used for the &quot;pl&quot; sound instead of <code>-M</code>.
+
+<span id="62-into"></span>
+=== 62. into ===
+
+<code>TPHAO</code>
+
+<code>TPH-</code> is &quot;in&quot;, and <code>AO</code> is sometimes used for <code>oo</code> which sounds liked the vowel in &quot;into&quot;. Can't use <code>TPHAOU</code> as it is being used by &quot;knew&quot;.
+
+<span id="63-year"></span>
+=== 63. year ===
+
+<code>KWRAOER</code> (phonetic)
+
+<span id="64-your"></span>
+=== 64. your ===
+
+<code>KWROUR</code> (spelling).
+
+Don't use <code>KWRUR</code> as that's the word ending <code>^ur</code> like in <code>KHROES/KWRUR</code> (closure).
+
+<span id="65-good"></span>
+=== 65. good ===
+
+<code>TKPWAOD</code>
+
+<span id="66-some"></span>
+=== 66. some ===
+
+<code>SOPL</code>
+
+As a word beginning, <code>S-</code> and <code>SPH-</code> are used: for example, <code>SPH-PB</code> for &quot;someone&quot; and <code>S-G</code> for &quot;something&quot;.
+
+<span id="67-could"></span>
+=== 67. could ===
+
+<code>KO</code>
+
+Brief like <code>WO</code> for &quot;would&quot;.
+
+<span id="68-them"></span>
+=== 68. them ===
+
+<code>THEPL</code>
+
+<span id="69-see"></span>
+=== 69. see ===
+
+<code>SAOE</code>
+
+<span id="70-other"></span>
+=== 70. other ===
+
+<code>OER</code>
+
+Shows up as a word part, like in <code>TPHOER</code> for &quot;another&quot;.
+
+<span id="71-than"></span>
+=== 71. than ===
+
+<code>THAPB</code> (spelling)
+
+<span id="72-then"></span>
+=== 72. then ===
+
+<code>THEPB</code> (spelling)
+
+<span id="73-now"></span>
+=== 73. now ===
+
+<code>TPHOU</code>
+
+<span id="74-look"></span>
+=== 74. look ===
+
+<code>HRAOBG</code>
+
+<span id="75-only"></span>
+=== 75. only ===
+
+<code>OEPBL</code>
+
+In Plover's dictionary, <code>E</code> is often added to strokes to make them end with an &quot;ee&quot; sound. <code>OEPBL</code> can be thought of as &quot;onl/ee&quot;. Lots of briefs use this, such as <code>KRAER</code> for &quot;contrary&quot; and <code>TPAEPL</code> for &quot;family&quot;.
+
+<span id="76-come"></span>
+=== 76. come ===
+
+<code>KOPL</code>
+
+<span id="77-its"></span>
+=== 77. its ===
+
+<code>EUTS</code>
+
+<code>T-S</code> is used for &quot;it's&quot;.
+
+<span id="78-over"></span>
+=== 78. over ===
+
+<code>OEFR</code>
+
+Emphasizing the tense-O sound to contrast with <code>OFR</code> for &quot;offer&quot;. To use as a prefix, use <code>AUFR</code>, such as <code>AUFR/TKOPB</code> for &quot;overdone&quot;.
+
+<span id="79-think"></span>
+=== 79. think ===
+
+<code>THEU</code> (brief), with a whole family: <code>THEUS</code> for &quot;thinks&quot;, <code>THEUG</code> for &quot;thinking&quot;.
+
+<span id="80-also"></span>
+=== 80. also ===
+
+<code>HR-S</code> (brief)
+
+<span id="81-back"></span>
+=== 81. back ===
+
+<code>PWABG</code>
+
+<span id="82-after"></span>
+=== 82. after ===
+
+<code>AF</code>
+
+<code>AFT</code> is a misstroke entry which you could consider remapping to &quot;aft&quot; or &quot;after the&quot;. To use as a prefix, use <code>AFR</code>, such as <code>AFR/TAEUFT</code> for &quot;aftertaste&quot;.
+
+<span id="83-use"></span>
+=== 83. use ===
+
+<code>AOUS</code> or <code>AOUZ</code>
+
+<span id="84-two"></span>
+=== 84. two ===
+
+<code>TWO</code> (spelling)
+
+<span id="85-how"></span>
+=== 85. how ===
+
+<code>HOU</code>
+
+<span id="86-our"></span>
+=== 86. our ===
+
+<code>OUR</code>
+
+<span id="87-work"></span>
+=== 87. work ===
+
+<code>WORBG</code>
+
+<span id="88-first"></span>
+=== 88. first ===
+
+<code>TPEURS</code>
+
+This brief drops the &quot;t&quot; sound for comfort.
+
+<span id="89-well"></span>
+=== 89. well ===
+
+<code>WEL</code>
+
+<span id="90-way"></span>
+=== 90. way ===
+
+<code>WAEU</code>
+
+<span id="91-even"></span>
+=== 91. even ===
+
+<code>AOEPB</code> or <code>AOEFPB</code>
+
+Dropping the -F makes this stroke easier to hit.
+
+<span id="92-new"></span>
+=== 92. new ===
+
+<code>TPHU</code>
+
+Briefed to avoid conflict with <code>TPHAOU</code> for &quot;knew&quot;.
+
+<span id="93-want"></span>
+=== 93. want ===
+
+<code>WAPBT</code>
+
+<span id="94-because"></span>
+=== 94. because ===
+
+<code>PWAUS</code> or <code>PWAUZ</code> (briefs)
+
+<span id="95-any"></span>
+=== 95. any ===
+
+<code>TPHEU</code> (brief)
+
+<span id="96-these"></span>
+=== 96. these ===
+
+<code>THEZ</code> (brief) or <code>THAOES</code>/<code>THAOEZ</code> (phonetic).
+
+The brief is much easier to hit.
+
+<span id="97-give"></span>
+=== 97. give ===
+
+<code>TKPWEUF</code>
+
+No need for an asterisk, which is often the case with common words in the Plover dictionary.
+
+<span id="98-day"></span>
+=== 98. day ===
+
+<code>TKAEU</code> (phonetic)
+
+<span id="99-most"></span>
+=== 99. most ===
+
+<code>PHOFT</code>, <code>PHOEFT</code>, <code>PHO*ES</code>, or <code>PHO*S</code>.
+
+Go with the option you like most.
+
+<span id="100-us"></span>
+=== 100. us ===
+
+<code>US</code>

@@ -22,12 +22,12 @@ external reference does not contain every generated word.
 
 | Bank | Words | Reference coverage | Exact match | Jaccard |
 |---|---:|---:|---:|---:|
-| Basics 500 | 500 | 500 / 500 | 324 / 500 = 64.8% | 0.862 |
-| Everyday 500 | 500 | 417 / 500 = 83.4% | 218 / 417 = 52.3% | 0.795 |
+| Basics 500 | 500 | 500 / 500 | 319 / 500 = 63.8% | 0.859 |
+| Everyday 500 | 500 | 417 / 500 = 83.4% | 216 / 417 = 51.8% | 0.794 |
 | Legal 200 | 200 | 83 / 200 = 41.5% | 23 / 83 = 27.7% | 0.630 |
 | Business 200 | 200 | 102 / 200 = 51.0% | 28 / 102 = 27.5% | 0.682 |
 | General 500 | 500 | 16 / 500 = 3.2% | 8 / 16 = 50.0% | 0.823 |
-| Sentence words | 135 | 135 / 135 | 113 / 135 = 83.7% | 0.941 |
+| Sentence words | 135 | 135 / 135 | 110 / 135 = 81.5% | 0.932 |
 
 The General bank is a random CMUdict sample and the external reference only
 contains 16 of its 500 words. Its percentage is not a general accuracy result.

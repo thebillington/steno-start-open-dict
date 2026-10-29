@@ -1,0 +1,17 @@
+name: steno_start_generator
+description: >-
+  Deterministic, rule-based generator for the Steno Start open 500-word
+  stenotype dictionary. The generator code is MIT; generated data is
+  CC BY-SA 4.0.
+version: 1.0.0
+publish_to: none
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  steno_engine:
+    path: ../engine
+
+dev_dependencies:
+  test: ^1.31.1

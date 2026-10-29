@@ -28,11 +28,11 @@
     "changedEntries": 6,
     "collisionResolved": 5,
     "multiStrokeEntries": 33,
-    "sourceIdsUsed": 6
+    "sourceIdsUsed": 5
   },
   "sourceRegistry": {
     "path": "sources/sources.json",
-    "sha256": "c2ce5145ed4f7a0bb22fdfd87d69ee366f7754c9d4e47709d11d2b744b72d8df"
+    "sha256": "ef25ba30d8490ef7aa796d541b1178f5a1e80bcbec356e5ca5cffae18492d976"
   },
   "inputs": [
     {
@@ -72,8 +72,8 @@
     },
     {
       "path": "generator/RULES.md",
-      "sha256": "a95ed00267db48d4d2bded6a6e91d599ecc91008b56c5240371b34b73a739fc8",
-      "bytes": 9283
+      "sha256": "a2a67bab3cea2ee630dd8e897c96cc1d5d68217ba36bdfb74814418e8aecca24",
+      "bytes": 9329
     },
     {
       "path": "generator/bin/generate.dart",
@@ -82,8 +82,8 @@
     },
     {
       "path": "generator/lib/src/briefs.dart",
-      "sha256": "c327bd32d5b74bdc2fea6906ea152ebab5945da9f00bac42c22364de3c6a1477",
-      "bytes": 29806
+      "sha256": "f7a5bee7ab8ad61189c9ef6fa9aec443009241e1a247a3b7b7dfbf0f645c2ec5",
+      "bytes": 27906
     },
     {
       "path": "generator/lib/src/cmudict.dart",
@@ -92,13 +92,13 @@
     },
     {
       "path": "generator/lib/src/generator.dart",
-      "sha256": "0fb2042889db36f3e010d99e7ac38e2b2f12a59d51145eb9a5786264c7bfca88",
-      "bytes": 42215
+      "sha256": "4cf9d9d281dded089f5e2286fda42227805ee561397ae6da8245e15f5d2121be",
+      "bytes": 44217
     },
     {
       "path": "generator/lib/src/rules.dart",
-      "sha256": "0a012a8b33540108a7bc166ebe8f863a920402eeeaea84b9587c8d5fcca66d77",
-      "bytes": 16590
+      "sha256": "d1f706a2897cc0fea1736e746b61746c581171defd9e86ae8b2c23109fe80bf7",
+      "bytes": 16580
     },
     {
       "path": "generator/lib/steno_start_generator.dart",
@@ -117,8 +117,8 @@
     },
     {
       "path": "sources/art-of-chording/wayback-evidence.json",
-      "sha256": "30ddc40b5718b6949e89a70990f88db9943dcc93ea91d34b995ffb9b50da7403",
-      "bytes": 577
+      "sha256": "75ea9202aa8eb444152de075392c2444a2addd728d487035995660d582df36ed",
+      "bytes": 585
     },
     {
       "path": "sources/art-of-chording/web-archive/LICENSE-EVIDENCE.md",
@@ -126,104 +126,189 @@
       "bytes": 481
     },
     {
+      "path": "sources/art-of-chording/web-archive/draft-work_brainstorming.html.html",
+      "sha256": "49456eb77bfa2758b4ed286379736f88c5e6c82dc1d4c8cb70803e3c5ae56018",
+      "bytes": 24660
+    },
+    {
       "path": "sources/art-of-chording/web-archive/draft-work_brainstorming.html.txt",
-      "sha256": "ac983f7ddae85f2d69eb48ccfc4ff1ae7c81a1d2ee49ee4d6f0252f7662db1a0",
-      "bytes": 4187
+      "sha256": "8b95a53c7b520d085ab157a235558f95eebf451f5491489c4cdf5a64b852bd23",
+      "bytes": 3784
+    },
+    {
+      "path": "sources/art-of-chording/web-archive/index.html",
+      "sha256": "2eb17c8ed09a93e0607962ebddcaf302aa0ad805405d5b233816d1f09d74db4f",
+      "bytes": 10089
     },
     {
       "path": "sources/art-of-chording/web-archive/index.txt",
-      "sha256": "8a5eb841ee0e1922a1a3bd5f8e533f2efc84ac702b0531cf34d604168335563f",
-      "bytes": 1100
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "bytes": 1
+    },
+    {
+      "path": "sources/art-of-chording/web-archive/introduction.html",
+      "sha256": "95670a39f58e72227c89aae101df2b415e1cd3a1b17c2d717081f7929788c87d",
+      "bytes": 11351
     },
     {
       "path": "sources/art-of-chording/web-archive/introduction.txt",
-      "sha256": "976df168852389005888ba468ed96e48f414b654c86ec366463ffe6c89b45ede",
-      "bytes": 867
+      "sha256": "cedfc3fc9c697d1ef22053246233682c471b40813b78cf800d77dcd43e7635d8",
+      "bytes": 497
     },
     {
-      "path": "sources/art-of-chording/web-archive/introduction_how-steno-works.html.txt",
-      "sha256": "dfd68b15fd4a9509cdbb979a17af616dfbff8169dc83c90434c70662de44f745",
-      "bytes": 17789
+      "path": "sources/art-of-chording/web-archive/introduction_how-steno-works.html",
+      "sha256": "8b0a1d19033ceb0338cc2b83efd853363f0644be3b35dd5c2ee34bca87959f79",
+      "bytes": 160950
     },
     {
       "path": "sources/art-of-chording/web-archive/introduction_how-steno-works.txt",
-      "sha256": "7f87c132f3f28d0998627959065dc051f256dfa7921b24a2b1ee5462d8de1192",
-      "bytes": 604
+      "sha256": "e51785ebcafcffa05a195de069c3da48c0ab09f7b28bee6fa92e56735ffb131a",
+      "bytes": 17351
+    },
+    {
+      "path": "sources/art-of-chording/web-archive/introduction_theories-and-dictionaries.html.html",
+      "sha256": "023d2ab722eb57748cd101d57e62151a959010d4a55a030aea1d1c2dc56b5bc5",
+      "bytes": 20519
     },
     {
       "path": "sources/art-of-chording/web-archive/introduction_theories-and-dictionaries.html.txt",
-      "sha256": "0e2edfd16f26db29629456b0761c842d8e2a82cd66d7ae4c3cf4e181c5a78517",
-      "bytes": 5793
+      "sha256": "a2caf384a18112ad1e6424259f5230e337ef5688fbc9c7aebf8e8bfc94ee3713",
+      "bytes": 5323
+    },
+    {
+      "path": "sources/art-of-chording/web-archive/introduction_why-this-book.html.html",
+      "sha256": "e1b00b3f59c39659a24c061290fd2285f900cd0cfc18b6198b35d47410bbb4ad",
+      "bytes": 13454
     },
     {
       "path": "sources/art-of-chording/web-archive/introduction_why-this-book.html.txt",
-      "sha256": "248948071f1fe792edcd4a5e6b017ecef5d7e4fd63fa72f92d0a2fc882c9613b",
-      "bytes": 1870
+      "sha256": "114be1415c1423b1e2105504f4642b69666ec3c0b96fc4309bc60acd379a963e",
+      "bytes": 1485
+    },
+    {
+      "path": "sources/art-of-chording/web-archive/layout.html",
+      "sha256": "23b6b83bcf952a883c1af3c9894bd12494c59d5db5ee721bee9946b422d70bc0",
+      "bytes": 10853
     },
     {
       "path": "sources/art-of-chording/web-archive/layout.txt",
-      "sha256": "d377a620d7cdfd6e081f52315fb5a51a7de6b461f2255b6dd5c6af7caf3d5d34",
-      "bytes": 699
+      "sha256": "e88e7bb4b1905da22d17e0eae392751a726d0c7cf17d02026ba255058d9fb5ac",
+      "bytes": 240
+    },
+    {
+      "path": "sources/art-of-chording/web-archive/layout_basic-number-bar.html.html",
+      "sha256": "f98b524def6bfe0c9faf2394962654a7a203d8d6b2a62df877be19d441abec0b",
+      "bytes": 23864
     },
     {
       "path": "sources/art-of-chording/web-archive/layout_basic-number-bar.html.txt",
-      "sha256": "7df4516b6dc9d19fea9da0cb77cd78e75b4fc77663c3b5a5deed6c9c5c63940b",
-      "bytes": 3298
+      "sha256": "7b2641cd63862689a26ac76402ecb3493cfd7b73a342c52d6621523b1b494cee",
+      "bytes": 2802
+    },
+    {
+      "path": "sources/art-of-chording/web-archive/layout_bottom-row.html.html",
+      "sha256": "cf484e1a620e3feb4867c48ef5600b79c9aef269389365459a08f31477e39997",
+      "bytes": 24992
     },
     {
       "path": "sources/art-of-chording/web-archive/layout_bottom-row.html.txt",
-      "sha256": "e93c97d16a29ce681c8d3dee14ed538266fdc6130db149321e77a6d8cf0cb64a",
-      "bytes": 3772
+      "sha256": "79f86012d4a28126989c91cddfe0f4ecc2559011a6714869bb34e43d2acdaa43",
+      "bytes": 3288
+    },
+    {
+      "path": "sources/art-of-chording/web-archive/layout_chorded-keyboard.html.html",
+      "sha256": "3634b01d483e9194b3dc98c9e29ff8ba5ed408813af9ef085461f01b80493cca",
+      "bytes": 152108
     },
     {
       "path": "sources/art-of-chording/web-archive/layout_chorded-keyboard.html.txt",
-      "sha256": "2bc0f5909a5b7ab0e17d9b3fb3264f24b506ab4e5fb689e2240e2be4c74beb4e",
-      "bytes": 6022
+      "sha256": "366184641fb3ce6831c4d0ac3d8ac637f68eac1d58ca0171796c9b38f2ff58e3",
+      "bytes": 5534
+    },
+    {
+      "path": "sources/art-of-chording/web-archive/layout_d-and-z.html.html",
+      "sha256": "578dfa4c2f15ad49ddd71852a76224d0a9988dfdd0c3acd51d7a0e79a15f5bb5",
+      "bytes": 26720
     },
     {
       "path": "sources/art-of-chording/web-archive/layout_d-and-z.html.txt",
-      "sha256": "7f87c132f3f28d0998627959065dc051f256dfa7921b24a2b1ee5462d8de1192",
-      "bytes": 604
+      "sha256": "1d83aec139c7bc4975669912675ab077bf6df8d6d8b1de3036b84c6f9838de7d",
+      "bytes": 4700
+    },
+    {
+      "path": "sources/art-of-chording/web-archive/layout_top-row.html.html",
+      "sha256": "aee23bbd80c9fa40625fe274153244effbedbd509856c1c912d2969845c0f9cd",
+      "bytes": 36168
     },
     {
       "path": "sources/art-of-chording/web-archive/layout_top-row.html.txt",
-      "sha256": "7f87c132f3f28d0998627959065dc051f256dfa7921b24a2b1ee5462d8de1192",
-      "bytes": 604
+      "sha256": "076f4e6305ce20708ce9bc9195d64953ce25cf2936b2cedb46c01846c131b715",
+      "bytes": 4207
+    },
+    {
+      "path": "sources/art-of-chording/web-archive/multistroke.html",
+      "sha256": "f058679051285fdb82149f4373aaeeece5c9b4c2102715f0de9a6b8744d9795a",
+      "bytes": 11638
     },
     {
       "path": "sources/art-of-chording/web-archive/multistroke.txt",
-      "sha256": "7f87c132f3f28d0998627959065dc051f256dfa7921b24a2b1ee5462d8de1192",
-      "bytes": 604
+      "sha256": "074d926785336ec929eda76f0528d42fcb152fc7d89e9fea251fe9ec1a0762f4",
+      "bytes": 1238
+    },
+    {
+      "path": "sources/art-of-chording/web-archive/multistroke_prefixes-and-suffixes.html.html",
+      "sha256": "99456f4be86eb8e9a174f2d4fa6e13ef957b421f9d9ae0b3fabe92f3f3ef2b18",
+      "bytes": 21747
     },
     {
       "path": "sources/art-of-chording/web-archive/multistroke_prefixes-and-suffixes.html.txt",
-      "sha256": "94fb0b88efc0bb46a35efd076cbed9015acb7c6ff96ea4755d4a3ba22dcf6df9",
-      "bytes": 7652
+      "sha256": "a6c33292b4877cb496ffa6c70d670287089f928500f3df7f76cf68d94c192f9f",
+      "bytes": 7023
     },
     {
       "path": "sources/art-of-chording/web-archive/pages.json",
-      "sha256": "533c3680f56c70f048651096b88cec9bda3062678a70261b78eb650b505f353f",
-      "bytes": 10554
+      "sha256": "f675ed6a2696ffbc9552041f1a9d9beea4b03da2505e76bfae6cc9de1b8ceae6",
+      "bytes": 11412
+    },
+    {
+      "path": "sources/art-of-chording/web-archive/sounds.html",
+      "sha256": "aeaf70db4ea5c97e78ffac9771fc6bd4a701df401e053b103d22ca2b9918f17c",
+      "bytes": 12359
     },
     {
       "path": "sources/art-of-chording/web-archive/sounds.txt",
-      "sha256": "d11f6a30ff8cb82bcbff4c3a2c03057673c320f663005f34b7e307732b8ec612",
-      "bytes": 1439
+      "sha256": "4b8d05f07ca32d5147c03056ac19bc6ddfb78343240667238e480eb3735f18d0",
+      "bytes": 753
+    },
+    {
+      "path": "sources/art-of-chording/web-archive/sounds_aw_ow_-k.html.html",
+      "sha256": "7675c4ed8b8b2c45e1f014ce16607a5db4aca78d9bd1ce26bad364c098a05bc1",
+      "bytes": 42669
     },
     {
       "path": "sources/art-of-chording/web-archive/sounds_aw_ow_-k.html.txt",
-      "sha256": "7f87c132f3f28d0998627959065dc051f256dfa7921b24a2b1ee5462d8de1192",
-      "bytes": 604
+      "sha256": "a868eeddeb529aa0077c1de72bbb9d4c5380ec36fd2396e45c6fc50ba3ba984e",
+      "bytes": 2972
+    },
+    {
+      "path": "sources/art-of-chording/web-archive/sounds_ay_oy.html.html",
+      "sha256": "e6c4fa1d3430cae7ba4469fe0e6872a5eacafaf2391c858d55defc72e5a871b6",
+      "bytes": 33028
     },
     {
       "path": "sources/art-of-chording/web-archive/sounds_ay_oy.html.txt",
-      "sha256": "4381ff88e0012d269df56e8e229db79a4173d9995eaa7086a4e945324352c16d",
-      "bytes": 2660
+      "sha256": "37f2ef02f74462cc042fd05d44b4b384d73aeb5f010cc46d4c2ab3d4b0e24996",
+      "bytes": 1937
     },
     {
       "path": "sources/cmudict/cmudict.dict",
       "sha256": "81917843c7f44ce2b094ac63873c2c7a4cf802040792c455ba3ca406891c3d22",
       "bytes": 3618488
+    },
+    {
+      "path": "sources/plover-wiki/LICENSE-EVIDENCE.md",
+      "sha256": "201a3641f65c5e7d2e1250394d227708c62abdb922e3c847797df2f41d5196ef",
+      "bytes": 439
     },
     {
       "path": "sources/plover-wiki/brief-ideas.wiki",
@@ -247,8 +332,13 @@
     },
     {
       "path": "sources/sources.json",
-      "sha256": "c2ce5145ed4f7a0bb22fdfd87d69ee366f7754c9d4e47709d11d2b744b72d8df",
-      "bytes": 6675
+      "sha256": "ef25ba30d8490ef7aa796d541b1178f5a1e80bcbec356e5ca5cffae18492d976",
+      "bytes": 8022
+    },
+    {
+      "path": "sources/wikipedia/LICENSE-EVIDENCE.md",
+      "sha256": "73d624e4464a83d8b59d29ca5b95dba6b8d3a0d5cb4b34d983e90b71f8bf0305",
+      "bytes": 394
     },
     {
       "path": "sources/wikipedia/stenotype.wiki",
@@ -266,16 +356,16 @@
       "bytes": 1060
     },
     "provenance/entries.json": {
-      "sha256": "352a32a7cfa3da1b0dfc72dc9f60c7589535b19fb2ad1766fd0bb621832ac344",
-      "bytes": 101646
+      "sha256": "9a05e200d289b98f4c58d4808ef97276e3c9f13b715fa3ca3563c2721e34fa6c",
+      "bytes": 109729
     },
     "validation/self_check.md": {
-      "sha256": "dca0ff4e88ebf0625a33d5bedf67a38ef1792cd33126a4719047b205dcb302c2",
-      "bytes": 3547
+      "sha256": "6c4bb5ff2d4f70b3748ba8945fe6303ed94ed911f104364ee804b438040ea949",
+      "bytes": 3373
     },
     "data/manifest.json": {
-      "sha256": "597b301aef3eb4d4865aaad633e0e149a770374dd9a27bc372ca941c8b26d7fa",
-      "bytes": 8217
+      "sha256": "758dee7b97e2236bb7a00acef6cc1471dda7fdb56e0fe242412619eada9339ff",
+      "bytes": 9561
     }
   },
   "notes": [

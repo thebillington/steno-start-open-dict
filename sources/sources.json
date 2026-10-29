@@ -9,11 +9,11 @@
       "license": "BSD-2-Clause",
       "revision": "74790861f652b15e4ac49015a90074ad62a27690",
       "fetchUrl": "https://raw.githubusercontent.com/cmusphinx/cmudict/74790861f652b15e4ac49015a90074ad62a27690/cmudict.dict",
-      "cachePath": "sources/cache/cmudict/cmudict.dict",
       "sha256": "81917843c7f44ce2b094ac63873c2c7a4cf802040792c455ba3ca406891c3d22",
       "bytes": 3618488,
       "usedFor": "pronunciation",
-      "retrieved": "2026-10-29"
+      "retrieved": "2026-10-29",
+      "file": "sources/cmudict/cmudict.dict"
     },
     {
       "id": "wikipedia-stenotype",
@@ -23,11 +23,14 @@
       "revision": "1378936604",
       "timestamp": "2026-10-07T00:32:23Z",
       "fetchUrl": "https://en.wikipedia.org/w/index.php?oldid=1378936604&action=raw",
-      "cachePath": "sources/cache/wikipedia/stenotype.wiki",
       "sha256": "9c2f02a0fda6c6faa794e7228105eb3c9f8e70ad7c1984fe518c5fb06caa6784",
       "bytes": 27699,
       "usedFor": "layout, chart and theory examples",
-      "retrieved": "2026-10-29"
+      "retrieved": "2026-10-29",
+      "file": "sources/wikipedia/stenotype.wiki",
+      "files": [
+        "sources/wikipedia/LICENSE-EVIDENCE.md"
+      ]
     },
     {
       "id": "plover-wiki-top-100",
@@ -37,11 +40,14 @@
       "revision": "195",
       "timestamp": "2024-02-12T21:29:06Z",
       "fetchUrl": "https://plover.wiki/index.php?oldid=195&action=raw",
-      "cachePath": "sources/cache/plover-wiki/top-100-words.wiki",
       "sha256": "f59888b30f2f28e7960c545cecfa766f0253aa81eb58d564382ae8b4b9e4a73c",
       "bytes": 16738,
       "usedFor": "public standard-form examples",
-      "retrieved": "2026-10-29"
+      "retrieved": "2026-10-29",
+      "file": "sources/plover-wiki/top-100-words.wiki",
+      "files": [
+        "sources/plover-wiki/LICENSE-EVIDENCE.md"
+      ]
     },
     {
       "id": "plover-wiki-brief-ideas",
@@ -51,11 +57,14 @@
       "revision": "146",
       "timestamp": "2024-02-06T04:13:53Z",
       "fetchUrl": "https://plover.wiki/index.php?oldid=146&action=raw",
-      "cachePath": "sources/cache/plover-wiki/brief-ideas.wiki",
       "sha256": "265f9cfa964004325fae43b0a7a1fd92b403174018699001ccf2ab71074bf290",
       "bytes": 3643,
       "usedFor": "brief patterns and examples",
-      "retrieved": "2026-10-29"
+      "retrieved": "2026-10-29",
+      "file": "sources/plover-wiki/brief-ideas.wiki",
+      "files": [
+        "sources/plover-wiki/LICENSE-EVIDENCE.md"
+      ]
     },
     {
       "id": "plover-wiki-cheat-sheets",
@@ -65,11 +74,11 @@
       "revision": "3320",
       "timestamp": "2025-05-12T15:21:07Z",
       "fetchUrl": "https://plover.wiki/index.php?oldid=3320&action=raw",
-      "cachePath": "sources/cache/plover-wiki/cheat-sheets.wiki",
       "sha256": "444b9fad16a82518a22bcffa9ed3fdc8dea49b03b00f97adbf15a653ad3296ce",
       "bytes": 2034,
       "usedFor": "theory references",
-      "retrieved": "2026-10-29"
+      "retrieved": "2026-10-29",
+      "file": "sources/plover-wiki/cheat-sheets.wiki"
     },
     {
       "id": "plover-wiki-theory",
@@ -79,11 +88,11 @@
       "revision": "4709",
       "timestamp": "2026-03-26T03:15:09Z",
       "fetchUrl": "https://plover.wiki/index.php?oldid=4709&action=raw",
-      "cachePath": "sources/cache/plover-wiki/plover-theory.wiki",
       "sha256": "3357b0f801236315bf2187c4c4058705bd2effdd15f4859f17c03cdccaa3a91b",
       "bytes": 4537,
       "usedFor": "theory context",
-      "retrieved": "2026-10-29"
+      "retrieved": "2026-10-29",
+      "file": "sources/plover-wiki/plover-theory.wiki"
     },
     {
       "id": "art-of-chording-website",
@@ -92,10 +101,51 @@
       "license": "CC-BY-SA-4.0",
       "archive": "Internet Archive Wayback Machine",
       "manifest": "sources/art-of-chording/web-archive/pages.json",
-      "manifestSha256": "110e9eccebfe52cba0a8d667ee26cd7752b113b1726291148aff9348bace7a08",
-      "cacheDir": "sources/cache/art-of-chording",
+      "manifestSha256": "f675ed6a2696ffbc9552041f1a9d9beea4b03da2505e76bfae6cc9de1b8ceae6",
       "usedFor": "theory, chord examples and briefs",
-      "retrieved": "2026-10-29"
+      "retrieved": "2026-10-29",
+      "file": "sources/art-of-chording/web-archive/pages.json",
+      "sha256": "f675ed6a2696ffbc9552041f1a9d9beea4b03da2505e76bfae6cc9de1b8ceae6",
+      "bytes": 11412,
+      "files": [
+        "sources/art-of-chording/wayback-cdx.json",
+        "sources/art-of-chording/wayback-evidence.json",
+        "sources/art-of-chording/web-archive/LICENSE-EVIDENCE.md",
+        "sources/art-of-chording/web-archive/draft-work_brainstorming.html.html",
+        "sources/art-of-chording/web-archive/draft-work_brainstorming.html.txt",
+        "sources/art-of-chording/web-archive/index.html",
+        "sources/art-of-chording/web-archive/index.txt",
+        "sources/art-of-chording/web-archive/introduction.html",
+        "sources/art-of-chording/web-archive/introduction.txt",
+        "sources/art-of-chording/web-archive/introduction_how-steno-works.html",
+        "sources/art-of-chording/web-archive/introduction_how-steno-works.txt",
+        "sources/art-of-chording/web-archive/introduction_theories-and-dictionaries.html.html",
+        "sources/art-of-chording/web-archive/introduction_theories-and-dictionaries.html.txt",
+        "sources/art-of-chording/web-archive/introduction_why-this-book.html.html",
+        "sources/art-of-chording/web-archive/introduction_why-this-book.html.txt",
+        "sources/art-of-chording/web-archive/layout.html",
+        "sources/art-of-chording/web-archive/layout.txt",
+        "sources/art-of-chording/web-archive/layout_basic-number-bar.html.html",
+        "sources/art-of-chording/web-archive/layout_basic-number-bar.html.txt",
+        "sources/art-of-chording/web-archive/layout_bottom-row.html.html",
+        "sources/art-of-chording/web-archive/layout_bottom-row.html.txt",
+        "sources/art-of-chording/web-archive/layout_chorded-keyboard.html.html",
+        "sources/art-of-chording/web-archive/layout_chorded-keyboard.html.txt",
+        "sources/art-of-chording/web-archive/layout_d-and-z.html.html",
+        "sources/art-of-chording/web-archive/layout_d-and-z.html.txt",
+        "sources/art-of-chording/web-archive/layout_top-row.html.html",
+        "sources/art-of-chording/web-archive/layout_top-row.html.txt",
+        "sources/art-of-chording/web-archive/multistroke.html",
+        "sources/art-of-chording/web-archive/multistroke.txt",
+        "sources/art-of-chording/web-archive/multistroke_prefixes-and-suffixes.html.html",
+        "sources/art-of-chording/web-archive/multistroke_prefixes-and-suffixes.html.txt",
+        "sources/art-of-chording/web-archive/sounds.html",
+        "sources/art-of-chording/web-archive/sounds.txt",
+        "sources/art-of-chording/web-archive/sounds_aw_ow_-k.html.html",
+        "sources/art-of-chording/web-archive/sounds_aw_ow_-k.html.txt",
+        "sources/art-of-chording/web-archive/sounds_ay_oy.html.html",
+        "sources/art-of-chording/web-archive/sounds_ay_oy.html.txt"
+      ]
     },
     {
       "id": "steno-start-word-list",
@@ -106,6 +156,17 @@
       "sha256": "bbd0819d7623b337a271d2b7005a5e09074138e87f0eb4b2447c1cd927c17e22",
       "bytes": 2641,
       "usedFor": "word selection",
+      "retrieved": "2026-10-29"
+    },
+    {
+      "id": "steno-start-rules",
+      "name": "Steno Start generator rules and briefs layer",
+      "url": "local",
+      "license": "CC-BY-SA-4.0",
+      "file": "generator/RULES.md",
+      "sha256": "a2a67bab3cea2ee630dd8e897c96cc1d5d68217ba36bdfb74814418e8aecca24",
+      "bytes": 9329,
+      "usedFor": "phoneme rules, spelling adjustments and the Steno Start briefs layer",
       "retrieved": "2026-10-29"
     }
   ]

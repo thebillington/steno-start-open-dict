@@ -21,9 +21,9 @@
     "words": 500,
     "dictionaryEntries": 500,
     "uniqueSignatures": 500,
-    "briefEntries": 95,
-    "ruleEntries": 405,
-    "changedEntries": 98,
+    "briefEntries": 93,
+    "ruleEntries": 407,
+    "changedEntries": 64,
     "collisionResolved": 3,
     "multiStrokeEntries": 24,
     "sourceIdsUsed": 6
@@ -39,28 +39,43 @@
         "sources/art-of-chording/wayback-cdx.json",
         "sources/art-of-chording/wayback-evidence.json",
         "sources/art-of-chording/web-archive/LICENSE-EVIDENCE.md",
+        "sources/art-of-chording/web-archive/draft-work_brainstorming.html.html",
         "sources/art-of-chording/web-archive/draft-work_brainstorming.html.txt",
+        "sources/art-of-chording/web-archive/index.html",
         "sources/art-of-chording/web-archive/index.txt",
+        "sources/art-of-chording/web-archive/introduction.html",
         "sources/art-of-chording/web-archive/introduction.txt",
-        "sources/art-of-chording/web-archive/introduction_how-steno-works.html.txt",
+        "sources/art-of-chording/web-archive/introduction_how-steno-works.html",
         "sources/art-of-chording/web-archive/introduction_how-steno-works.txt",
+        "sources/art-of-chording/web-archive/introduction_theories-and-dictionaries.html.html",
         "sources/art-of-chording/web-archive/introduction_theories-and-dictionaries.html.txt",
+        "sources/art-of-chording/web-archive/introduction_why-this-book.html.html",
         "sources/art-of-chording/web-archive/introduction_why-this-book.html.txt",
+        "sources/art-of-chording/web-archive/layout.html",
         "sources/art-of-chording/web-archive/layout.txt",
+        "sources/art-of-chording/web-archive/layout_basic-number-bar.html.html",
         "sources/art-of-chording/web-archive/layout_basic-number-bar.html.txt",
+        "sources/art-of-chording/web-archive/layout_bottom-row.html.html",
         "sources/art-of-chording/web-archive/layout_bottom-row.html.txt",
+        "sources/art-of-chording/web-archive/layout_chorded-keyboard.html.html",
         "sources/art-of-chording/web-archive/layout_chorded-keyboard.html.txt",
+        "sources/art-of-chording/web-archive/layout_d-and-z.html.html",
         "sources/art-of-chording/web-archive/layout_d-and-z.html.txt",
+        "sources/art-of-chording/web-archive/layout_top-row.html.html",
         "sources/art-of-chording/web-archive/layout_top-row.html.txt",
+        "sources/art-of-chording/web-archive/multistroke.html",
         "sources/art-of-chording/web-archive/multistroke.txt",
+        "sources/art-of-chording/web-archive/multistroke_prefixes-and-suffixes.html.html",
         "sources/art-of-chording/web-archive/multistroke_prefixes-and-suffixes.html.txt",
-        "sources/art-of-chording/web-archive/pages.json",
+        "sources/art-of-chording/web-archive/sounds.html",
         "sources/art-of-chording/web-archive/sounds.txt",
+        "sources/art-of-chording/web-archive/sounds_aw_ow_-k.html.html",
         "sources/art-of-chording/web-archive/sounds_aw_ow_-k.html.txt",
+        "sources/art-of-chording/web-archive/sounds_ay_oy.html.html",
         "sources/art-of-chording/web-archive/sounds_ay_oy.html.txt"
       ],
-      "sha256": "533c3680f56c70f048651096b88cec9bda3062678a70261b78eb650b505f353f",
-      "bytes": 10554,
+      "sha256": "f675ed6a2696ffbc9552041f1a9d9beea4b03da2505e76bfae6cc9de1b8ceae6",
+      "bytes": 11412,
       "usedFor": "theory, chord examples and briefs",
       "modified": false,
       "retrieved": "2026-10-29",
@@ -85,6 +100,9 @@
       "url": "https://plover.wiki/index.php/Brief_Ideas",
       "license": "CC-BY (as stated in wiki footer)",
       "file": "sources/plover-wiki/brief-ideas.wiki",
+      "files": [
+        "sources/plover-wiki/LICENSE-EVIDENCE.md"
+      ],
       "sha256": "265f9cfa964004325fae43b0a7a1fd92b403174018699001ccf2ab71074bf290",
       "bytes": 3643,
       "usedFor": "brief patterns and examples",
@@ -124,12 +142,15 @@
       "url": "https://plover.wiki/index.php/Top_100_Words_in_Plover%27s_Dictionary",
       "license": "CC-BY (as stated in wiki footer)",
       "file": "sources/plover-wiki/top-100-words.wiki",
+      "files": [
+        "sources/plover-wiki/LICENSE-EVIDENCE.md"
+      ],
       "sha256": "f59888b30f2f28e7960c545cecfa766f0253aa81eb58d564382ae8b4b9e4a73c",
       "bytes": 16738,
       "usedFor": "public standard-form examples",
       "modified": false,
       "retrieved": "2026-10-29",
-      "entryCount": 85
+      "entryCount": 84
     },
     {
       "id": "steno-start-rules",
@@ -137,12 +158,12 @@
       "url": "local",
       "license": "CC-BY-SA-4.0",
       "file": "generator/RULES.md",
-      "sha256": "a95ed00267db48d4d2bded6a6e91d599ecc91008b56c5240371b34b73a739fc8",
-      "bytes": 9283,
+      "sha256": "a2a67bab3cea2ee630dd8e897c96cc1d5d68217ba36bdfb74814418e8aecca24",
+      "bytes": 9329,
       "usedFor": "phoneme rules, spelling adjustments and the Steno Start briefs layer",
       "modified": false,
       "retrieved": "2026-10-29",
-      "entryCount": 500
+      "entryCount": 412
     },
     {
       "id": "steno-start-word-list",
@@ -155,7 +176,7 @@
       "usedFor": "word selection",
       "modified": false,
       "retrieved": "2026-10-29",
-      "entryCount": 500
+      "entryCount": 4
     },
     {
       "id": "wikipedia-stenotype",
@@ -163,17 +184,20 @@
       "url": "https://en.wikipedia.org/wiki/Stenotype",
       "license": "CC-BY-SA-4.0",
       "file": "sources/wikipedia/stenotype.wiki",
+      "files": [
+        "sources/wikipedia/LICENSE-EVIDENCE.md"
+      ],
       "sha256": "9c2f02a0fda6c6faa794e7228105eb3c9f8e70ad7c1984fe518c5fb06caa6784",
       "bytes": 27699,
       "usedFor": "layout, chart and theory examples",
       "modified": false,
       "retrieved": "2026-10-29",
-      "entryCount": 500
+      "entryCount": 411
     }
   ],
   "outputs": {
     "data/dictionary.json": {
-      "sha256": "77fc95dd6f393734837a06f5b2e836786cbd6a9cac48589f0f0a646e1cd7e910",
+      "sha256": "81260c4c94e40e913efe2b5b0fe1dc096a93ff4b5517b18388e9c4218cd5b25d",
       "bytes": 10306
     },
     "data/multi_stroke.json": {
@@ -181,12 +205,12 @@
       "bytes": 701
     },
     "provenance/entries.json": {
-      "sha256": "dbd4294c81b1001f87c6e05c83286c49a51eb4380aea18bedc7058a14ddd3428",
-      "bytes": 239123
+      "sha256": "c3bf20e6ce4913ba0d4104c7524e1a07b3b337847b03dc14bbb7df35f81f2652",
+      "bytes": 251870
     },
     "validation/self_check.md": {
-      "sha256": "66846ec2520dd9e9d4e3828c6f7546f144b464e85eb4da73dd7d0f2901111067",
-      "bytes": 15035
+      "sha256": "dfd6337c314fb48fb38c8a2e9d3fc2b9fdf2baca7084ca1a888e2d6a67a6a9d9",
+      "bytes": 7527
     }
   },
   "notes": [

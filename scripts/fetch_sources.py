@@ -22,7 +22,7 @@ def verify(path, expected):
 
 for s in REGISTRY['sources']:
     if 'fetchUrl' in s:
-        dest = ROOT / s['cachePath']
+        dest = ROOT / s.get('cachePath', s['file'])
         if dest.exists():
             try:
                 verify(dest, s['sha256'])
@@ -37,7 +37,7 @@ for s in REGISTRY['sources']:
         manifest = json.loads((ROOT / s['manifest']).read_text())
         verify(ROOT / s['manifest'], s['manifestSha256'])
         for page in manifest['pages']:
-            dest = ROOT / page['cachePath']
+            dest = ROOT / page.get('cachePath', page['html'])
             if dest.exists():
                 try:
                     verify(dest, page['sha256'])

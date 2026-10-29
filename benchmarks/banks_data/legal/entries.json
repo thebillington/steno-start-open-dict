@@ -6,7 +6,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [K AO1 R T] -> target AO; onset K; coda R T. Variant: base.",
@@ -15,6 +14,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "K AO1 R T",
+    "plainRule": "KORT",
+    "plainSignature": "2|8|13|18",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -24,7 +25,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [JH AH1 JH] -> target AH; onset JH; coda JH. Variant: base.",
@@ -33,6 +33,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "JH AH1 JH",
+    "plainRule": "SKWRUPBLG",
+    "plainSignature": "0|2|4|6|11|14|15|16|17",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -42,7 +44,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [JH UH1 R IY0] -> target UH; onset JH; coda R. Variant: base.",
@@ -51,6 +52,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "JH UH1 R IY0",
+    "plainRule": "SKWREUR",
+    "plainSignature": "0|2|4|6|10|11|13",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -60,7 +63,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [L AO1 Y ER0] -> target AO; onset L; coda Y R. Variant: base.",
@@ -69,6 +71,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "L AO1 Y ER0",
+    "plainRule": "HRAUR",
+    "plainSignature": "5|6|7|11|13",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -78,7 +82,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [AH0 T ER1 N IY0] -> target ER; onset T; coda N. Variant: base.",
@@ -87,6 +90,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "AH0 T ER1 N IY0",
+    "plainRule": "TOERPB",
+    "plainSignature": "1|8|10|13|14|15",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -96,7 +101,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [P L EY1 N T AH0 F] -> target EY; onset P L; coda N T F. Variant: base.",
@@ -105,6 +109,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "P L EY1 N T AH0 F",
+    "plainRule": "PHRAEUFPBT",
+    "plainSignature": "3|5|6|7|10|11|12|14|15|18",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -114,7 +120,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [D IH0 F EH1 N D AH0 N T] -> target EH; onset D F; coda N D N T. Variant: base.",
@@ -123,6 +128,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "D IH0 F EH1 N D AH0 N T",
+    "plainRule": "TKPEPBTD",
+    "plainSignature": "1|2|3|10|14|15|18|20",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -132,7 +139,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [EH1 V AH0 D AH0 N S] -> target EH; onset none; coda V D N S. Variant: base.",
@@ -141,6 +147,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "EH1 V AH0 D AH0 N S",
+    "plainRule": "*EFPBSD",
+    "plainSignature": "9|10|12|14|15|19|20",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -150,7 +158,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [W IH1 T N AH0 S] -> target IH; onset W; coda T N S. Variant: base.",
@@ -159,6 +166,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "W IH1 T N AH0 S",
+    "plainRule": "WEUPBTS",
+    "plainSignature": "4|10|11|14|15|18|19",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -168,7 +177,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [T EH1 S T AH0 M OW2 N IY0] -> target EH; onset T; coda FT M N. Variant: base.",
@@ -177,6 +185,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "T EH1 S T AH0 M OW2 N IY0",
+    "plainRule": "TEFPBLT",
+    "plainSignature": "1|10|12|14|15|16|18",
     "multiStroke": [
       "TEFT/PHOEPB"
     ],
@@ -189,7 +199,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [T R AY1 AH0 L] -> target AY; onset T R; coda L. Variant: base.",
@@ -198,6 +207,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "T R AY1 AH0 L",
+    "plainRule": "TRAOEUL",
+    "plainSignature": "1|6|7|8|10|11|16",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -207,7 +218,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [HH IY1 R IH0 NG] -> target IY; onset HH; coda R NG. Variant: base.",
@@ -216,6 +226,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "HH IY1 R IH0 NG",
+    "plainRule": "HAOERPBG",
+    "plainSignature": "5|7|8|10|13|14|15|17",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -225,7 +237,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [M OW1 SH AH0 N] -> target OW; onset M; coda SH N. Variant: base.",
@@ -234,6 +245,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "M OW1 SH AH0 N",
+    "plainRule": "PHOERPB",
+    "plainSignature": "3|5|8|10|13|14|15",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -243,7 +256,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [AH0 B JH EH1 K SH AH0 N] -> target EH; onset B JH; coda K SH N. Variant: base.",
@@ -252,6 +264,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "AH0 B JH EH1 K SH AH0 N",
+    "plainRule": "SKPWRERPBG",
+    "plainSignature": "0|2|3|4|6|10|13|14|15|17",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -261,7 +275,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [S AH0 S T EY1 N D] -> target EY; onset S S T; coda N D. Variant: base.",
@@ -270,6 +283,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "S AH0 S T EY1 N D",
+    "plainRule": "STAEUPBD",
+    "plainSignature": "0|1|7|10|11|14|15|20",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -279,7 +294,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [OW2 V ER0 R UW1 L D] -> target UW; onset V R R; coda L D. Variant: base.",
@@ -288,6 +302,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "OW2 V ER0 R UW1 L D",
+    "plainRule": "SRAOULD",
+    "plainSignature": "0|6|7|8|11|16|20",
     "multiStroke": [
       "O*EFR/RAOULD"
     ],
@@ -300,7 +316,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [IH0 G Z IH1 B IH0 T] -> target IH; onset G Z; coda B T. Variant: base.",
@@ -309,6 +324,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "IH0 G Z IH1 B IH0 T",
+    "plainRule": "STKPW*EUBT",
+    "plainSignature": "0|1|2|3|4|9|10|11|15|18",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -318,7 +335,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [K AA1 N T R AE2 K T] -> target AA; onset K; coda N T R K T. Variant: base.",
@@ -327,6 +343,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "K AA1 N T R AE2 K T",
+    "plainRule": "KORPBGT",
+    "plainSignature": "2|8|13|14|15|17|18",
     "multiStroke": [
       "KOPB/TRABGT"
     ],
@@ -339,7 +357,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [AH0 G R IY1 M AH0 N T] -> target IY; onset G R; coda M N T. Variant: base.",
@@ -348,6 +365,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "AH0 G R IY1 M AH0 N T",
+    "plainRule": "TKPWRAOEPBLT",
+    "plainSignature": "1|2|3|4|6|7|8|10|14|15|16|18",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -357,7 +376,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [B R IY1 CH] -> target IY; onset B R; coda CH. Variant: base.",
@@ -366,6 +384,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "B R IY1 CH",
+    "plainRule": "PWRAOEFP",
+    "plainSignature": "3|4|6|7|8|10|12|14",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -375,7 +395,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [D AE1 M AH0 JH AH0 Z] -> target AE; onset D; coda M JH Z. Variant: base.",
@@ -384,6 +403,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "D AE1 M AH0 JH AH0 Z",
+    "plainRule": "TKAPBLGZ",
+    "plainSignature": "1|2|7|14|15|16|17|21",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -393,7 +414,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [L AY2 AH0 B IH1 L IH0 T IY0] -> target IH; onset L B; coda L T. Variant: base.",
@@ -402,6 +422,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "L AY2 AH0 B IH1 L IH0 T IY0",
+    "plainRule": "PWHREULT",
+    "plainSignature": "3|4|5|6|10|11|16|18",
     "multiStroke": [
       "HRAOEU/PWEULT"
     ],
@@ -414,7 +436,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [N EH1 G L AH0 JH AH0 N S] -> target EH; onset N; coda G L JH N S. Variant: base.",
@@ -423,6 +444,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "N EH1 G L AH0 JH AH0 N S",
+    "plainRule": "TPHEPBLGS",
+    "plainSignature": "1|3|5|10|14|15|16|17|19",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -432,7 +455,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [S T AE1 CH UW0 T] -> target AE; onset S T; coda CH T. Variant: base.",
@@ -441,6 +463,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "S T AE1 CH UW0 T",
+    "plainRule": "STAFPT",
+    "plainSignature": "0|1|7|12|14|18",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -450,7 +474,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [R EH2 G Y AH0 L EY1 SH AH0 N] -> target EY; onset R G Y L; coda SH N. Variant: base.",
@@ -459,6 +482,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "R EH2 G Y AH0 L EY1 SH AH0 N",
+    "plainRule": "TKPWHRAEURPB",
+    "plainSignature": "1|2|3|4|5|6|7|10|11|13|14|15",
     "multiStroke": [
       "REG/HRAEURPB"
     ],
@@ -471,7 +496,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [AH0 P IY1 L] -> target IY; onset P; coda L. Variant: base.",
@@ -480,6 +504,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "AH0 P IY1 L",
+    "plainRule": "PAOEL",
+    "plainSignature": "3|7|8|10|16",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -489,7 +515,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [V ER1 D IH0 K T] -> target ER; onset V; coda D K T. Variant: base.",
@@ -498,6 +523,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "V ER1 D IH0 K T",
+    "plainRule": "SRERBGTD",
+    "plainSignature": "0|6|10|13|15|17|18|20",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -507,7 +534,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [S EH1 N T AH0 N S] -> target EH; onset S; coda N T N S. Variant: base.",
@@ -516,6 +542,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "S EH1 N T AH0 N S",
+    "plainRule": "SEPBTS",
+    "plainSignature": "0|10|14|15|18|19",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -525,7 +553,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [K AH1 S T AH0 D IY0] -> target AH; onset K; coda FT D. Variant: base.",
@@ -534,6 +561,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "K AH1 S T AH0 D IY0",
+    "plainRule": "KEUFTD",
+    "plainSignature": "2|10|11|12|18|20",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -543,7 +572,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [B EY1 L] -> target EY; onset B; coda L. Variant: base.",
@@ -552,6 +580,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "B EY1 L",
+    "plainRule": "PWAEUL",
+    "plainSignature": "3|4|7|10|11|16",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -561,7 +591,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [W AO1 R AH0 N T] -> target AO; onset W; coda R N T. Variant: base.",
@@ -570,6 +599,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "W AO1 R AH0 N T",
+    "plainRule": "WAURPBT",
+    "plainSignature": "4|7|11|13|14|15|18",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -579,7 +610,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [S AH0 P IY1 N AH0] -> target IY; onset S P; coda N. Variant: base.",
@@ -588,6 +618,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "S AH0 P IY1 N AH0",
+    "plainRule": "SPAOEPB",
+    "plainSignature": "0|3|7|8|10|14|15",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -597,7 +629,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [D EH2 P AH0 Z IH1 SH AH0 N] -> target IH; onset D P Z; coda SH N. Variant: base.",
@@ -606,6 +637,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "D EH2 P AH0 Z IH1 SH AH0 N",
+    "plainRule": "STKP*EURPB",
+    "plainSignature": "0|1|2|3|9|10|11|13|14|15",
     "multiStroke": [
       "TKEP/S*EURPB"
     ],
@@ -618,7 +651,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [AE2 F AH0 D EY1 V AH0 T] -> target EY; onset F D; coda V T. Variant: base.",
@@ -627,6 +659,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "AE2 F AH0 D EY1 V AH0 T",
+    "plainRule": "TKPA*EUFT",
+    "plainSignature": "1|2|3|7|9|10|11|12|18",
     "multiStroke": [
       "AF/TKA*EUFT"
     ],
@@ -639,7 +673,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [K AH0 M P L EY1 N T] -> target EY; onset K M P L; coda N T. Variant: base.",
@@ -648,6 +681,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "K AH0 M P L EY1 N T",
+    "plainRule": "KPHRAEUPBT",
+    "plainSignature": "2|3|5|6|7|10|11|14|15|18",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -657,7 +692,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [P AH0 T IH1 SH AH0 N] -> target IH; onset P T; coda SH N. Variant: base.",
@@ -666,6 +700,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "P AH0 T IH1 SH AH0 N",
+    "plainRule": "TPEURPB",
+    "plainSignature": "1|3|10|11|13|14|15",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -675,7 +711,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [K AW1 N S AH0 L] -> target AW; onset K; coda N S L. Variant: base.",
@@ -684,6 +719,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "K AW1 N S AH0 L",
+    "plainRule": "KOUPBLS",
+    "plainSignature": "2|8|11|14|15|16|19",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -693,7 +730,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [P R AA2 S AH0 K Y UW1 SH AH0 N] -> target UW; onset P R S K; coda SH N. Variant: base.",
@@ -702,6 +738,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "P R AA2 S AH0 K Y UW1 SH AH0 N",
+    "plainRule": "SKPRAOURPB",
+    "plainSignature": "0|2|3|6|7|8|11|13|14|15",
     "multiStroke": [
       "PROBGS/AOURPB"
     ],
@@ -714,7 +752,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [D IH0 F EH1 N S] -> target EH; onset D F; coda N S. Variant: base.",
@@ -723,6 +760,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "D IH0 F EH1 N S",
+    "plainRule": "TKPEPBS",
+    "plainSignature": "1|2|3|10|14|15|19",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -732,7 +771,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [S EH1 T AH0 L M AH0 N T] -> target EH; onset S; coda T L M N T. Variant: base.",
@@ -741,6 +779,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "S EH1 T AH0 L M AH0 N T",
+    "plainRule": "SEPBLT",
+    "plainSignature": "0|10|14|15|16|18",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -750,7 +790,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [AA2 R B IH0 T R EY1 SH AH0 N] -> target EY; onset R B T R; coda SH N. Variant: base.",
@@ -759,6 +798,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "AA2 R B IH0 T R EY1 SH AH0 N",
+    "plainRule": "TPWRAEURPB",
+    "plainSignature": "1|3|4|6|7|10|11|13|14|15",
     "multiStroke": [
       "ORBT/RAEURPB"
     ],
@@ -771,7 +812,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [M IY2 D IY0 EY1 SH AH0 N] -> target EY; onset M D; coda SH N. Variant: base.",
@@ -780,6 +820,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "M IY2 D IY0 EY1 SH AH0 N",
+    "plainRule": "TKPHAEURPB",
+    "plainSignature": "1|2|3|5|7|10|11|13|14|15",
     "multiStroke": [
       "PHAOED/AEURPB"
     ],
@@ -792,7 +834,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [JH UH2 R AH0 S D IH1 K SH AH0 N] -> target IH; onset JH R S D; coda K SH N. Variant: base.",
@@ -801,6 +842,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "JH UH2 R AH0 S D IH1 K SH AH0 N",
+    "plainRule": "STKWREURPBG",
+    "plainSignature": "0|1|2|4|6|10|11|13|14|15|17",
     "multiStroke": [
       "SKWRAORS/TKEURPBG"
     ],
@@ -813,7 +856,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [V EH1 N Y UW0] -> target EH; onset V; coda N Y. Variant: base.",
@@ -822,6 +864,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "V EH1 N Y UW0",
+    "plainRule": "SREPB",
+    "plainSignature": "0|6|10|14|15",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -831,7 +875,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [F EH1 L AH0 N IY0] -> target EH; onset F; coda L N. Variant: base.",
@@ -840,6 +883,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "F EH1 L AH0 N IY0",
+    "plainRule": "TPEPBL",
+    "plainSignature": "1|3|10|14|15|16",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -849,7 +894,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [M IH2 S D AH0 M IY1 N ER0] -> target IY; onset M S D M; coda N R. Variant: base.",
@@ -858,6 +902,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "M IH2 S D AH0 M IY1 N ER0",
+    "plainRule": "STKPHAOERPB",
+    "plainSignature": "0|1|2|3|5|7|8|10|13|14|15",
     "multiStroke": [
       "PHEUSD/PHAOERPB"
     ],
@@ -870,7 +916,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [P R OW0 B EY1 SH AH0 N] -> target EY; onset P R B; coda SH N. Variant: base.",
@@ -879,6 +924,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "P R OW0 B EY1 SH AH0 N",
+    "plainRule": "PWRAEURPB",
+    "plainSignature": "3|4|6|7|10|11|13|14|15",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -888,7 +935,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [P ER0 OW1 L] -> target OW; onset P R; coda L. Variant: base.",
@@ -897,6 +943,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "P ER0 OW1 L",
+    "plainRule": "PROEL",
+    "plainSignature": "3|6|8|10|16",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -906,7 +954,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [AE1 L AH0 B AY2] -> target AE; onset none; coda L B. Variant: base.",
@@ -915,6 +962,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "AE1 L AH0 B AY2",
+    "plainRule": "ABL",
+    "plainSignature": "7|15|16",
     "multiStroke": [
       "AL/PWAOEU"
     ],
@@ -927,7 +976,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [ER0 EY1 N M AH0 N T] -> target EY; onset R; coda N M N T. Variant: base.",
@@ -936,6 +984,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "ER0 EY1 N M AH0 N T",
+    "plainRule": "RAEUPBLT",
+    "plainSignature": "6|7|10|11|14|15|16|18",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -945,7 +995,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [ER0 EH1 S T] -> target EH; onset R; coda FT. Variant: base.",
@@ -954,6 +1003,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "ER0 EH1 S T",
+    "plainRule": "REFT",
+    "plainSignature": "6|10|12|18",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -963,7 +1014,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [AH0 S AO1 L T] -> target AO; onset S; coda L T. Variant: base.",
@@ -972,6 +1022,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "AH0 S AO1 L T",
+    "plainRule": "SAULT",
+    "plainSignature": "0|7|11|16|18",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -981,7 +1033,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [B AE1 T ER0 IY0] -> target AE; onset B; coda T R. Variant: base.",
@@ -990,6 +1041,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "B AE1 T ER0 IY0",
+    "plainRule": "PWAERT",
+    "plainSignature": "3|4|7|10|13|18",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -999,7 +1052,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [B ER1 G L ER0 IY0] -> target ER; onset B; coda G L R. Variant: base.",
@@ -1008,6 +1060,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "B ER1 G L ER0 IY0",
+    "plainRule": "PWEURLG",
+    "plainSignature": "3|4|10|11|13|16|17",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -1017,7 +1071,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [CH AA1 R JH] -> target AA; onset CH; coda R JH. Variant: base.",
@@ -1026,6 +1079,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "CH AA1 R JH",
+    "plainRule": "KHARPBLG",
+    "plainSignature": "2|5|7|13|14|15|16|17",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -1035,7 +1090,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [S IH1 V AH0 L] -> target IH; onset S; coda V L. Variant: base.",
@@ -1044,6 +1098,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "S IH1 V AH0 L",
+    "plainRule": "S*EUFL",
+    "plainSignature": "0|9|10|11|12|16",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -1053,7 +1109,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [K L EY1 M] -> target EY; onset K L; coda M. Variant: base.",
@@ -1062,6 +1117,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "K L EY1 M",
+    "plainRule": "KHRAEUPL",
+    "plainSignature": "2|5|6|7|10|11|14|16",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -1071,7 +1128,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [K L AY1 AH0 N T] -> target AY; onset K L; coda N T. Variant: base.",
@@ -1080,6 +1136,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "K L AY1 AH0 N T",
+    "plainRule": "KHRAOEUPBT",
+    "plainSignature": "2|5|6|7|8|10|11|14|15|18",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -1089,7 +1147,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [K OW1 D] -> target OW; onset K; coda D. Variant: base.",
@@ -1098,6 +1155,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "K OW1 D",
+    "plainRule": "KOED",
+    "plainSignature": "2|8|10|20",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -1107,7 +1166,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [K AW1 N T] -> target AW; onset K; coda N T. Variant: base.",
@@ -1116,6 +1174,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "K AW1 N T",
+    "plainRule": "KOUPBT",
+    "plainSignature": "2|8|11|14|15|18",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -1125,7 +1185,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [K R AY1 M] -> target AY; onset K R; coda M. Variant: base.",
@@ -1134,6 +1193,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "K R AY1 M",
+    "plainRule": "KRAOEUPL",
+    "plainSignature": "2|6|7|8|10|11|14|16",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -1143,7 +1204,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [K R IH1 M AH0 N AH0 L] -> target IH; onset K R; coda M N L. Variant: base.",
@@ -1152,6 +1212,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "K R IH1 M AH0 N AH0 L",
+    "plainRule": "KREUPBL",
+    "plainSignature": "2|6|10|11|14|15|16",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -1161,7 +1223,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [K R AO1 S] -> target AO; onset K R; coda S. Variant: base.",
@@ -1170,6 +1231,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "K R AO1 S",
+    "plainRule": "KROS",
+    "plainSignature": "2|6|8|19",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -1179,7 +1242,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [IH0 G Z AE2 M AH0 N EY1 SH AH0 N] -> target EY; onset G Z M N; coda SH N. Variant: base.",
@@ -1188,6 +1250,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "IH0 G Z AE2 M AH0 N EY1 SH AH0 N",
+    "plainRule": "STKPWHA*EURPB",
+    "plainSignature": "0|1|2|3|4|5|7|9|10|11|13|14|15",
     "multiStroke": [
       "STKPWA*PL/TPHAEURPB"
     ],
@@ -1200,7 +1264,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [D AE1 M AH0 JH] -> target AE; onset D; coda M JH. Variant: base.",
@@ -1209,6 +1272,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "D AE1 M AH0 JH",
+    "plainRule": "TKAPBLG",
+    "plainSignature": "1|2|7|14|15|16|17",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -1218,7 +1283,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [D IH0 K R IY1] -> target IY; onset D K R; coda none. Variant: base.",
@@ -1227,6 +1291,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "D IH0 K R IY1",
+    "plainRule": "TKRAOE",
+    "plainSignature": "1|2|6|7|8|10",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -1236,7 +1302,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [D IY1 D] -> target IY; onset D; coda D. Variant: base.",
@@ -1245,6 +1310,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "D IY1 D",
+    "plainRule": "TKAOED",
+    "plainSignature": "1|2|7|8|10|20",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -1254,7 +1321,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [D IH0 F AO1 L T] -> target AO; onset D F; coda L T. Variant: base.",
@@ -1263,6 +1329,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "D IH0 F AO1 L T",
+    "plainRule": "TKPAULT",
+    "plainSignature": "1|2|3|7|11|16|18",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -1272,7 +1340,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [D IH0 M AE1 N D] -> target AE; onset D M; coda N D. Variant: base.",
@@ -1281,6 +1348,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "D IH0 M AE1 N D",
+    "plainRule": "TKPHAPBD",
+    "plainSignature": "1|2|3|5|7|14|15|20",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -1290,7 +1359,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [D IH0 T EH1 N SH AH0 N] -> target EH; onset D T; coda N SH N. Variant: base.",
@@ -1299,6 +1367,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "D IH0 T EH1 N SH AH0 N",
+    "plainRule": "TKERPB",
+    "plainSignature": "1|2|10|13|14|15",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -1308,7 +1378,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [D IH0 S K AH1 V ER0 IY0] -> target AH; onset D S K; coda V R. Variant: base.",
@@ -1317,6 +1386,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "D IH0 S K AH1 V ER0 IY0",
+    "plainRule": "STK*EUFR",
+    "plainSignature": "0|1|2|9|10|11|12|13",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -1326,7 +1397,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [D IH0 S M IH1 S] -> target IH; onset D S M; coda S. Variant: base.",
@@ -1335,6 +1405,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "D IH0 S M IH1 S",
+    "plainRule": "STKPHEUS",
+    "plainSignature": "0|1|2|3|5|10|11|19",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -1344,7 +1416,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [D IH0 S P Y UW1 T] -> target UW; onset D S P; coda T. Variant: base.",
@@ -1353,6 +1424,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "D IH0 S P Y UW1 T",
+    "plainRule": "STKPAOUT",
+    "plainSignature": "0|1|2|3|7|8|11|18",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -1362,7 +1435,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [D IH1 S T R IH0 K T] -> target IH; onset D; coda FT R K T. Variant: base.",
@@ -1371,6 +1443,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "D IH1 S T R IH0 K T",
+    "plainRule": "TKEUFRBGT",
+    "plainSignature": "1|2|10|11|12|13|15|17|18",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -1380,7 +1454,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [D AA1 K AH0 T] -> target AA; onset D; coda K T. Variant: base.",
@@ -1389,6 +1462,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "D AA1 K AH0 T",
+    "plainRule": "TKOBGT",
+    "plainSignature": "1|2|8|15|17|18",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -1398,7 +1473,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [D AA1 K Y AH0 M EH0 N T] -> target AA; onset D; coda K Y M N T. Variant: base.",
@@ -1407,6 +1481,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "D AA1 K Y AH0 M EH0 N T",
+    "plainRule": "TKOPBLGT",
+    "plainSignature": "1|2|8|14|15|16|17|18",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -1416,7 +1492,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [D AH0 M EH1 S T IH0 K] -> target EH; onset D M; coda FT K. Variant: base.",
@@ -1425,6 +1500,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "D AH0 M EH1 S T IH0 K",
+    "plainRule": "TKPHEFBGT",
+    "plainSignature": "1|2|3|5|10|12|15|17|18",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -1434,7 +1511,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [D R AH1 G] -> target AH; onset D R; coda G. Variant: base.",
@@ -1443,6 +1519,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "D R AH1 G",
+    "plainRule": "TKRUG",
+    "plainSignature": "1|2|6|11|17",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -1452,7 +1530,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [D UH1 R EH0 S] -> target UH; onset D; coda R S. Variant: base.",
@@ -1461,6 +1538,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "D UH1 R EH0 S",
+    "plainRule": "TKURS",
+    "plainSignature": "1|2|11|13|19",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -1470,7 +1549,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [D UW1 T IY0] -> target UW; onset D; coda T. Variant: base.",
@@ -1479,6 +1557,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "D UW1 T IY0",
+    "plainRule": "TKAOEUT",
+    "plainSignature": "1|2|7|8|10|11|18",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -1488,7 +1568,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [IY1 Z M AH0 N T] -> target IY; onset none; coda Z M N T. Variant: base.",
@@ -1497,6 +1576,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "IY1 Z M AH0 N T",
+    "plainRule": "AOEPBLTZ",
+    "plainSignature": "7|8|10|14|15|16|18|21",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -1506,7 +1587,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [EH0 M B EH1 Z AH0 L M AH0 N T] -> target EH; onset M B; coda Z L M N T. Variant: base.",
@@ -1515,6 +1595,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "EH0 M B EH1 Z AH0 L M AH0 N T",
+    "plainRule": "PWHEPBLTZ",
+    "plainSignature": "3|4|5|10|14|15|16|18|21",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -1524,7 +1606,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [EH1 K W AH0 T IY0] -> target EH; onset none; coda K W T. Variant: base.",
@@ -1533,6 +1614,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "EH1 K W AH0 T IY0",
+    "plainRule": "EBGT",
+    "plainSignature": "10|15|17|18",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -1542,7 +1625,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [IH0 S K EY1 P] -> target EY; onset S K; coda P. Variant: base.",
@@ -1551,6 +1633,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "IH0 S K EY1 P",
+    "plainRule": "SKAEUP",
+    "plainSignature": "0|2|7|10|11|14",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -1560,7 +1644,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [IH0 S T EY1 T] -> target EY; onset S T; coda T. Variant: base.",
@@ -1569,6 +1652,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "IH0 S T EY1 T",
+    "plainRule": "STAEUT",
+    "plainSignature": "0|1|7|10|11|18",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -1578,7 +1663,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [EH2 K S AH0 K Y UW1 SH AH0 N] -> target UW; onset K S K; coda SH N. Variant: base.",
@@ -1587,6 +1671,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "EH2 K S AH0 K Y UW1 SH AH0 N",
+    "plainRule": "SKAOURPB",
+    "plainSignature": "0|2|7|8|11|13|14|15",
     "multiStroke": [
       "EBGS/AOURPB"
     ],
@@ -1599,7 +1685,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [IH0 G Z EH1 K Y AH0 T ER0] -> target EH; onset G Z; coda K Y T R. Variant: base.",
@@ -1608,6 +1693,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "IH0 G Z EH1 K Y AH0 T ER0",
+    "plainRule": "STKPW*ERBGT",
+    "plainSignature": "0|1|2|3|4|9|10|13|15|17|18",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -1617,7 +1704,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [F AY1 L] -> target AY; onset F; coda L. Variant: base.",
@@ -1626,6 +1712,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "F AY1 L",
+    "plainRule": "TPAOEUL",
+    "plainSignature": "1|3|7|8|10|11|16",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -1635,7 +1723,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [F AY1 L IH0 NG] -> target AY; onset F; coda L NG. Variant: base.",
@@ -1644,6 +1731,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "F AY1 L IH0 NG",
+    "plainRule": "TPAOEUPBLG",
+    "plainSignature": "1|3|7|8|10|11|14|15|16|17",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -1653,7 +1742,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [F AY1 N] -> target AY; onset F; coda N. Variant: base.",
@@ -1662,6 +1750,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "F AY1 N",
+    "plainRule": "TPAOEUPB",
+    "plainSignature": "1|3|7|8|10|11|14|15",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -1671,7 +1761,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [F R AO1 D] -> target AO; onset F R; coda D. Variant: base.",
@@ -1680,6 +1769,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "F R AO1 D",
+    "plainRule": "TPRAUD",
+    "plainSignature": "1|3|6|7|11|20",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -1689,7 +1780,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [G R AE1 N D] -> target AE; onset G R; coda N D. Variant: base.",
@@ -1698,6 +1788,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "G R AE1 N D",
+    "plainRule": "TKPWRAPBD",
+    "plainSignature": "1|2|3|4|6|7|14|15|20",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -1707,7 +1799,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [G AA1 R D IY0 AH0 N] -> target AA; onset G; coda R D N. Variant: base.",
@@ -1716,6 +1807,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "G AA1 R D IY0 AH0 N",
+    "plainRule": "TKPWARPBD",
+    "plainSignature": "1|2|3|4|7|13|14|15|20",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -1725,7 +1818,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [G IH1 L T] -> target IH; onset G; coda L T. Variant: base.",
@@ -1734,6 +1826,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "G IH1 L T",
+    "plainRule": "TKPWEULT",
+    "plainSignature": "1|2|3|4|10|11|16|18",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -1743,7 +1837,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [HH AE1 B IY0 AH0 S] -> target AE; onset HH; coda B S. Variant: base.",
@@ -1752,6 +1845,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "HH AE1 B IY0 AH0 S",
+    "plainRule": "HABS",
+    "plainSignature": "5|7|15|19",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -1761,7 +1856,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [HH IY1 R S EY2] -> target IY; onset HH; coda R S. Variant: base.",
@@ -1770,6 +1864,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "HH IY1 R S EY2",
+    "plainRule": "HAOERS",
+    "plainSignature": "5|7|8|10|13|19",
     "multiStroke": [
       "HAOER/SAEU"
     ],
@@ -1782,7 +1878,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [HH AA1 M AH0 S AY2 D] -> target AA; onset HH; coda M S D. Variant: base.",
@@ -1791,6 +1886,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "HH AA1 M AH0 S AY2 D",
+    "plainRule": "HOPLSD",
+    "plainSignature": "5|8|14|16|19|20",
     "multiStroke": [
       "HOPL/SAOEUD"
     ],
@@ -1803,7 +1900,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [IH2 N D AY1 T M AH0 N T] -> target AY; onset N D; coda T M N T. Variant: base.",
@@ -1812,6 +1908,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "IH2 N D AY1 T M AH0 N T",
+    "plainRule": "TKPHAOEUPBLT",
+    "plainSignature": "1|2|3|5|7|8|10|11|14|15|16|18",
     "multiStroke": [
       "EUPB/TKAOEUPBLT"
     ],
@@ -1824,7 +1922,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [IH2 N JH AH1 NG K SH AH0 N] -> target AH; onset N JH; coda *PBG SH N. Variant: base.",
@@ -1833,6 +1930,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "IH2 N JH AH1 NG K SH AH0 N",
+    "plainRule": "STKPWHR*URPBG",
+    "plainSignature": "0|1|2|3|4|5|6|9|11|13|14|15|17",
     "multiStroke": [
       "EUPB/SKWR*URPBG"
     ],
@@ -1845,7 +1944,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [IH1 N AH0 S AH0 N T] -> target IH; onset none; coda N S N T. Variant: base.",
@@ -1854,6 +1952,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "IH1 N AH0 S AH0 N T",
+    "plainRule": "EUPBTS",
+    "plainSignature": "10|11|14|15|18|19",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -1863,7 +1963,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [IH2 N T EH1 N T] -> target EH; onset N T; coda N T. Variant: base.",
@@ -1872,6 +1971,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "IH2 N T EH1 N T",
+    "plainRule": "TPHEPBT",
+    "plainSignature": "1|3|5|10|14|15|18",
     "multiStroke": [
       "EUPB/TEPBT"
     ],
@@ -1884,7 +1985,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [IH2 N T EH2 R AH0 G EY1 SH AH0 N] -> target EY; onset N T R G; coda SH N. Variant: base+star.",
@@ -1893,6 +1993,8 @@
     "collisionResolved": true,
     "variant": "base+star",
     "cmudict": "IH2 N T EH2 R AH0 G EY1 SH AH0 N",
+    "plainRule": "TKPWHRAEURPB",
+    "plainSignature": "1|2|3|4|5|6|7|10|11|13|14|15",
     "multiStroke": [
       "EUPB/TKPWRAEURPB"
     ],
@@ -1905,7 +2007,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [JH EY1 L] -> target EY; onset JH; coda L. Variant: base.",
@@ -1914,6 +2015,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "JH EY1 L",
+    "plainRule": "SKWRAEUL",
+    "plainSignature": "0|2|4|6|7|10|11|16",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -1923,7 +2026,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [JH AH1 JH M AH0 N T] -> target AH; onset JH; coda JH M N T. Variant: base.",
@@ -1932,6 +2034,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "JH AH1 JH M AH0 N T",
+    "plainRule": "SKWRUPBLGT",
+    "plainSignature": "0|2|4|6|11|14|15|16|17|18",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -1941,7 +2045,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [JH UW0 D IH1 SH AH0 L] -> target IH; onset JH D; coda SH L. Variant: base.",
@@ -1950,6 +2053,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "JH UW0 D IH1 SH AH0 L",
+    "plainRule": "STKWREURBL",
+    "plainSignature": "0|1|2|4|6|10|11|13|15|16",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -1959,7 +2064,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [JH UW0 D IH1 SH IY0 EH2 R IY0] -> target IH; onset JH D; coda SH R. Variant: base.",
@@ -1968,6 +2072,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "JH UW0 D IH1 SH IY0 EH2 R IY0",
+    "plainRule": "STKWREURB",
+    "plainSignature": "0|1|2|4|6|10|11|13|15",
     "multiStroke": [
       "STKWREURB/ER"
     ],
@@ -1980,7 +2086,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [JH AH1 S T AH0 S] -> target AH; onset JH; coda FT S. Variant: base.",
@@ -1989,6 +2094,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "JH AH1 S T AH0 S",
+    "plainRule": "SKWRUFTS",
+    "plainSignature": "0|2|4|6|11|12|18|19",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -1998,7 +2105,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [JH UW1 V AH0 N AH0 L] -> target UW; onset JH; coda V N L. Variant: base.",
@@ -2007,6 +2113,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "JH UW1 V AH0 N AH0 L",
+    "plainRule": "SKWRAO*UFPBL",
+    "plainSignature": "0|2|4|6|7|8|9|11|12|14|15|16",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -2016,7 +2124,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [L AO1] -> target AO; onset L; coda none. Variant: base.",
@@ -2025,6 +2132,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "L AO1",
+    "plainRule": "HRAU",
+    "plainSignature": "5|6|7|11",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -2034,7 +2143,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [L AO1 S UW2 T] -> target AO; onset L; coda FT. Variant: base.",
@@ -2043,6 +2151,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "L AO1 S UW2 T",
+    "plainRule": "HRAUFT",
+    "plainSignature": "5|6|7|11|12|18",
     "multiStroke": [
       "HRAU/SAOUT"
     ],
@@ -2055,7 +2165,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [L IY1 S] -> target IY; onset L; coda S. Variant: base.",
@@ -2064,6 +2173,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "L IY1 S",
+    "plainRule": "HRAOES",
+    "plainSignature": "5|6|7|8|10|19",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -2073,7 +2184,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [L IY1 G AH0 L] -> target IY; onset L; coda G L. Variant: base.",
@@ -2082,6 +2192,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "L IY1 G AH0 L",
+    "plainRule": "HRAOELG",
+    "plainSignature": "5|6|7|8|10|16|17",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -2091,7 +2203,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [L EH1 JH AH0 S L EY2 CH ER0] -> target EH; onset L; coda JH S L CH R. Variant: base.",
@@ -2100,6 +2211,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "L EH1 JH AH0 S L EY2 CH ER0",
+    "plainRule": "HREFRPBLGS",
+    "plainSignature": "5|6|10|12|13|14|15|16|17|19",
     "multiStroke": [
       "HREPBLGS/HRAEUFRP"
     ],
@@ -2112,7 +2225,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [L AY1 B AH0 L] -> target AY; onset L; coda B L. Variant: base.",
@@ -2121,6 +2233,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "L AY1 B AH0 L",
+    "plainRule": "HRAOEUBL",
+    "plainSignature": "5|6|7|8|10|11|15|16",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -2130,7 +2244,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [L AY1 S AH0 N S] -> target AY; onset L; coda S N S. Variant: base.",
@@ -2139,6 +2252,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "L AY1 S AH0 N S",
+    "plainRule": "HRAOEUPBS",
+    "plainSignature": "5|6|7|8|10|11|14|15|19",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -2148,7 +2263,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [L IY1 N] -> target IY; onset L; coda N. Variant: base.",
@@ -2157,6 +2271,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "L IY1 N",
+    "plainRule": "HRAOEPB",
+    "plainSignature": "5|6|7|8|10|14|15",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -2166,7 +2282,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [L IH2 T AH0 G EY1 SH AH0 N] -> target EY; onset L T G; coda SH N. Variant: base+tag-D.",
@@ -2175,6 +2290,8 @@
     "collisionResolved": true,
     "variant": "base+tag-D",
     "cmudict": "L IH2 T AH0 G EY1 SH AH0 N",
+    "plainRule": "TKPWHRAEURPB",
+    "plainSignature": "1|2|3|4|5|6|7|10|11|13|14|15",
     "multiStroke": [
       "HREUT/TKPWAEURPB"
     ],
@@ -2187,7 +2304,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [M AE1 JH AH0 S T R EY2 T] -> target AE; onset M; coda JH FT R T. Variant: base.",
@@ -2196,6 +2312,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "M AE1 JH AH0 S T R EY2 T",
+    "plainRule": "PHAFRPBLGT",
+    "plainSignature": "3|5|7|12|13|14|15|16|17|18",
     "multiStroke": [
       "PHAPBLGS/TRAEUT"
     ],
@@ -2208,7 +2326,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [M AE1 L AH0 S] -> target AE; onset M; coda L S. Variant: base.",
@@ -2217,6 +2334,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "M AE1 L AH0 S",
+    "plainRule": "PHALS",
+    "plainSignature": "3|5|7|16|19",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -2226,7 +2345,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [M AE1 N S L AO2 T ER0] -> target AE; onset M; coda N S L T R. Variant: base.",
@@ -2235,6 +2353,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "M AE1 N S L AO2 T ER0",
+    "plainRule": "PHARPBLTS",
+    "plainSignature": "3|5|7|13|14|15|16|18|19",
     "multiStroke": [
       "PHAPB/SHRAURT"
     ],
@@ -2247,7 +2367,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [M EH1 R IH0 JH] -> target EH; onset M; coda R JH. Variant: base.",
@@ -2256,6 +2375,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "M EH1 R IH0 JH",
+    "plainRule": "PHERPBLG",
+    "plainSignature": "3|5|10|13|14|15|16|17",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -2265,7 +2386,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [M ER0 AE1 N D AH0] -> target AE; onset M R; coda N D. Variant: base.",
@@ -2274,6 +2394,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "M ER0 AE1 N D AH0",
+    "plainRule": "PHRAPBD",
+    "plainSignature": "3|5|6|7|14|15|20",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -2283,7 +2405,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [M IH0 S T R AY1 AH0 L] -> target AY; onset M S T R; coda L. Variant: base.",
@@ -2292,6 +2413,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "M IH0 S T R AY1 AH0 L",
+    "plainRule": "STPHRAOEUL",
+    "plainSignature": "0|1|3|5|6|7|8|10|11|16",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -2301,7 +2424,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [M AO1 R G AH0 JH] -> target AO; onset M; coda R G JH. Variant: base.",
@@ -2310,6 +2432,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "M AO1 R G AH0 JH",
+    "plainRule": "PHORPBLG",
+    "plainSignature": "3|5|8|13|14|15|16|17",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -2319,7 +2443,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [M ER1 D ER0] -> target ER; onset M; coda D R. Variant: base.",
@@ -2328,6 +2451,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "M ER1 D ER0",
+    "plainRule": "PHURD",
+    "plainSignature": "3|5|11|13|20",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -2337,7 +2462,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [N AH0 G OW1 SH AH0 B AH0 L] -> target OW; onset N G; coda SH B L. Variant: base.",
@@ -2346,6 +2470,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "N AH0 G OW1 SH AH0 B AH0 L",
+    "plainRule": "TKPWHOERBL",
+    "plainSignature": "1|2|3|4|5|8|10|13|15|16",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -2355,7 +2481,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [N OW1 T ER0 IY0] -> target OW; onset N; coda T R. Variant: base.",
@@ -2364,6 +2489,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "N OW1 T ER0 IY0",
+    "plainRule": "TPHOERT",
+    "plainSignature": "1|3|5|8|10|13|18",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -2373,7 +2500,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [N UW1 S AH0 N S] -> target UW; onset N; coda S N S. Variant: base.",
@@ -2382,6 +2508,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "N UW1 S AH0 N S",
+    "plainRule": "TPHAOUPBS",
+    "plainSignature": "1|3|5|7|8|11|14|15|19",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -2391,7 +2519,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [OW1 TH] -> target OW; onset none; coda TH. Variant: base.",
@@ -2400,6 +2527,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "OW1 TH",
+    "plainRule": "O*ET",
+    "plainSignature": "8|9|10|18",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -2409,7 +2538,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [AH0 F EH1 N S] -> target EH; onset F; coda N S. Variant: base.",
@@ -2418,6 +2546,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "AH0 F EH1 N S",
+    "plainRule": "TPEPBS",
+    "plainSignature": "1|3|10|14|15|19",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -2427,7 +2557,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [AO1 F ER0] -> target AO; onset none; coda F R. Variant: base.",
@@ -2436,6 +2565,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "AO1 F ER0",
+    "plainRule": "OFR",
+    "plainSignature": "8|12|13",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -2445,7 +2576,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [AO1 R AH0 L] -> target AO; onset none; coda R L. Variant: base.",
@@ -2454,6 +2584,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "AO1 R AH0 L",
+    "plainRule": "AURL",
+    "plainSignature": "7|11|13|16",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -2463,7 +2595,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [AO1 R D ER0] -> target AO; onset none; coda R D R. Variant: base.",
@@ -2472,6 +2603,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "AO1 R D ER0",
+    "plainRule": "ORD",
+    "plainSignature": "8|13|20",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -2481,7 +2614,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [AO1 R D AH0 N AH0 N S] -> target AO; onset none; coda R D N N S. Variant: base.",
@@ -2490,6 +2622,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "AO1 R D AH0 N AH0 N S",
+    "plainRule": "ORPBSD",
+    "plainSignature": "8|13|14|15|19|20",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -2499,7 +2633,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [P AA1 R D AH0 N] -> target AA; onset P; coda R D N. Variant: base.",
@@ -2508,6 +2641,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "P AA1 R D AH0 N",
+    "plainRule": "PORPBD",
+    "plainSignature": "3|8|13|14|15|20",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -2517,7 +2652,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [P AE1 T AH0 N T] -> target AE; onset P; coda T N T. Variant: base.",
@@ -2526,6 +2660,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "P AE1 T AH0 N T",
+    "plainRule": "PAPBT",
+    "plainSignature": "3|7|14|15|18",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -2535,7 +2671,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [P EH1 N AH0 L T IY0] -> target EH; onset P; coda N L T. Variant: base.",
@@ -2544,6 +2679,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "P EH1 N AH0 L T IY0",
+    "plainRule": "PEPBLT",
+    "plainSignature": "3|10|14|15|16|18",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -2553,7 +2690,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [P ER1 JH ER0 IY0] -> target ER; onset P; coda JH R. Variant: base.",
@@ -2562,6 +2698,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "P ER1 JH ER0 IY0",
+    "plainRule": "PEURPBLG",
+    "plainSignature": "3|10|11|13|14|15|16|17",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -2571,7 +2709,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [P L IY1] -> target IY; onset P L; coda none. Variant: base.",
@@ -2580,6 +2717,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "P L IY1",
+    "plainRule": "PHRAOE",
+    "plainSignature": "3|5|6|7|8|10",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -2589,7 +2728,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [P L IY1 D] -> target IY; onset P L; coda D. Variant: base.",
@@ -2598,6 +2736,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "P L IY1 D",
+    "plainRule": "PHRAOED",
+    "plainSignature": "3|5|6|7|8|10|20",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -2607,7 +2747,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [P AH0 L IY1 S] -> target IY; onset P L; coda S. Variant: base.",
@@ -2616,6 +2755,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "P AH0 L IY1 S",
+    "plainRule": "PHRAOES",
+    "plainSignature": "3|5|6|7|8|10|19",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -2625,7 +2766,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [P AH0 Z EH1 SH AH0 N] -> target EH; onset P Z; coda SH N. Variant: base.",
@@ -2634,6 +2774,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "P AH0 Z EH1 SH AH0 N",
+    "plainRule": "SP*ERPB",
+    "plainSignature": "0|3|9|10|13|14|15",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -2643,7 +2785,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [P AW1 ER0] -> target AW; onset P; coda R. Variant: base.",
@@ -2652,6 +2793,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "P AW1 ER0",
+    "plainRule": "POUR",
+    "plainSignature": "3|8|11|13",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -2661,7 +2804,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [P R EH1 S IH0 D AH0 N T] -> target EH; onset P R; coda S D N T. Variant: base.",
@@ -2670,6 +2812,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "P R EH1 S IH0 D AH0 N T",
+    "plainRule": "PREPBTSD",
+    "plainSignature": "3|6|10|14|15|18|19|20",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -2679,7 +2823,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [P R IH1 Z AH0 N] -> target IH; onset P R; coda Z N. Variant: base.",
@@ -2688,6 +2831,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "P R IH1 Z AH0 N",
+    "plainRule": "PREUPBZ",
+    "plainSignature": "3|6|10|11|14|15|21",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -2697,7 +2842,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [P R AY1 V AH0 S IY0] -> target AY; onset P R; coda V S. Variant: base.",
@@ -2706,6 +2850,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "P R AY1 V AH0 S IY0",
+    "plainRule": "PRAO*EUFS",
+    "plainSignature": "3|6|7|8|9|10|11|12|19",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -2715,7 +2861,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [P R IH1 V L AH0 JH] -> target IH; onset P R; coda V L JH. Variant: base.",
@@ -2724,6 +2869,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "P R IH1 V L AH0 JH",
+    "plainRule": "PR*EUFPBLG",
+    "plainSignature": "3|6|9|10|11|12|14|15|16|17",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -2733,7 +2880,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [P R AH0 S IY1 JH ER0] -> target IY; onset P R S; coda JH R. Variant: base.",
@@ -2742,6 +2888,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "P R AH0 S IY1 JH ER0",
+    "plainRule": "SPRAOERPBLG",
+    "plainSignature": "0|3|6|7|8|10|13|14|15|16|17",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -2751,7 +2899,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [P R AH0 S IY1 D IH0 NG] -> target IY; onset P R S; coda D NG. Variant: base.",
@@ -2760,6 +2907,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "P R AH0 S IY1 D IH0 NG",
+    "plainRule": "SPRAOEPBGD",
+    "plainSignature": "0|3|6|7|8|10|14|15|17|20",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -2769,7 +2918,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [P R AA1 S EH2 S] -> target AA; onset P R; coda S S. Variant: base.",
@@ -2778,6 +2926,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "P R AA1 S EH2 S",
+    "plainRule": "PROS",
+    "plainSignature": "3|6|8|19",
     "multiStroke": [
       "PRO/SES"
     ],
@@ -2790,7 +2940,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [P R AH0 T EH1 K SH AH0 N] -> target EH; onset P R T; coda K SH N. Variant: base.",
@@ -2799,6 +2948,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "P R AH0 T EH1 K SH AH0 N",
+    "plainRule": "TPRERPBG",
+    "plainSignature": "1|3|6|10|13|14|15|17",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -2808,7 +2959,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [P AH1 B L IH0 K] -> target AH; onset P; coda B L K. Variant: base.",
@@ -2817,6 +2967,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "P AH1 B L IH0 K",
+    "plainRule": "PUBLG",
+    "plainSignature": "3|11|15|16|17",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -2826,7 +2978,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [P AH1 N IH0 SH] -> target AH; onset P; coda N SH. Variant: base.",
@@ -2835,6 +2986,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "P AH1 N IH0 SH",
+    "plainRule": "PURPB",
+    "plainSignature": "3|11|13|14|15",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -2844,7 +2997,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [K W EH1 S CH AH0 N] -> target EH; onset K W; coda S CH N. Variant: base.",
@@ -2853,6 +3005,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "K W EH1 S CH AH0 N",
+    "plainRule": "KWEFPBS",
+    "plainSignature": "2|4|10|12|14|15|19",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -2862,7 +3016,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [R EY1 P] -> target EY; onset R; coda P. Variant: base.",
@@ -2871,6 +3024,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "R EY1 P",
+    "plainRule": "RAEUP",
+    "plainSignature": "6|7|10|11|14",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -2880,7 +3035,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [R IY1 Z AH0 N AH0 B AH0 L] -> target IY; onset R; coda Z N B L. Variant: base.",
@@ -2889,6 +3043,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "R IY1 Z AH0 N AH0 B AH0 L",
+    "plainRule": "RAOEPBLZ",
+    "plainSignature": "6|7|8|10|14|15|16|21",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -2898,7 +3054,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [R IH0 B AH1 T AH0 L] -> target AH; onset R B; coda T L. Variant: base.",
@@ -2907,6 +3062,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "R IH0 B AH1 T AH0 L",
+    "plainRule": "PWRULT",
+    "plainSignature": "3|4|6|11|16|18",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -2916,7 +3073,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [R AH0 K AO1 R D] -> target AO; onset R K; coda R D. Variant: base.",
@@ -2925,6 +3081,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "R AH0 K AO1 R D",
+    "plainRule": "KRORD",
+    "plainSignature": "2|6|8|13|20",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -2934,7 +3092,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [R IH0 K AH1 V R IY0] -> target AH; onset R K; coda V R. Variant: base.",
@@ -2943,6 +3100,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "R IH0 K AH1 V R IY0",
+    "plainRule": "KR*EUFR",
+    "plainSignature": "2|6|9|10|11|12|13",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -2952,7 +3111,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [R EH1 F ER0 AH0 N S] -> target EH; onset R; coda F R N S. Variant: base.",
@@ -2961,6 +3119,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "R EH1 F ER0 AH0 N S",
+    "plainRule": "REFRPBS",
+    "plainSignature": "6|10|12|13|14|15|19",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -2970,7 +3130,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [R IY0 HH IY1 R IH0 NG] -> target IY; onset R HH; coda R NG. Variant: base.",
@@ -2979,6 +3138,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "R IY0 HH IY1 R IH0 NG",
+    "plainRule": "HRAOERPBG",
+    "plainSignature": "5|6|7|8|10|13|14|15|17",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -2988,7 +3149,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [R IY0 L IY1 S] -> target IY; onset R L; coda S. Variant: base+star.",
@@ -2997,6 +3157,8 @@
     "collisionResolved": true,
     "variant": "base+star",
     "cmudict": "R IY0 L IY1 S",
+    "plainRule": "HRAOES",
+    "plainSignature": "5|6|7|8|10|19",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -3006,7 +3168,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [R IH0 M AE1 N D] -> target AE; onset R M; coda N D. Variant: base+star.",
@@ -3015,6 +3176,8 @@
     "collisionResolved": true,
     "variant": "base+star",
     "cmudict": "R IH0 M AE1 N D",
+    "plainRule": "PHRAPBD",
+    "plainSignature": "3|5|6|7|14|15|20",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -3024,7 +3187,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [R EH1 M AH0 D IY0] -> target EH; onset R; coda M D. Variant: base.",
@@ -3033,6 +3195,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "R EH1 M AH0 D IY0",
+    "plainRule": "REPLD",
+    "plainSignature": "6|10|14|16|20",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -3042,7 +3206,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [R IH0 M UW1 V AH0 L] -> target UW; onset R M; coda V L. Variant: base.",
@@ -3051,6 +3214,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "R IH0 M UW1 V AH0 L",
+    "plainRule": "PHRAO*UFL",
+    "plainSignature": "3|5|6|7|8|9|11|12|16",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -3060,7 +3225,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [R IH0 P IY1 T] -> target IY; onset R P; coda T. Variant: base.",
@@ -3069,6 +3233,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "R IH0 P IY1 T",
+    "plainRule": "PRAOET",
+    "plainSignature": "3|6|7|8|10|18",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -3078,7 +3244,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [R EH1 P R AH0 M AE2 N D] -> target EH; onset R; coda P R M N D. Variant: base.",
@@ -3087,6 +3252,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "R EH1 P R AH0 M AE2 N D",
+    "plainRule": "RERPBLD",
+    "plainSignature": "6|10|13|14|15|16|20",
     "multiStroke": [
       "RERP/PHAPBD"
     ],
@@ -3099,7 +3266,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [R IH0 K W EH1 S T] -> target EH; onset R K W; coda FT. Variant: base.",
@@ -3108,6 +3274,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "R IH0 K W EH1 S T",
+    "plainRule": "KWREFT",
+    "plainSignature": "2|4|6|10|12|18",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -3117,7 +3285,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [R IH0 S IH1 N D] -> target IH; onset R S; coda N D. Variant: base.",
@@ -3126,6 +3293,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "R IH0 S IH1 N D",
+    "plainRule": "SREUPBD",
+    "plainSignature": "0|6|10|11|14|15|20",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -3135,7 +3304,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [R EH2 S T IH0 T UW1 SH AH0 N] -> target UW; onset R S T T; coda SH N. Variant: base.",
@@ -3144,6 +3312,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "R EH2 S T IH0 T UW1 SH AH0 N",
+    "plainRule": "STRAOURPB",
+    "plainSignature": "0|1|6|7|8|11|13|14|15",
     "multiStroke": [
       "REFT/TAOURPB"
     ],
@@ -3156,7 +3326,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [R IY0 S T R EY1 N IH0 NG] -> target EY; onset R S T R; coda N NG. Variant: base.",
@@ -3165,6 +3334,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "R IY0 S T R EY1 N IH0 NG",
+    "plainRule": "STRAEUPBG",
+    "plainSignature": "0|1|6|7|10|11|14|15|17",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -3174,7 +3345,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [R IY0 T R AY1 AH0 L] -> target AY; onset R T R; coda L. Variant: base+star.",
@@ -3183,6 +3353,8 @@
     "collisionResolved": true,
     "variant": "base+star",
     "cmudict": "R IY0 T R AY1 AH0 L",
+    "plainRule": "TRAOEUL",
+    "plainSignature": "1|6|7|8|10|11|16",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -3192,7 +3364,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [R IH0 V ER1 S AH0 L] -> target ER; onset R V; coda S L. Variant: base.",
@@ -3201,6 +3372,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "R IH0 V ER1 S AH0 L",
+    "plainRule": "SRERLS",
+    "plainSignature": "0|6|10|13|16|19",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -3210,7 +3383,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [R IY2 V Y UW1] -> target UW; onset R V; coda none. Variant: base.",
@@ -3219,6 +3391,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "R IY2 V Y UW1",
+    "plainRule": "SRAOU",
+    "plainSignature": "0|6|7|8|11",
     "multiStroke": [
       "RAO*EF/AOU"
     ],
@@ -3231,7 +3405,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [R EH2 V AH0 K EY1 SH AH0 N] -> target EY; onset R V K; coda SH N. Variant: base.",
@@ -3240,6 +3413,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "R EH2 V AH0 K EY1 SH AH0 N",
+    "plainRule": "SKRAEURPB",
+    "plainSignature": "0|2|6|7|10|11|13|14|15",
     "multiStroke": [
       "R*EF/KAEURPB"
     ],
@@ -3252,7 +3427,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [R AY1 T] -> target AY; onset R; coda T. Variant: base.",
@@ -3261,6 +3435,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "R AY1 T",
+    "plainRule": "RAOEUT",
+    "plainSignature": "6|7|8|10|11|18",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -3270,7 +3446,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [R AA1 B ER0 IY0] -> target AA; onset R; coda B R. Variant: base.",
@@ -3279,6 +3454,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "R AA1 B ER0 IY0",
+    "plainRule": "ROERB",
+    "plainSignature": "6|8|10|13|15",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -3288,7 +3465,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [R UW1 L IH0 NG] -> target UW; onset R; coda L NG. Variant: base.",
@@ -3297,6 +3473,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "R UW1 L IH0 NG",
+    "plainRule": "RAOUPBLG",
+    "plainSignature": "6|7|8|11|14|15|16|17",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -3306,7 +3484,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [S ER1 CH] -> target ER; onset S; coda CH. Variant: base.",
@@ -3315,6 +3492,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "S ER1 CH",
+    "plainRule": "SEUFRP",
+    "plainSignature": "0|10|11|12|13|14",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -3324,7 +3503,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [S IY1 ZH ER0] -> target IY; onset S; coda ZH R. Variant: base.",
@@ -3333,6 +3511,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "S IY1 ZH ER0",
+    "plainRule": "SAOERB",
+    "plainSignature": "0|7|8|10|13|15",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -3342,7 +3522,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [S ER1 V AH0 S] -> target ER; onset S; coda V S. Variant: base.",
@@ -3351,6 +3530,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "S ER1 V AH0 S",
+    "plainRule": "S*EFRS",
+    "plainSignature": "0|9|10|12|13|19",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -3360,7 +3541,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [SH EH1 R AH0 F] -> target EH; onset SH; coda FRB. Variant: base.",
@@ -3369,6 +3549,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "SH EH1 R AH0 F",
+    "plainRule": "SHEFRB",
+    "plainSignature": "0|5|10|12|13|15",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -3378,7 +3560,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [S L AE1 N D ER0] -> target AE; onset S L; coda N D R. Variant: base.",
@@ -3387,6 +3568,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "S L AE1 N D ER0",
+    "plainRule": "SHRARPBD",
+    "plainSignature": "0|5|6|7|13|14|15|20",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -3397,7 +3580,6 @@
       "art-of-chording-website",
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [S T EY1] -> target EY; onset S T; coda none. Variant: base. The Art of Chording archive (sounds/ay_oy) supports the same STAEU form for \"stay\".",
@@ -3406,6 +3588,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "S T EY1",
+    "plainRule": "STAEU",
+    "plainSignature": "0|1|7|10|11",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -3415,7 +3599,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [S T IH2 P Y AH0 L EY1 SH AH0 N] -> target EY; onset S T P Y L; coda SH N. Variant: base.",
@@ -3424,6 +3607,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "S T IH2 P Y AH0 L EY1 SH AH0 N",
+    "plainRule": "STKPWHRAEURPB",
+    "plainSignature": "0|1|2|3|4|5|6|7|10|11|13|14|15",
     "multiStroke": [
       "STEUP/HRAEURPB"
     ],
@@ -3436,7 +3621,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [S UW1 T] -> target UW; onset S; coda T. Variant: base.",
@@ -3445,6 +3629,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "S UW1 T",
+    "plainRule": "SAOUT",
+    "plainSignature": "0|7|8|11|18",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -3454,7 +3640,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [S AH1 M ER0 IY0] -> target AH; onset S; coda M R. Variant: base.",
@@ -3463,6 +3648,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "S AH1 M ER0 IY0",
+    "plainRule": "SEURPL",
+    "plainSignature": "0|10|11|13|14|16",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -3472,7 +3659,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [S AH1 M AH0 N Z] -> target AH; onset S; coda M N Z. Variant: base.",
@@ -3481,6 +3667,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "S AH1 M AH0 N Z",
+    "plainRule": "SUPBLZ",
+    "plainSignature": "0|11|14|15|16|21",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -3490,7 +3678,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [S AH0 P R EH1 SH AH0 N] -> target EH; onset S P R; coda SH N. Variant: base.",
@@ -3499,6 +3686,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "S AH0 P R EH1 SH AH0 N",
+    "plainRule": "SPRERPB",
+    "plainSignature": "0|3|6|10|13|14|15",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -3508,7 +3697,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [SH UH1 R AH0 T IY0] -> target UH; onset SH; coda R T. Variant: base.",
@@ -3517,6 +3705,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "SH UH1 R AH0 T IY0",
+    "plainRule": "SHEURT",
+    "plainSignature": "0|5|10|11|13|18",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -3526,7 +3716,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [S AH0 S P EH1 K T] -> target EH; onset S S P; coda K T. Variant: base.",
@@ -3535,6 +3724,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "S AH0 S P EH1 K T",
+    "plainRule": "SPEBGT",
+    "plainSignature": "0|3|10|15|17|18",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -3544,7 +3735,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [T AE1 K S] -> target AE; onset T; coda BGS. Variant: base.",
@@ -3553,6 +3743,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "T AE1 K S",
+    "plainRule": "TABGS",
+    "plainSignature": "1|7|15|17|19",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -3562,7 +3754,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [T EH1 N AH0 N S IY0] -> target EH; onset T; coda N N S. Variant: base.",
@@ -3571,6 +3762,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "T EH1 N AH0 N S IY0",
+    "plainRule": "TEPBS",
+    "plainSignature": "1|10|14|15|19",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -3580,7 +3773,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [TH EH1 F T] -> target EH; onset TH; coda F T. Variant: base.",
@@ -3589,6 +3781,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "TH EH1 F T",
+    "plainRule": "THEFT",
+    "plainSignature": "1|5|10|12|18",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -3598,7 +3792,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [T AO1 R T] -> target AO; onset T; coda R T. Variant: base.",
@@ -3607,6 +3800,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "T AO1 R T",
+    "plainRule": "TORT",
+    "plainSignature": "1|8|13|18",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -3616,7 +3811,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [T R AH0 B Y UW1 N AH0 L] -> target UW; onset T R B; coda N L. Variant: base.",
@@ -3625,6 +3819,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "T R AH0 B Y UW1 N AH0 L",
+    "plainRule": "TPWRAOUPBL",
+    "plainSignature": "1|3|4|6|7|8|11|14|15|16",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -3634,7 +3830,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [T R AH1 S T] -> target AH; onset T R; coda FT. Variant: base.",
@@ -3643,6 +3838,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "T R AH1 S T",
+    "plainRule": "TRUFT",
+    "plainSignature": "1|6|11|12|18",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -3650,10 +3847,7 @@
     "outline": "HR",
     "signature": "5|6",
     "sourceIds": [
-      "plover-wiki-top-100",
-      "wikipedia-stenotype",
-      "steno-start-word-list",
-      "steno-start-rules"
+      "plover-wiki-top-100"
     ],
     "rule": "Top 100 left-hand L brief for 'will'. Wiki form: HR-; canonical engine form: HR.",
     "changed": true,
@@ -3661,6 +3855,8 @@
     "collisionResolved": false,
     "variant": "brief",
     "cmudict": "W IH1 L",
+    "plainRule": "WEUL",
+    "plainSignature": "4|10|11|16",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -3670,7 +3866,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [R IH1 T] -> target IH; onset W R; coda T. Variant: base.",
@@ -3679,6 +3874,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "R IH1 T",
+    "plainRule": "WREUT",
+    "plainSignature": "4|6|10|11|18",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -3688,7 +3885,6 @@
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Phoneme rules v1: CMUdict [R AO1 NG] -> target AO; onset W R; coda NG. Variant: base.",
@@ -3697,6 +3893,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "R AO1 NG",
+    "plainRule": "WROPBG",
+    "plainSignature": "4|6|8|14|15|17",
     "license": "CC-BY-SA-4.0"
   }
 ]

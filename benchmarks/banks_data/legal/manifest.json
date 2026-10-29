@@ -26,7 +26,7 @@
     "changedEntries": 6,
     "collisionResolved": 5,
     "multiStrokeEntries": 33,
-    "sourceIdsUsed": 6
+    "sourceIdsUsed": 5
   },
   "sources": [
     {
@@ -39,28 +39,43 @@
         "sources/art-of-chording/wayback-cdx.json",
         "sources/art-of-chording/wayback-evidence.json",
         "sources/art-of-chording/web-archive/LICENSE-EVIDENCE.md",
+        "sources/art-of-chording/web-archive/draft-work_brainstorming.html.html",
         "sources/art-of-chording/web-archive/draft-work_brainstorming.html.txt",
+        "sources/art-of-chording/web-archive/index.html",
         "sources/art-of-chording/web-archive/index.txt",
+        "sources/art-of-chording/web-archive/introduction.html",
         "sources/art-of-chording/web-archive/introduction.txt",
-        "sources/art-of-chording/web-archive/introduction_how-steno-works.html.txt",
+        "sources/art-of-chording/web-archive/introduction_how-steno-works.html",
         "sources/art-of-chording/web-archive/introduction_how-steno-works.txt",
+        "sources/art-of-chording/web-archive/introduction_theories-and-dictionaries.html.html",
         "sources/art-of-chording/web-archive/introduction_theories-and-dictionaries.html.txt",
+        "sources/art-of-chording/web-archive/introduction_why-this-book.html.html",
         "sources/art-of-chording/web-archive/introduction_why-this-book.html.txt",
+        "sources/art-of-chording/web-archive/layout.html",
         "sources/art-of-chording/web-archive/layout.txt",
+        "sources/art-of-chording/web-archive/layout_basic-number-bar.html.html",
         "sources/art-of-chording/web-archive/layout_basic-number-bar.html.txt",
+        "sources/art-of-chording/web-archive/layout_bottom-row.html.html",
         "sources/art-of-chording/web-archive/layout_bottom-row.html.txt",
+        "sources/art-of-chording/web-archive/layout_chorded-keyboard.html.html",
         "sources/art-of-chording/web-archive/layout_chorded-keyboard.html.txt",
+        "sources/art-of-chording/web-archive/layout_d-and-z.html.html",
         "sources/art-of-chording/web-archive/layout_d-and-z.html.txt",
+        "sources/art-of-chording/web-archive/layout_top-row.html.html",
         "sources/art-of-chording/web-archive/layout_top-row.html.txt",
+        "sources/art-of-chording/web-archive/multistroke.html",
         "sources/art-of-chording/web-archive/multistroke.txt",
+        "sources/art-of-chording/web-archive/multistroke_prefixes-and-suffixes.html.html",
         "sources/art-of-chording/web-archive/multistroke_prefixes-and-suffixes.html.txt",
-        "sources/art-of-chording/web-archive/pages.json",
+        "sources/art-of-chording/web-archive/sounds.html",
         "sources/art-of-chording/web-archive/sounds.txt",
+        "sources/art-of-chording/web-archive/sounds_aw_ow_-k.html.html",
         "sources/art-of-chording/web-archive/sounds_aw_ow_-k.html.txt",
+        "sources/art-of-chording/web-archive/sounds_ay_oy.html.html",
         "sources/art-of-chording/web-archive/sounds_ay_oy.html.txt"
       ],
-      "sha256": "533c3680f56c70f048651096b88cec9bda3062678a70261b78eb650b505f353f",
-      "bytes": 10554,
+      "sha256": "f675ed6a2696ffbc9552041f1a9d9beea4b03da2505e76bfae6cc9de1b8ceae6",
+      "bytes": 11412,
       "usedFor": "theory, chord examples and briefs",
       "modified": false,
       "retrieved": "2026-10-29",
@@ -85,6 +100,9 @@
       "url": "https://plover.wiki/index.php/Brief_Ideas",
       "license": "CC-BY (as stated in wiki footer)",
       "file": "sources/plover-wiki/brief-ideas.wiki",
+      "files": [
+        "sources/plover-wiki/LICENSE-EVIDENCE.md"
+      ],
       "sha256": "265f9cfa964004325fae43b0a7a1fd92b403174018699001ccf2ab71074bf290",
       "bytes": 3643,
       "usedFor": "brief patterns and examples",
@@ -124,6 +142,9 @@
       "url": "https://plover.wiki/index.php/Top_100_Words_in_Plover%27s_Dictionary",
       "license": "CC-BY (as stated in wiki footer)",
       "file": "sources/plover-wiki/top-100-words.wiki",
+      "files": [
+        "sources/plover-wiki/LICENSE-EVIDENCE.md"
+      ],
       "sha256": "f59888b30f2f28e7960c545cecfa766f0253aa81eb58d564382ae8b4b9e4a73c",
       "bytes": 16738,
       "usedFor": "public standard-form examples",
@@ -137,12 +158,12 @@
       "url": "local",
       "license": "CC-BY-SA-4.0",
       "file": "generator/RULES.md",
-      "sha256": "a95ed00267db48d4d2bded6a6e91d599ecc91008b56c5240371b34b73a739fc8",
-      "bytes": 9283,
+      "sha256": "a2a67bab3cea2ee630dd8e897c96cc1d5d68217ba36bdfb74814418e8aecca24",
+      "bytes": 9329,
       "usedFor": "phoneme rules, spelling adjustments and the Steno Start briefs layer",
       "modified": false,
       "retrieved": "2026-10-29",
-      "entryCount": 200
+      "entryCount": 199
     },
     {
       "id": "steno-start-word-list",
@@ -155,7 +176,7 @@
       "usedFor": "word selection",
       "modified": false,
       "retrieved": "2026-10-29",
-      "entryCount": 200
+      "entryCount": 0
     },
     {
       "id": "wikipedia-stenotype",
@@ -163,12 +184,15 @@
       "url": "https://en.wikipedia.org/wiki/Stenotype",
       "license": "CC-BY-SA-4.0",
       "file": "sources/wikipedia/stenotype.wiki",
+      "files": [
+        "sources/wikipedia/LICENSE-EVIDENCE.md"
+      ],
       "sha256": "9c2f02a0fda6c6faa794e7228105eb3c9f8e70ad7c1984fe518c5fb06caa6784",
       "bytes": 27699,
       "usedFor": "layout, chart and theory examples",
       "modified": false,
       "retrieved": "2026-10-29",
-      "entryCount": 200
+      "entryCount": 199
     }
   ],
   "outputs": {
@@ -181,12 +205,12 @@
       "bytes": 1060
     },
     "provenance/entries.json": {
-      "sha256": "352a32a7cfa3da1b0dfc72dc9f60c7589535b19fb2ad1766fd0bb621832ac344",
-      "bytes": 101646
+      "sha256": "9a05e200d289b98f4c58d4808ef97276e3c9f13b715fa3ca3563c2721e34fa6c",
+      "bytes": 109729
     },
     "validation/self_check.md": {
-      "sha256": "dca0ff4e88ebf0625a33d5bedf67a38ef1792cd33126a4719047b205dcb302c2",
-      "bytes": 3547
+      "sha256": "6c4bb5ff2d4f70b3748ba8945fe6303ed94ed911f104364ee804b438040ea949",
+      "bytes": 3373
     }
   },
   "notes": [

@@ -31,15 +31,18 @@ dictionary data must remain available under CC BY-SA 4.0. See `NOTICE`.
 
 ## Sources
 
-The source registry is `sources/sources.json`. External source files are not committed. Run `python3 scripts/fetch_sources.py` to download the pinned files into the ignored `sources/cache/` directory and verify their SHA-256 hashes. The registry records each source id, URL, pinned revision or archive timestamp, licence, hash and intended use.
+The source registry is `sources/sources.json`. It records the source id, URL,
+licence, file, SHA-256 and intended use.
 
 Allowed inputs:
 
 - CMUdict, BSD-2-Clause, pronunciation only.
-- Art of Chording, CC BY-SA 4.0, https://www.artofchording.com/.
 - Wikipedia: Stenotype, CC BY-SA 4.0.
 - Plover Wiki pages listed in the registry, CC BY as stated in the wiki footer.
 - The Steno Start authored 500-word list.
+- The local `steno-start-rules` document (`generator/RULES.md`), CC BY-SA 4.0.
+- Art of Chording, CC BY-SA 4.0 per the archived website footer. The archived
+  pages and evidence are in `sources/art-of-chording/web-archive/`.
 
 Excluded:
 
@@ -59,10 +62,44 @@ commercial release.
 | `engine/` | Clean-room 22-key parser and validator |
 | `sources/` | Source registry and open source extracts |
 | `provenance/` | Per-entry source records, hashes and build metadata |
-| `validation/` | Accuracy report against the pinned Plover reference |
+| `validation/` | Generated self-check; the parent adds the black-box report |
 | `scripts/` | Build, export and licence checks |
 | `LICENSES/` | Full licence texts |
 | `.github/workflows/` | CI for build, tests, provenance and licence checks |
+
+## Generated dictionary
+
+| File | Contents |
+|---|---|
+| `data/dictionary.json` | Flat `word -> single stroke` map for all 500 words |
+| `data/multi_stroke.json` | Optional `word -> STROKE/STROKE` expansions for words with more than one stressed vowel |
+| `data/manifest.json` | Counts, source list, output hashes and the exact build command |
+| `provenance/entries.json` | One record per word: outline, signature, source ids, rule/source description, changed flag |
+| `provenance/build.json` | Generator version/commit, command, date, input hashes and output hashes |
+| `validation/self_check.md` | Parse, 1-22 key, duplicate-key, uniqueness and coverage proofs |
+
+The generated dictionary has 500 unique single-stroke signatures: 104 brief
+entries and 396 rule-derived entries, with 4 documented collision
+disambiguations. Some rule-derived entries also cite an exact Art of Chording
+example. `data/multi_stroke.json` currently has 8 optional expansions; no word
+requires a multi-stroke form to be covered.
+
+The generator does not claim accuracy against Plover or any other dictionary.
+It is a rule-based, open-source derivation. The parent project runs the pinned
+black-box comparison and writes `validation/report.md`.
+
+## Build
+
+Dart is not installed on the host. The documented build and test command is:
+
+```sh
+docker run --rm -v /home/dev/Development/steno-start-open-dict-lab-clean:/workspace \
+  -w /workspace/generator revision-app-dev:latest \
+  sh -lc 'dart pub get && dart run bin/generate.dart && dart test'
+```
+
+`generator/RULES.md` documents the phoneme rules, spelling adjustments, the
+briefs layer and the deterministic collision handling.
 
 ## Build rules
 
@@ -74,5 +111,5 @@ commercial release.
 
 ## Status
 
-Sources and licence structure are compiled. The generator and dictionary are
-the next build.
+The generator, dictionary, provenance and self-check are built. The parent
+project runs the black-box Plover comparison and writes the accuracy report.
