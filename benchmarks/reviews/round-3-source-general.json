@@ -6,13 +6,15 @@
   "issues": [],
   "issue_counts": {},
   "flags": {
-    "multi_phone_coda": 372,
-    "collision_resolved_rule": 7,
-    "star_collision_rule": 7
+    "multi_phone_coda": 283,
+    "collision_resolved_rule": 14,
+    "star_collision_rule": 14
   },
   "source_id_counts": {
-    "cmudict": 500,
-    "wikipedia-stenotype": 500,
-    "steno-start-rules": 500
+    "cmudict": 498,
+    "wikipedia-stenotype": 498,
+    "steno-start-rules": 498,
+    "plover-wiki-brief-ideas": 1,
+    "art-of-chording-website": 2
   }
 }

@@ -63,11 +63,13 @@ No compatibility-only changes were made.
 | Everyday | 500 | 500 | 328 | 65.6% |
 | Legal | 200 | 199 | 59 | 29.5% |
 | Business | 199 | 197 | 71 | 35.7% |
-| General | 500 | 142 | 23 | 4.6% |
+| General | 500 | 500 | 215 | 43.0% |
 
 Source review: 0 issues.
 
-Round 3 is identical to round 2. There was no oscillation between rounds. The
+Round 3 kept the Basics, Everyday, Legal and Business results identical to round
+2, and replaced General with NGSL ranks 501-1000 after the product decision.
+There was no oscillation in the reviewed banks. The
 only data change across the three rounds was the source-supported `door` fix
 and the source-citation cleanup. The target, source accuracy, moved from 4
 review issues to 0; full compatibility moved from 391 to 392 exact Basics words.
@@ -81,8 +83,8 @@ These are not determined by the cited sources and were not changed:
 2. `-le` elision: `little` `HREUL`, `circle` `SEURBG`.
 3. Authored r-coloured `ER` mapping, which the chart does not contain.
 4. `use` sense: verb `AOUZ` or noun `AOUS`.
-5. General bank composition: 358 of 500 words are absent from the Plover
-   reference. Keep, replace with a frequency list, or drop.
+5. General bank composition: replaced with NGSL ranks 501-1000 by decision. All
+   500 words are present in the Plover reference.
 6. Alternative published forms: `my`, `we`, `she`, `go`, `most`, `even`, `but`.
 7. Multi-consonant coda packing: accept the single chord or require a
    multi-stroke form where the phone sequence cannot fit.

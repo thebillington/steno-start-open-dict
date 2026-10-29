@@ -7,8 +7,10 @@
       "name": "New General Service List",
       "url": "https://www.newgeneralservicelist.com/new-general-service-list",
       "license": "CC-BY-SA-4.0",
-      "usedFor": "Everyday 500 word selection",
-      "notes": "Top 500 alphabetic entries from the NGSL headword list."
+      "usedFor": "Everyday 500 (ranks 1-500) and General 500 (ranks 501-1000) word selection",
+      "notes": "Official NGSL 1.2 frequency list. Banks use ranks 1-500 and 501-1000.",
+      "version": "NGSL 1.2",
+      "listUrl": "https://www.newgeneralservicelist.com/s/NGSL_12_stats.csv"
     },
     {
       "id": "cmudict",

@@ -52,13 +52,13 @@
     {
       "name": "general",
       "words": 500,
-      "present": 142,
-      "missing": 358,
-      "exact": 23,
-      "exact_percent_all": 4.6,
-      "exact_percent_present": 16.2,
-      "mismatch_single": 26,
-      "multi_only": 93
+      "present": 500,
+      "missing": 0,
+      "exact": 215,
+      "exact_percent_all": 43.0,
+      "exact_percent_present": 43.0,
+      "mismatch_single": 285,
+      "multi_only": 0
     }
   ]
 }

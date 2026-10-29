@@ -23,11 +23,10 @@ reference. `present` is the number of bank words that the reference contains.
 | Everyday 500 | 500 | 500 | 328 / 500 = 65.6% | 65.6% |
 | Legal 200 | 200 | 199 | 59 / 200 = 29.5% | 59 / 199 = 29.6% |
 | Business 200 | 199 | 197 | 71 / 199 = 35.7% | 71 / 197 = 36.0% |
-| General 500 | 500 | 142 | 23 / 500 = 4.6% | 23 / 142 = 16.2% |
+| General 500 | 500 | 500 | 215 / 500 = 43.0% | 43.0% |
 
-The General bank is a random CMUdict sample. 358 of its 500 words are absent
-from the reference, so its all-word percentage is not comparable with the other
-banks. It needs a product decision.
+The General bank now uses NGSL ranks 501-1000. All 500 words are present in the
+reference; the earlier random CMUdict sample was replaced.
 
 The earlier 500-word teaching-subset comparison gave 319/500 (63.8%). That is a
 narrower reference with a single outline per word. It is retained in

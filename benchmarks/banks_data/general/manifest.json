@@ -21,12 +21,12 @@
     "words": 500,
     "dictionaryEntries": 500,
     "uniqueSignatures": 500,
-    "briefEntries": 0,
-    "ruleEntries": 500,
-    "changedEntries": 7,
-    "collisionResolved": 7,
-    "multiStrokeEntries": 87,
-    "sourceIdsUsed": 3
+    "briefEntries": 3,
+    "ruleEntries": 497,
+    "changedEntries": 17,
+    "collisionResolved": 14,
+    "multiStrokeEntries": 68,
+    "sourceIdsUsed": 5
   },
   "sources": [
     {
@@ -79,7 +79,7 @@
       "usedFor": "theory, chord examples and briefs",
       "modified": false,
       "retrieved": "2026-10-29",
-      "entryCount": 0
+      "entryCount": 2
     },
     {
       "id": "cmudict",
@@ -92,7 +92,7 @@
       "usedFor": "pronunciation",
       "modified": false,
       "retrieved": "2026-10-29",
-      "entryCount": 500
+      "entryCount": 498
     },
     {
       "id": "plover-wiki-brief-ideas",
@@ -108,7 +108,7 @@
       "usedFor": "brief patterns and examples",
       "modified": false,
       "retrieved": "2026-10-29",
-      "entryCount": 0
+      "entryCount": 1
     },
     {
       "id": "plover-wiki-cheat-sheets",
@@ -163,7 +163,7 @@
       "usedFor": "phoneme rules, spelling adjustments and the Steno Start briefs layer",
       "modified": false,
       "retrieved": "2026-10-29",
-      "entryCount": 500
+      "entryCount": 498
     },
     {
       "id": "steno-start-word-list",
@@ -171,8 +171,8 @@
       "url": "local",
       "license": "CC-BY-SA-4.0",
       "file": "data/source_words.txt",
-      "sha256": "14b67e422982ff9f4b7070da3830eaff83716e49fae9a2df9f788b6fb85b5346",
-      "bytes": 3987,
+      "sha256": "4cb0047b457581262162289cb3e4fb1475efe3085d56f56eaec3f18b886ce760",
+      "bytes": 3640,
       "usedFor": "word selection",
       "modified": false,
       "retrieved": "2026-10-29",
@@ -192,25 +192,25 @@
       "usedFor": "layout, chart and theory examples",
       "modified": false,
       "retrieved": "2026-10-29",
-      "entryCount": 500
+      "entryCount": 498
     }
   ],
   "outputs": {
     "data/dictionary.json": {
-      "sha256": "4dc858b223dd92d5eddfe5de95ad454b46ece5edb247c51f8207a1f3d875ca45",
-      "bytes": 11912
+      "sha256": "4ef13f62376ebd3a77741e667af9321f984b56fb14c97cbb72722ffcea6269ba",
+      "bytes": 11392
     },
     "data/multi_stroke.json": {
-      "sha256": "bbdf915cd60556dbf84c8fa54bb72bddc31520fb851983ee78aa9e773966e2fc",
-      "bytes": 2582
+      "sha256": "242a4644ec314991ce50c9214ac963835a026c37c338023af0e57d94b96494d8",
+      "bytes": 2005
     },
     "provenance/entries.json": {
-      "sha256": "2b19406287478cc0c5a48879dbb887e98cdfef5d41c4a720407e55913c700b80",
-      "bytes": 271925
+      "sha256": "1aa3a24899261495c10af9367c816d9d51634d53c172d3c59cbc9aaf8d628e80",
+      "bytes": 267312
     },
     "validation/self_check.md": {
-      "sha256": "7ac8bb19f3c7c05b7e9191e35146936ee0ec31e773f73c9735e95a760e93fdaf",
-      "bytes": 3437
+      "sha256": "8046dea6f7dd025a334be35254115a59e5ed73d20ebc450123767772b54101e3",
+      "bytes": 4280
     }
   },
   "notes": [

@@ -57,16 +57,15 @@
     {
       "id": "general",
       "name": "General 500",
-      "description": "Deterministic general-English sample from CMUdict.",
+      "description": "General English frequency list, NGSL ranks 501-1000.",
       "wordList": "benchmarks/wordlists/general-500.txt",
       "words": 500,
       "tier": "pro",
       "sourceIds": [
-        "cmudict",
-        "steno-start-benchmark-list"
+        "ngsl"
       ],
       "license": "CC-BY-SA-4.0",
-      "sha256": "14b67e422982ff9f4b7070da3830eaff83716e49fae9a2df9f788b6fb85b5346"
+      "sha256": "4cb0047b457581262162289cb3e4fb1475efe3085d56f56eaec3f18b886ce760"
     },
     {
       "id": "sentences",

@@ -26,12 +26,10 @@ published outline for that word.
 | Everyday 500 | 500 | 500 | 328 / 500 = 65.6% | 65.6% |
 | Legal 200 | 200 | 199 | 59 / 200 = 29.5% | 59 / 199 = 29.6% |
 | Business 200 | 199 | 197 | 71 / 199 = 35.7% | 71 / 197 = 36.0% |
-| General 500 | 500 | 142 | 23 / 500 = 4.6% | 23 / 142 = 16.2% |
+| General 500 | 500 | 500 | 215 / 500 = 43.0% | 43.0% |
 
-The General bank is a random CMUdict sample. 358 of its 500 words are absent
-from the Plover reference, so its all-word percentage is not comparable with
-the other banks. The bank is a poor compatibility target and a product decision
-is needed.
+The General bank now uses NGSL ranks 501-1000. All 500 words are present in the
+Plover reference; the earlier random CMUdict sample was replaced.
 
 The full machine-readable results are in `results-full.json`. The earlier
 500-word teaching-subset comparison is retained in `results.json`; it is a
