@@ -1,0 +1,286 @@
+{
+  "format": "steno-start-build",
+  "version": 1,
+  "generator": {
+    "name": "steno-start-open-dict-generator",
+    "version": "1.0.0",
+    "commit": "829fa5dd0271b341168cb3b3924a9bbb039f8d97"
+  },
+  "command": "docker run --rm -v /home/dev/Development/steno-start-open-dict-lab-clean:/workspace -w /workspace/generator revision-app-dev:latest sh -lc 'dart pub get && dart run bin/generate.dart && dart test'",
+  "date": "2026-10-29",
+  "referenceIds": [
+    "plover-wiki-top-100",
+    "plover-wiki-brief-ideas",
+    "plover-wiki-cheat-sheets",
+    "plover-wiki-theory",
+    "art-of-chording-website"
+  ],
+  "runtime": {
+    "dart": "3.13.5",
+    "platform": "linux"
+  },
+  "counts": {
+    "words": 500,
+    "dictionaryEntries": 500,
+    "uniqueSignatures": 500,
+    "briefEntries": 0,
+    "ruleEntries": 500,
+    "changedEntries": 7,
+    "collisionResolved": 7,
+    "multiStrokeEntries": 87,
+    "sourceIdsUsed": 4
+  },
+  "sourceRegistry": {
+    "path": "sources/sources.json",
+    "sha256": "43f052d10d9b5a74476d2d8c338abe8e122a7407090fabe765548372c945ffef"
+  },
+  "inputs": [
+    {
+      "path": "data/source_words.txt",
+      "sha256": "14b67e422982ff9f4b7070da3830eaff83716e49fae9a2df9f788b6fb85b5346",
+      "bytes": 3987
+    },
+    {
+      "path": "engine/lib/src/dictionary.dart",
+      "sha256": "ba2c8620d8ec8e3a6cd9d1fa9b9a3356a5d3f5627fe9390104b1bd5b1c3de687",
+      "bytes": 4556
+    },
+    {
+      "path": "engine/lib/src/key.dart",
+      "sha256": "04f52d175b9a275aa8d8a4c14d01dd956d68c5841e246ea5ef78240d6b28942e",
+      "bytes": 2823
+    },
+    {
+      "path": "engine/lib/src/sha256.dart",
+      "sha256": "f9e4ccfb7d9973ee884f404c63a8847ca4d3988fed94c11951ce46c5437ccc40",
+      "bytes": 4322
+    },
+    {
+      "path": "engine/lib/src/stroke.dart",
+      "sha256": "4f5a2087022bead7691b868d988742547a68d1e6413b3eb44ecd90559874726e",
+      "bytes": 6752
+    },
+    {
+      "path": "engine/lib/steno_engine.dart",
+      "sha256": "321cf7556eb64d981a064e7c1e41d721cbfcd05214dcdb2f2488b52ef25bcac0",
+      "bytes": 886
+    },
+    {
+      "path": "engine/pubspec.yaml",
+      "sha256": "1f15ff382268396910f15053dd62b8cbe6f045e02b12bf9fdb4545effdeecffd",
+      "bytes": 268
+    },
+    {
+      "path": "generator/RULES.md",
+      "sha256": "a95ed00267db48d4d2bded6a6e91d599ecc91008b56c5240371b34b73a739fc8",
+      "bytes": 9283
+    },
+    {
+      "path": "generator/bin/generate.dart",
+      "sha256": "b3435c924b05ed66324da8a6fb717b95755ca5b238c656b35af5bfe728e14a34",
+      "bytes": 625
+    },
+    {
+      "path": "generator/lib/src/briefs.dart",
+      "sha256": "c327bd32d5b74bdc2fea6906ea152ebab5945da9f00bac42c22364de3c6a1477",
+      "bytes": 29806
+    },
+    {
+      "path": "generator/lib/src/cmudict.dart",
+      "sha256": "faa8c22e59106dc1b1ecee258865007b4fe036aa1125d58d22456a8da06267d9",
+      "bytes": 4157
+    },
+    {
+      "path": "generator/lib/src/generator.dart",
+      "sha256": "0fb2042889db36f3e010d99e7ac38e2b2f12a59d51145eb9a5786264c7bfca88",
+      "bytes": 42215
+    },
+    {
+      "path": "generator/lib/src/rules.dart",
+      "sha256": "0a012a8b33540108a7bc166ebe8f863a920402eeeaea84b9587c8d5fcca66d77",
+      "bytes": 16590
+    },
+    {
+      "path": "generator/lib/steno_start_generator.dart",
+      "sha256": "1503702146bc48d057bbf7e4f8c88c1a0a48ba48aa64155e90491b5bdf862326",
+      "bytes": 367
+    },
+    {
+      "path": "generator/pubspec.yaml",
+      "sha256": "bd291360a99121f9803d6789e1bf60790d5c4ff9e88ad51c57caf94516e9d7a9",
+      "bytes": 347
+    },
+    {
+      "path": "sources/art-of-chording/wayback-cdx.json",
+      "sha256": "cd5fa24a90ae922ca93e03afafd61c7336aae8d2617b7b25d4fc8952cff8c33b",
+      "bytes": 2794
+    },
+    {
+      "path": "sources/art-of-chording/wayback-evidence.json",
+      "sha256": "30ddc40b5718b6949e89a70990f88db9943dcc93ea91d34b995ffb9b50da7403",
+      "bytes": 577
+    },
+    {
+      "path": "sources/art-of-chording/web-archive/LICENSE-EVIDENCE.md",
+      "sha256": "9c1c71fd542aef2d17afc333a376017b4cb090e674caae145634dfde97cefb27",
+      "bytes": 481
+    },
+    {
+      "path": "sources/art-of-chording/web-archive/draft-work_brainstorming.html.txt",
+      "sha256": "ac983f7ddae85f2d69eb48ccfc4ff1ae7c81a1d2ee49ee4d6f0252f7662db1a0",
+      "bytes": 4187
+    },
+    {
+      "path": "sources/art-of-chording/web-archive/index.txt",
+      "sha256": "8a5eb841ee0e1922a1a3bd5f8e533f2efc84ac702b0531cf34d604168335563f",
+      "bytes": 1100
+    },
+    {
+      "path": "sources/art-of-chording/web-archive/introduction.txt",
+      "sha256": "976df168852389005888ba468ed96e48f414b654c86ec366463ffe6c89b45ede",
+      "bytes": 867
+    },
+    {
+      "path": "sources/art-of-chording/web-archive/introduction_how-steno-works.html.txt",
+      "sha256": "dfd68b15fd4a9509cdbb979a17af616dfbff8169dc83c90434c70662de44f745",
+      "bytes": 17789
+    },
+    {
+      "path": "sources/art-of-chording/web-archive/introduction_how-steno-works.txt",
+      "sha256": "7f87c132f3f28d0998627959065dc051f256dfa7921b24a2b1ee5462d8de1192",
+      "bytes": 604
+    },
+    {
+      "path": "sources/art-of-chording/web-archive/introduction_theories-and-dictionaries.html.txt",
+      "sha256": "0e2edfd16f26db29629456b0761c842d8e2a82cd66d7ae4c3cf4e181c5a78517",
+      "bytes": 5793
+    },
+    {
+      "path": "sources/art-of-chording/web-archive/introduction_why-this-book.html.txt",
+      "sha256": "248948071f1fe792edcd4a5e6b017ecef5d7e4fd63fa72f92d0a2fc882c9613b",
+      "bytes": 1870
+    },
+    {
+      "path": "sources/art-of-chording/web-archive/layout.txt",
+      "sha256": "d377a620d7cdfd6e081f52315fb5a51a7de6b461f2255b6dd5c6af7caf3d5d34",
+      "bytes": 699
+    },
+    {
+      "path": "sources/art-of-chording/web-archive/layout_basic-number-bar.html.txt",
+      "sha256": "7df4516b6dc9d19fea9da0cb77cd78e75b4fc77663c3b5a5deed6c9c5c63940b",
+      "bytes": 3298
+    },
+    {
+      "path": "sources/art-of-chording/web-archive/layout_bottom-row.html.txt",
+      "sha256": "e93c97d16a29ce681c8d3dee14ed538266fdc6130db149321e77a6d8cf0cb64a",
+      "bytes": 3772
+    },
+    {
+      "path": "sources/art-of-chording/web-archive/layout_chorded-keyboard.html.txt",
+      "sha256": "2bc0f5909a5b7ab0e17d9b3fb3264f24b506ab4e5fb689e2240e2be4c74beb4e",
+      "bytes": 6022
+    },
+    {
+      "path": "sources/art-of-chording/web-archive/layout_d-and-z.html.txt",
+      "sha256": "7f87c132f3f28d0998627959065dc051f256dfa7921b24a2b1ee5462d8de1192",
+      "bytes": 604
+    },
+    {
+      "path": "sources/art-of-chording/web-archive/layout_top-row.html.txt",
+      "sha256": "7f87c132f3f28d0998627959065dc051f256dfa7921b24a2b1ee5462d8de1192",
+      "bytes": 604
+    },
+    {
+      "path": "sources/art-of-chording/web-archive/multistroke.txt",
+      "sha256": "7f87c132f3f28d0998627959065dc051f256dfa7921b24a2b1ee5462d8de1192",
+      "bytes": 604
+    },
+    {
+      "path": "sources/art-of-chording/web-archive/multistroke_prefixes-and-suffixes.html.txt",
+      "sha256": "94fb0b88efc0bb46a35efd076cbed9015acb7c6ff96ea4755d4a3ba22dcf6df9",
+      "bytes": 7652
+    },
+    {
+      "path": "sources/art-of-chording/web-archive/pages.json",
+      "sha256": "533c3680f56c70f048651096b88cec9bda3062678a70261b78eb650b505f353f",
+      "bytes": 10554
+    },
+    {
+      "path": "sources/art-of-chording/web-archive/sounds.txt",
+      "sha256": "d11f6a30ff8cb82bcbff4c3a2c03057673c320f663005f34b7e307732b8ec612",
+      "bytes": 1439
+    },
+    {
+      "path": "sources/art-of-chording/web-archive/sounds_aw_ow_-k.html.txt",
+      "sha256": "7f87c132f3f28d0998627959065dc051f256dfa7921b24a2b1ee5462d8de1192",
+      "bytes": 604
+    },
+    {
+      "path": "sources/art-of-chording/web-archive/sounds_ay_oy.html.txt",
+      "sha256": "4381ff88e0012d269df56e8e229db79a4173d9995eaa7086a4e945324352c16d",
+      "bytes": 2660
+    },
+    {
+      "path": "sources/cmudict/cmudict.dict",
+      "sha256": "81917843c7f44ce2b094ac63873c2c7a4cf802040792c455ba3ca406891c3d22",
+      "bytes": 3618488
+    },
+    {
+      "path": "sources/plover-wiki/brief-ideas.wiki",
+      "sha256": "265f9cfa964004325fae43b0a7a1fd92b403174018699001ccf2ab71074bf290",
+      "bytes": 3643
+    },
+    {
+      "path": "sources/plover-wiki/cheat-sheets.wiki",
+      "sha256": "444b9fad16a82518a22bcffa9ed3fdc8dea49b03b00f97adbf15a653ad3296ce",
+      "bytes": 2034
+    },
+    {
+      "path": "sources/plover-wiki/plover-theory.wiki",
+      "sha256": "3357b0f801236315bf2187c4c4058705bd2effdd15f4859f17c03cdccaa3a91b",
+      "bytes": 4537
+    },
+    {
+      "path": "sources/plover-wiki/top-100-words.wiki",
+      "sha256": "f59888b30f2f28e7960c545cecfa766f0253aa81eb58d564382ae8b4b9e4a73c",
+      "bytes": 16738
+    },
+    {
+      "path": "sources/sources.json",
+      "sha256": "43f052d10d9b5a74476d2d8c338abe8e122a7407090fabe765548372c945ffef",
+      "bytes": 6675
+    },
+    {
+      "path": "sources/wikipedia/stenotype.wiki",
+      "sha256": "9c2f02a0fda6c6faa794e7228105eb3c9f8e70ad7c1984fe518c5fb06caa6784",
+      "bytes": 27699
+    }
+  ],
+  "outputs": {
+    "data/dictionary.json": {
+      "sha256": "4dc858b223dd92d5eddfe5de95ad454b46ece5edb247c51f8207a1f3d875ca45",
+      "bytes": 11912
+    },
+    "data/multi_stroke.json": {
+      "sha256": "bbdf915cd60556dbf84c8fa54bb72bddc31520fb851983ee78aa9e773966e2fc",
+      "bytes": 2582
+    },
+    "provenance/entries.json": {
+      "sha256": "67a7ab326912f5adce95d62708b71efea3bdecb8f2f7882fa1ccc4c2f411dd91",
+      "bytes": 252258
+    },
+    "validation/self_check.md": {
+      "sha256": "d126deb2e552eb31b4023047868998f49d74b2c491cfe69b7ffccbd56048f91f",
+      "bytes": 3594
+    },
+    "data/manifest.json": {
+      "sha256": "2d051a26cc6981d9e258185dff7da5f6cca7ad57da2141450ea834aa5cdedbee",
+      "bytes": 8218
+    }
+  },
+  "notes": [
+    "All paths are relative to the repository root.",
+    "Input hashes cover the allowed source files, the clean engine and the generator source.",
+    "Build date is deterministic: it is the latest source retrieval date unless SOURCE_DATE_EPOCH is set."
+  ]
+}

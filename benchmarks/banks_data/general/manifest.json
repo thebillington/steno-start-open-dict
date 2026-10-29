@@ -1,0 +1,199 @@
+{
+  "format": "steno-start-dictionary-manifest",
+  "version": 1,
+  "license": "CC-BY-SA-4.0",
+  "generator": {
+    "name": "steno-start-open-dict-generator",
+    "version": "1.0.0",
+    "commit": "829fa5dd0271b341168cb3b3924a9bbb039f8d97"
+  },
+  "command": "docker run --rm -v /home/dev/Development/steno-start-open-dict-lab-clean:/workspace -w /workspace/generator revision-app-dev:latest sh -lc 'dart pub get && dart run bin/generate.dart && dart test'",
+  "date": "2026-10-29",
+  "dateBasis": "Latest source retrieval date; override with SOURCE_DATE_EPOCH.",
+  "referenceIds": [
+    "plover-wiki-top-100",
+    "plover-wiki-brief-ideas",
+    "plover-wiki-cheat-sheets",
+    "plover-wiki-theory",
+    "art-of-chording-website"
+  ],
+  "counts": {
+    "words": 500,
+    "dictionaryEntries": 500,
+    "uniqueSignatures": 500,
+    "briefEntries": 0,
+    "ruleEntries": 500,
+    "changedEntries": 7,
+    "collisionResolved": 7,
+    "multiStrokeEntries": 87,
+    "sourceIdsUsed": 4
+  },
+  "sources": [
+    {
+      "id": "art-of-chording-website",
+      "name": "Art of Chording website (Wayback archive)",
+      "url": "https://www.artofchording.com/",
+      "license": "CC-BY-SA-4.0",
+      "file": "sources/art-of-chording/web-archive/pages.json",
+      "files": [
+        "sources/art-of-chording/wayback-cdx.json",
+        "sources/art-of-chording/wayback-evidence.json",
+        "sources/art-of-chording/web-archive/LICENSE-EVIDENCE.md",
+        "sources/art-of-chording/web-archive/draft-work_brainstorming.html.txt",
+        "sources/art-of-chording/web-archive/index.txt",
+        "sources/art-of-chording/web-archive/introduction.txt",
+        "sources/art-of-chording/web-archive/introduction_how-steno-works.html.txt",
+        "sources/art-of-chording/web-archive/introduction_how-steno-works.txt",
+        "sources/art-of-chording/web-archive/introduction_theories-and-dictionaries.html.txt",
+        "sources/art-of-chording/web-archive/introduction_why-this-book.html.txt",
+        "sources/art-of-chording/web-archive/layout.txt",
+        "sources/art-of-chording/web-archive/layout_basic-number-bar.html.txt",
+        "sources/art-of-chording/web-archive/layout_bottom-row.html.txt",
+        "sources/art-of-chording/web-archive/layout_chorded-keyboard.html.txt",
+        "sources/art-of-chording/web-archive/layout_d-and-z.html.txt",
+        "sources/art-of-chording/web-archive/layout_top-row.html.txt",
+        "sources/art-of-chording/web-archive/multistroke.txt",
+        "sources/art-of-chording/web-archive/multistroke_prefixes-and-suffixes.html.txt",
+        "sources/art-of-chording/web-archive/pages.json",
+        "sources/art-of-chording/web-archive/sounds.txt",
+        "sources/art-of-chording/web-archive/sounds_aw_ow_-k.html.txt",
+        "sources/art-of-chording/web-archive/sounds_ay_oy.html.txt"
+      ],
+      "sha256": "533c3680f56c70f048651096b88cec9bda3062678a70261b78eb650b505f353f",
+      "bytes": 10554,
+      "usedFor": "theory, chord examples and briefs",
+      "modified": false,
+      "retrieved": "2026-10-29",
+      "entryCount": 0
+    },
+    {
+      "id": "cmudict",
+      "name": "CMU Pronouncing Dictionary",
+      "url": "https://github.com/cmusphinx/cmudict",
+      "license": "BSD-2-Clause",
+      "file": "sources/cmudict/cmudict.dict",
+      "sha256": "81917843c7f44ce2b094ac63873c2c7a4cf802040792c455ba3ca406891c3d22",
+      "bytes": 3618488,
+      "usedFor": "pronunciation",
+      "modified": false,
+      "retrieved": "2026-10-29",
+      "entryCount": 500
+    },
+    {
+      "id": "plover-wiki-brief-ideas",
+      "name": "Plover Wiki: Brief Ideas",
+      "url": "https://plover.wiki/index.php/Brief_Ideas",
+      "license": "CC-BY (as stated in wiki footer)",
+      "file": "sources/plover-wiki/brief-ideas.wiki",
+      "sha256": "265f9cfa964004325fae43b0a7a1fd92b403174018699001ccf2ab71074bf290",
+      "bytes": 3643,
+      "usedFor": "brief patterns and examples",
+      "modified": false,
+      "retrieved": "2026-10-29",
+      "entryCount": 0
+    },
+    {
+      "id": "plover-wiki-cheat-sheets",
+      "name": "Plover Wiki: Stenography Cheat Sheets",
+      "url": "https://plover.wiki/index.php/Stenography_Cheat_Sheets",
+      "license": "CC-BY (as stated in wiki footer)",
+      "file": "sources/plover-wiki/cheat-sheets.wiki",
+      "sha256": "444b9fad16a82518a22bcffa9ed3fdc8dea49b03b00f97adbf15a653ad3296ce",
+      "bytes": 2034,
+      "usedFor": "theory references",
+      "modified": false,
+      "retrieved": "2026-10-29",
+      "entryCount": 0
+    },
+    {
+      "id": "plover-wiki-theory",
+      "name": "Plover Wiki: Plover theory",
+      "url": "https://plover.wiki/index.php/Plover_theory",
+      "license": "CC-BY (as stated in wiki footer)",
+      "file": "sources/plover-wiki/plover-theory.wiki",
+      "sha256": "3357b0f801236315bf2187c4c4058705bd2effdd15f4859f17c03cdccaa3a91b",
+      "bytes": 4537,
+      "usedFor": "theory context",
+      "modified": false,
+      "retrieved": "2026-10-29",
+      "entryCount": 0
+    },
+    {
+      "id": "plover-wiki-top-100",
+      "name": "Plover Wiki: Top 100 Words in Plover's Dictionary",
+      "url": "https://plover.wiki/index.php/Top_100_Words_in_Plover%27s_Dictionary",
+      "license": "CC-BY (as stated in wiki footer)",
+      "file": "sources/plover-wiki/top-100-words.wiki",
+      "sha256": "f59888b30f2f28e7960c545cecfa766f0253aa81eb58d564382ae8b4b9e4a73c",
+      "bytes": 16738,
+      "usedFor": "public standard-form examples",
+      "modified": false,
+      "retrieved": "2026-10-29",
+      "entryCount": 0
+    },
+    {
+      "id": "steno-start-rules",
+      "name": "Steno Start generator rules and briefs layer",
+      "url": "local",
+      "license": "CC-BY-SA-4.0",
+      "file": "generator/RULES.md",
+      "sha256": "a95ed00267db48d4d2bded6a6e91d599ecc91008b56c5240371b34b73a739fc8",
+      "bytes": 9283,
+      "usedFor": "phoneme rules, spelling adjustments and the Steno Start briefs layer",
+      "modified": false,
+      "retrieved": "2026-10-29",
+      "entryCount": 500
+    },
+    {
+      "id": "steno-start-word-list",
+      "name": "Steno Start authored 500-word list",
+      "url": "local",
+      "license": "CC-BY-SA-4.0",
+      "file": "data/source_words.txt",
+      "sha256": "14b67e422982ff9f4b7070da3830eaff83716e49fae9a2df9f788b6fb85b5346",
+      "bytes": 3987,
+      "usedFor": "word selection",
+      "modified": false,
+      "retrieved": "2026-10-29",
+      "entryCount": 500
+    },
+    {
+      "id": "wikipedia-stenotype",
+      "name": "Wikipedia: Stenotype",
+      "url": "https://en.wikipedia.org/wiki/Stenotype",
+      "license": "CC-BY-SA-4.0",
+      "file": "sources/wikipedia/stenotype.wiki",
+      "sha256": "9c2f02a0fda6c6faa794e7228105eb3c9f8e70ad7c1984fe518c5fb06caa6784",
+      "bytes": 27699,
+      "usedFor": "layout, chart and theory examples",
+      "modified": false,
+      "retrieved": "2026-10-29",
+      "entryCount": 500
+    }
+  ],
+  "outputs": {
+    "data/dictionary.json": {
+      "sha256": "4dc858b223dd92d5eddfe5de95ad454b46ece5edb247c51f8207a1f3d875ca45",
+      "bytes": 11912
+    },
+    "data/multi_stroke.json": {
+      "sha256": "bbdf915cd60556dbf84c8fa54bb72bddc31520fb851983ee78aa9e773966e2fc",
+      "bytes": 2582
+    },
+    "provenance/entries.json": {
+      "sha256": "67a7ab326912f5adce95d62708b71efea3bdecb8f2f7882fa1ccc4c2f411dd91",
+      "bytes": 252258
+    },
+    "validation/self_check.md": {
+      "sha256": "d126deb2e552eb31b4023047868998f49d74b2c491cfe69b7ffccbd56048f91f",
+      "bytes": 3594
+    }
+  },
+  "notes": [
+    "Generated from CMUdict pronunciation, the Wikipedia Stenotype chart, the open Plover Wiki theory pages and the archived Art of Chording text listed in sources.json.",
+    "No Plover main.json, GPL dictionary or proprietary dictionary data is used.",
+    "Art of Chording is used through the Wayback archive recorded in sources/art-of-chording/web-archive/pages.json; the archive footer states CC BY-SA 4.0.",
+    "dictionary.json is a single-stroke teaching set. multi_stroke.json records optional two-stroke expansions for words with more than one stressed vowel.",
+    "Accuracy against any external Plover reference is not claimed here; the parent project runs that black-box backtest."
+  ]
+}

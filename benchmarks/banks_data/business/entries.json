@@ -1,0 +1,3686 @@
+[
+  {
+    "word": "company",
+    "outline": "KUFRPB",
+    "signature": "2|11|12|13|14|15",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [K AH1 M P AH0 N IY2] -> target AH; onset K; coda FRP N. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "K AH1 M P AH0 N IY2",
+    "multiStroke": [
+      "KUFRP/TPHAOE"
+    ],
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "business",
+    "outline": "PWEUPBSZ",
+    "signature": "3|4|10|11|14|15|19|21",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [B IH1 Z N AH0 S] -> target IH; onset B; coda Z N S. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "B IH1 Z N AH0 S",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "market",
+    "outline": "PHARBGT",
+    "signature": "3|5|7|13|15|17|18",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [M AA1 R K AH0 T] -> target AA; onset M; coda R K T. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "M AA1 R K AH0 T",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "customer",
+    "outline": "KUFRPLT",
+    "signature": "2|11|12|13|14|16|18",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [K AH1 S T AH0 M ER0] -> target AH; onset K; coda FT M R. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "K AH1 S T AH0 M ER0",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "client",
+    "outline": "KHRAOEUPBT",
+    "signature": "2|5|6|7|8|10|11|14|15|18",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [K L AY1 AH0 N T] -> target AY; onset K L; coda N T. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "K L AY1 AH0 N T",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "product",
+    "outline": "PROBGTD",
+    "signature": "3|6|8|15|17|18|20",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [P R AA1 D AH0 K T] -> target AA; onset P R; coda D K T. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "P R AA1 D AH0 K T",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "service",
+    "outline": "S*EFRS",
+    "signature": "0|9|10|12|13|19",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [S ER1 V AH0 S] -> target ER; onset S; coda V S. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "S ER1 V AH0 S",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "price",
+    "outline": "PRAOEUS",
+    "signature": "3|6|7|8|10|11|19",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [P R AY1 S] -> target AY; onset P R; coda S. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "P R AY1 S",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "cost",
+    "outline": "KOFT",
+    "signature": "2|8|12|18",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [K AA1 S T] -> target AA; onset K; coda FT. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "K AA1 S T",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "revenue",
+    "outline": "R*EFPB",
+    "signature": "6|9|10|12|14|15",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [R EH1 V AH0 N UW2] -> target EH; onset R; coda V N. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "R EH1 V AH0 N UW2",
+    "multiStroke": [
+      "R*EF/TPHAOU"
+    ],
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "profit",
+    "outline": "PROFT",
+    "signature": "3|6|8|12|18",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [P R AA1 F AH0 T] -> target AA; onset P R; coda F T. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "P R AA1 F AH0 T",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "loss",
+    "outline": "HROS",
+    "signature": "5|6|8|19",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [L AO1 S] -> target AO; onset L; coda S. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "L AO1 S",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "budget",
+    "outline": "PWUPBLGT",
+    "signature": "3|4|11|14|15|16|17|18",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [B AH1 JH IH0 T] -> target AH; onset B; coda JH T. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "B AH1 JH IH0 T",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "finance",
+    "outline": "TPHAPBS",
+    "signature": "1|3|5|7|14|15|19",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [F AH0 N AE1 N S] -> target AE; onset F N; coda N S. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "F AH0 N AE1 N S",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "account",
+    "outline": "KOUPBT",
+    "signature": "2|8|11|14|15|18",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [AH0 K AW1 N T] -> target AW; onset K; coda N T. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "AH0 K AW1 N T",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "invoice",
+    "outline": "*EUFPBS",
+    "signature": "9|10|11|12|14|15|19",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [IH1 N V OY0 S] -> target IH; onset none; coda N V S. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "IH1 N V OY0 S",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "payment",
+    "outline": "PAEUPBLT",
+    "signature": "3|7|10|11|14|15|16|18",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [P EY1 M AH0 N T] -> target EY; onset P; coda M N T. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "P EY1 M AH0 N T",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "contract",
+    "outline": "KORPBGT",
+    "signature": "2|8|13|14|15|17|18",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [K AA1 N T R AE2 K T] -> target AA; onset K; coda N T R K T. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "K AA1 N T R AE2 K T",
+    "multiStroke": [
+      "KOPB/TRABGT"
+    ],
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "supplier",
+    "outline": "SPHRAOEUR",
+    "signature": "0|3|5|6|7|8|10|11|13",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [S AH0 P L AY1 ER0] -> target AY; onset S P L; coda R. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "S AH0 P L AY1 ER0",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "vendor",
+    "outline": "SRERPBD",
+    "signature": "0|6|10|13|14|15|20",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [V EH1 N D ER0] -> target EH; onset V; coda N D R. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "V EH1 N D ER0",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "employee",
+    "outline": "PHROEU",
+    "signature": "3|5|6|8|10|11",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [EH0 M P L OY1 IY0] -> target OY; onset M P L; coda none. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "EH0 M P L OY1 IY0",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "manager",
+    "outline": "PHARPBG",
+    "signature": "3|5|7|13|14|15|17",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [M AE1 N AH0 JH ER0] -> target AE; onset M; coda PBG R. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "M AE1 N AH0 JH ER0",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "director",
+    "outline": "TKRERBGT",
+    "signature": "1|2|6|10|13|15|17|18",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [D ER0 EH1 K T ER0] -> target EH; onset D R; coda K T R. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "D ER0 EH1 K T ER0",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "board",
+    "outline": "PWORD",
+    "signature": "3|4|8|13|20",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [B AO1 R D] -> target AO; onset B; coda R D. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "B AO1 R D",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "meeting",
+    "outline": "PHAOEPBGT",
+    "signature": "3|5|7|8|10|14|15|17|18",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [M IY1 T IH0 NG] -> target IY; onset M; coda T NG. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "M IY1 T IH0 NG",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "project",
+    "outline": "PROPBLGT",
+    "signature": "3|6|8|14|15|16|17|18",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [P R AA1 JH EH0 K T] -> target AA; onset P R; coda JH K T. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "P R AA1 JH EH0 K T",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "deadline",
+    "outline": "TKAEPBLD",
+    "signature": "1|2|7|10|14|15|16|20",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [D EH1 D L AY2 N] -> target EH; onset D; coda D L N. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "D EH1 D L AY2 N",
+    "multiStroke": [
+      "TKAED/HRAOEUPB"
+    ],
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "report",
+    "outline": "PRORT",
+    "signature": "3|6|8|13|18",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [R IY0 P AO1 R T] -> target AO; onset R P; coda R T. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "R IY0 P AO1 R T",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "strategy",
+    "outline": "STRAEPBLGT",
+    "signature": "0|1|6|7|10|14|15|16|17|18",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [S T R AE1 T AH0 JH IY0] -> target AE; onset S T R; coda T JH. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "S T R AE1 T AH0 JH IY0",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "sales",
+    "outline": "SAEULZ",
+    "signature": "0|7|10|11|16|21",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [S EY1 L Z] -> target EY; onset S; coda L Z. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "S EY1 L Z",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "marketing",
+    "outline": "PHARPBGT",
+    "signature": "3|5|7|13|14|15|17|18",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [M AA1 R K AH0 T IH0 NG] -> target AA; onset M; coda R K T NG. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "M AA1 R K AH0 T IH0 NG",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "brand",
+    "outline": "PWRAPBD",
+    "signature": "3|4|6|7|14|15|20",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [B R AE1 N D] -> target AE; onset B R; coda N D. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "B R AE1 N D",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "campaign",
+    "outline": "KPHAEUPB",
+    "signature": "2|3|5|7|10|11|14|15",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [K AE0 M P EY1 N] -> target EY; onset K M P; coda N. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "K AE0 M P EY1 N",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "growth",
+    "outline": "TKPWRO*ET",
+    "signature": "1|2|3|4|6|8|9|10|18",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [G R OW1 TH] -> target OW; onset G R; coda TH. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "G R OW1 TH",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "investment",
+    "outline": "STPHREFPBLT",
+    "signature": "0|1|3|5|6|10|12|14|15|16|18",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [IH2 N V EH1 S T M AH0 N T] -> target EH; onset N V; coda FT M N T. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "IH2 N V EH1 S T M AH0 N T",
+    "multiStroke": [
+      "EUPB/SREFPBLT"
+    ],
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "shareholder",
+    "outline": "SHERLD",
+    "signature": "0|5|10|13|16|20",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [SH EH1 R HH OW2 L D ER0] -> target EH; onset SH; coda R HH L D R. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "SH EH1 R HH OW2 L D ER0",
+    "multiStroke": [
+      "SHER/HOERLD"
+    ],
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "margin",
+    "outline": "PHARPBLG",
+    "signature": "3|5|7|13|14|15|16|17",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [M AA1 R JH AH0 N] -> target AA; onset M; coda R JH N. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "M AA1 R JH AH0 N",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "cash",
+    "outline": "KARB",
+    "signature": "2|7|13|15",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [K AE1 SH] -> target AE; onset K; coda SH. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "K AE1 SH",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "flow",
+    "outline": "TPHROE",
+    "signature": "1|3|5|6|8|10",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [F L OW1] -> target OW; onset F L; coda none. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "F L OW1",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "capital",
+    "outline": "KAPLT",
+    "signature": "2|7|14|16|18",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [K AE1 P AH0 T AH0 L] -> target AE; onset K; coda P T L. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "K AE1 P AH0 T AH0 L",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "asset",
+    "outline": "AFT",
+    "signature": "7|12|18",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [AE1 S EH2 T] -> target AE; onset none; coda FT. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "AE1 S EH2 T",
+    "multiStroke": [
+      "A/SET"
+    ],
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "equity",
+    "outline": "EBGT",
+    "signature": "10|15|17|18",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [EH1 K W AH0 T IY0] -> target EH; onset none; coda K W T. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "EH1 K W AH0 T IY0",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "debt",
+    "outline": "TKET",
+    "signature": "1|2|10|18",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [D EH1 T] -> target EH; onset D; coda T. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "D EH1 T",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "loan",
+    "outline": "HROEPB",
+    "signature": "5|6|8|10|14|15",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [L OW1 N] -> target OW; onset L; coda N. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "L OW1 N",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "credit",
+    "outline": "KRETD",
+    "signature": "2|6|10|18|20",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [K R EH1 D AH0 T] -> target EH; onset K R; coda D T. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "K R EH1 D AH0 T",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "debit",
+    "outline": "TKEBT",
+    "signature": "1|2|10|15|18",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [D EH1 B IH0 T] -> target EH; onset D; coda B T. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "D EH1 B IH0 T",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "bank",
+    "outline": "PWA*PBG",
+    "signature": "3|4|7|9|14|15|17",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [B AE1 NG K] -> target AE; onset B; coda *PBG. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "B AE1 NG K",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "tax",
+    "outline": "TABGS",
+    "signature": "1|7|15|17|19",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [T AE1 K S] -> target AE; onset T; coda BGS. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "T AE1 K S",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "audit",
+    "outline": "AUTD",
+    "signature": "7|11|18|20",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [AO1 D IH0 T] -> target AO; onset none; coda D T. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "AO1 D IH0 T",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "balance",
+    "outline": "PWAPBLS",
+    "signature": "3|4|7|14|15|16|19",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [B AE1 L AH0 N S] -> target AE; onset B; coda L N S. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "B AE1 L AH0 N S",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "sheet",
+    "outline": "SHAOET",
+    "signature": "0|5|7|8|10|18",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [SH IY1 T] -> target IY; onset SH; coda T. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "SH IY1 T",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "income",
+    "outline": "EUPBLG",
+    "signature": "10|11|14|15|16|17",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [IH1 N K AH2 M] -> target IH; onset none; coda N K M. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "IH1 N K AH2 M",
+    "multiStroke": [
+      "EUPB/KUPL"
+    ],
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "expense",
+    "outline": "SKPEPBS",
+    "signature": "0|2|3|10|14|15|19",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [IH0 K S P EH1 N S] -> target EH; onset K S P; coda N S. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "IH0 K S P EH1 N S",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "forecast",
+    "outline": "TPORBGTS",
+    "signature": "1|3|8|13|15|17|18|19",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [F AO1 R K AE2 S T] -> target AO; onset F; coda R BGS T. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "F AO1 R K AE2 S T",
+    "multiStroke": [
+      "TPOR/KAFT"
+    ],
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "quarter",
+    "outline": "KWORT",
+    "signature": "2|4|8|13|18",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [K W AO1 R T ER0] -> target AO; onset K W; coda R T R. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "K W AO1 R T ER0",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "annual",
+    "outline": "APBL",
+    "signature": "7|14|15|16",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [AE1 N Y UW0 AH0 L] -> target AE; onset none; coda N Y L. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "AE1 N Y UW0 AH0 L",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "monthly",
+    "outline": "PH*EUPBLT",
+    "signature": "3|5|9|10|11|14|15|16|18",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [M AH1 N TH L IY0] -> target AH; onset M; coda N TH L. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "M AH1 N TH L IY0",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "weekly",
+    "outline": "WAOEBLG",
+    "signature": "4|7|8|10|15|16|17",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [W IY1 K L IY0] -> target IY; onset W; coda K L. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "W IY1 K L IY0",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "daily",
+    "outline": "TKAEUL",
+    "signature": "1|2|7|10|11|16",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [D EY1 L IY0] -> target EY; onset D; coda L. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "D EY1 L IY0",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "target",
+    "outline": "TARGT",
+    "signature": "1|7|13|17|18",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [T AA1 R G AH0 T] -> target AA; onset T; coda R G T. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "T AA1 R G AH0 T",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "goal",
+    "outline": "TKPWOEL",
+    "signature": "1|2|3|4|8|10|16",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [G OW1 L] -> target OW; onset G; coda L. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "G OW1 L",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "plan",
+    "outline": "PHRAPB",
+    "signature": "3|5|6|7|14|15",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [P L AE1 N] -> target AE; onset P L; coda N. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "P L AE1 N",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "launch",
+    "outline": "HRAUFRPBLG",
+    "signature": "5|6|7|11|12|13|14|15|16|17",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [L AO1 N CH] -> target AO; onset L; coda FRPBLG. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "L AO1 N CH",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "pitch",
+    "outline": "PEUFP",
+    "signature": "3|10|11|12|14",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [P IH1 CH] -> target IH; onset P; coda CH. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "P IH1 CH",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "proposal",
+    "outline": "PROELZ",
+    "signature": "3|6|8|10|16|21",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [P R AH0 P OW1 Z AH0 L] -> target OW; onset P R P; coda Z L. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "P R AH0 P OW1 Z AH0 L",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "negotiation",
+    "outline": "STKPWHAEURPB",
+    "signature": "0|1|2|3|4|5|7|10|11|13|14|15",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [N IH0 G OW2 SH IY0 EY1 SH AH0 N] -> target EY; onset N G SH; coda SH N. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "N IH0 G OW2 SH IY0 EY1 SH AH0 N",
+    "multiStroke": [
+      "TKPWHOERB/AEURPB"
+    ],
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "deal",
+    "outline": "TKAOEL",
+    "signature": "1|2|7|8|10|16",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [D IY1 L] -> target IY; onset D; coda L. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "D IY1 L",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "partnership",
+    "outline": "PARPBT",
+    "signature": "3|7|13|14|15|18",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [P AA1 R T N ER0 SH IH2 P] -> target AA; onset P; coda R T N R SH P. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "P AA1 R T N ER0 SH IH2 P",
+    "multiStroke": [
+      "PARPBT/SHEUP"
+    ],
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "merger",
+    "outline": "PHERPBLG",
+    "signature": "3|5|10|13|14|15|16|17",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [M ER1 JH ER0] -> target ER; onset M; coda JH R. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "M ER1 JH ER0",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "acquisition",
+    "outline": "SKW*EURPB",
+    "signature": "0|2|4|9|10|11|13|14|15",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [AE2 K W AH0 Z IH1 SH AH0 N] -> target IH; onset K W Z; coda SH N. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "AE2 K W AH0 Z IH1 SH AH0 N",
+    "multiStroke": [
+      "ABG/S*EURPB"
+    ],
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "startup",
+    "outline": "STARPT",
+    "signature": "0|1|7|13|14|18",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [S T AA1 R T AH2 P] -> target AA; onset S T; coda R T P. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "S T AA1 R T AH2 P",
+    "multiStroke": [
+      "STAR/TUP"
+    ],
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "enterprise",
+    "outline": "ERPBTZ",
+    "signature": "10|13|14|15|18|21",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [EH1 N T ER0 P R AY2 Z] -> target EH; onset none; coda N T R P R Z. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "EH1 N T ER0 P R AY2 Z",
+    "multiStroke": [
+      "ERPBT/RAOEUZ"
+    ],
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "industry",
+    "outline": "EUFRPBTD",
+    "signature": "10|11|12|13|14|15|18|20",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [IH1 N D AH0 S T R IY0] -> target IH; onset none; coda N D FT R. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "IH1 N D AH0 S T R IY0",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "sector",
+    "outline": "SERBGT",
+    "signature": "0|10|13|15|17|18",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [S EH1 K T ER0] -> target EH; onset S; coda K T R. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "S EH1 K T ER0",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "competitor",
+    "outline": "KPHERT",
+    "signature": "2|3|5|10|13|18",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [K AH0 M P EH1 T AH0 T ER0] -> target EH; onset K M P; coda T T R. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "K AH0 M P EH1 T AH0 T ER0",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "consumer",
+    "outline": "STKPHAOURPL",
+    "signature": "0|1|2|3|5|7|8|11|13|14|16",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [K AH0 N S UW1 M ER0] -> target UW; onset K N S; coda M R. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "K AH0 N S UW1 M ER0",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "demand",
+    "outline": "TKPHAPBD",
+    "signature": "1|2|3|5|7|14|15|20",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [D IH0 M AE1 N D] -> target AE; onset D M; coda N D. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "D IH0 M AE1 N D",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "supply",
+    "outline": "SPHRAOEU",
+    "signature": "0|3|5|6|7|8|10|11",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [S AH0 P L AY1] -> target AY; onset S P L; coda none. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "S AH0 P L AY1",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "distribution",
+    "outline": "STKPWRAOURPB",
+    "signature": "0|1|2|3|4|6|7|8|11|13|14|15",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [D IH2 S T R AH0 B Y UW1 SH AH0 N] -> target UW; onset D S T R B; coda SH N. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "D IH2 S T R AH0 B Y UW1 SH AH0 N",
+    "multiStroke": [
+      "TKEUFRBT/AOURPB"
+    ],
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "logistics",
+    "outline": "SKWHREUFBGTS",
+    "signature": "0|2|4|5|6|10|11|12|15|17|18|19",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [L AH0 JH IH1 S T IH0 K S] -> target IH; onset L JH; coda FT BGS. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "L AH0 JH IH1 S T IH0 K S",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "inventory",
+    "outline": "STPHROER",
+    "signature": "0|1|3|5|6|8|10|13",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [IH2 N V AH0 N T AO1 R IY0] -> target AO; onset N V N T; coda R. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "IH2 N V AH0 N T AO1 R IY0",
+    "multiStroke": [
+      "*EUFPB/TOER"
+    ],
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "warehouse",
+    "outline": "WERS",
+    "signature": "4|10|13|19",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [W EH1 R HH AW2 S] -> target EH; onset W; coda R HH S. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "W EH1 R HH AW2 S",
+    "multiStroke": [
+      "WER/HOUS"
+    ],
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "shipping",
+    "outline": "SHEUPBG",
+    "signature": "0|5|10|11|14|15|17",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [SH IH1 P IH0 NG] -> target IH; onset SH; coda P NG. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "SH IH1 P IH0 NG",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "delivery",
+    "outline": "TKHR*EUFR",
+    "signature": "1|2|5|6|9|10|11|12|13",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [D IH0 L IH1 V ER0 IY0] -> target IH; onset D L; coda V R. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "D IH0 L IH1 V ER0 IY0",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "quality",
+    "outline": "KWAEULT",
+    "signature": "2|4|7|10|11|16|18",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [K W AA1 L AH0 T IY0] -> target AA; onset K W; coda L T. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "K W AA1 L AH0 T IY0",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "control",
+    "outline": "TKPHROEL",
+    "signature": "1|2|3|5|6|8|10|16",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [K AH0 N T R OW1 L] -> target OW; onset K N T R; coda L. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "K AH0 N T R OW1 L",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "operation",
+    "outline": "PRAEURPB",
+    "signature": "3|6|7|10|11|13|14|15",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [AA2 P ER0 EY1 SH AH0 N] -> target EY; onset P R; coda SH N. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "AA2 P ER0 EY1 SH AH0 N",
+    "multiStroke": [
+      "ORP/AEURPB"
+    ],
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "process",
+    "outline": "PROS",
+    "signature": "3|6|8|19",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [P R AA1 S EH2 S] -> target AA; onset P R; coda S S. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "P R AA1 S EH2 S",
+    "multiStroke": [
+      "PRO/SES"
+    ],
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "improvement",
+    "outline": "PHRAO*UFPBLT",
+    "signature": "3|5|6|7|8|9|11|12|14|15|16|18",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [IH2 M P R UW1 V M AH0 N T] -> target UW; onset M P R; coda V M N T. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "IH2 M P R UW1 V M AH0 N T",
+    "multiStroke": [
+      "EUPL/PRAO*UFPBLT"
+    ],
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "risk",
+    "outline": "REUBGS",
+    "signature": "6|10|11|15|17|19",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [R IH1 S K] -> target IH; onset R; coda S K. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "R IH1 S K",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "compliance",
+    "outline": "KPHRAOEUPBS",
+    "signature": "2|3|5|6|7|8|10|11|14|15|19",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [K AH0 M P L AY1 AH0 N S] -> target AY; onset K M P L; coda N S. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "K AH0 M P L AY1 AH0 N S",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "regulation",
+    "outline": "TKPWHRAEURPB",
+    "signature": "1|2|3|4|5|6|7|10|11|13|14|15",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [R EH2 G Y AH0 L EY1 SH AH0 N] -> target EY; onset R G Y L; coda SH N. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "R EH2 G Y AH0 L EY1 SH AH0 N",
+    "multiStroke": [
+      "REG/HRAEURPB"
+    ],
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "legal",
+    "outline": "HRAOELG",
+    "signature": "5|6|7|8|10|16|17",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [L IY1 G AH0 L] -> target IY; onset L; coda G L. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "L IY1 G AH0 L",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "insurance",
+    "outline": "STPHURPBS",
+    "signature": "0|1|3|5|11|13|14|15|19",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [IH2 N SH UH1 R AH0 N S] -> target UH; onset N SH; coda R N S. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "IH2 N SH UH1 R AH0 N S",
+    "multiStroke": [
+      "EUPB/SHURPBS"
+    ],
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "policy",
+    "outline": "POELS",
+    "signature": "3|8|10|16|19",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [P AA1 L AH0 S IY0] -> target AA; onset P; coda L S. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "P AA1 L AH0 S IY0",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "claim",
+    "outline": "KHRAEUPL",
+    "signature": "2|5|6|7|10|11|14|16",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [K L EY1 M] -> target EY; onset K L; coda M. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "K L EY1 M",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "coverage",
+    "outline": "K*UFRPBLG",
+    "signature": "2|9|11|12|13|14|15|16|17",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [K AH1 V ER0 AH0 JH] -> target AH; onset K; coda V R JH. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "K AH1 V ER0 AH0 JH",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "premium",
+    "outline": "PRAOEPL",
+    "signature": "3|6|7|8|10|14|16",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [P R IY1 M IY0 AH0 M] -> target IY; onset P R; coda M M. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "P R IY1 M IY0 AH0 M",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "broker",
+    "outline": "PWROERBG",
+    "signature": "3|4|6|8|10|13|15|17",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [B R OW1 K ER0] -> target OW; onset B R; coda K R. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "B R OW1 K ER0",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "agent",
+    "outline": "AEUPBLGT",
+    "signature": "7|10|11|14|15|16|17|18",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [EY1 JH AH0 N T] -> target EY; onset none; coda JH N T. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "EY1 JH AH0 N T",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "commission",
+    "outline": "KPHEURPB",
+    "signature": "2|3|5|10|11|13|14|15",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [K AH0 M IH1 SH AH0 N] -> target IH; onset K M; coda SH N. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "K AH0 M IH1 SH AH0 N",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "fee",
+    "outline": "TPAOE",
+    "signature": "1|3|7|8|10",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [F IY1] -> target IY; onset F; coda none. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "F IY1",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "discount",
+    "outline": "STKOUPBT",
+    "signature": "0|1|2|8|11|14|15|18",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [D IH0 S K AW1 N T] -> target AW; onset D S K; coda N T. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "D IH0 S K AW1 N T",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "offer",
+    "outline": "OFR",
+    "signature": "8|12|13",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [AO1 F ER0] -> target AO; onset none; coda F R. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "AO1 F ER0",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "sale",
+    "outline": "SAEUL",
+    "signature": "0|7|10|11|16",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [S EY1 L] -> target EY; onset S; coda L. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "S EY1 L",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "purchase",
+    "outline": "PUFRPS",
+    "signature": "3|11|12|13|14|19",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [P ER1 CH AH0 S] -> target ER; onset P; coda CH S. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "P ER1 CH AH0 S",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "order",
+    "outline": "ORD",
+    "signature": "8|13|20",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [AO1 R D ER0] -> target AO; onset none; coda R D R. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "AO1 R D ER0",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "refund",
+    "outline": "TPRUPBD",
+    "signature": "1|3|6|11|14|15|20",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [R IH0 F AH1 N D] -> target AH; onset R F; coda N D. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "R IH0 F AH1 N D",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "return",
+    "outline": "TRURPB",
+    "signature": "1|6|11|13|14|15",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [R IH0 T ER1 N] -> target ER; onset R T; coda N. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "R IH0 T ER1 N",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "warranty",
+    "outline": "WAEURPBT",
+    "signature": "4|7|10|11|13|14|15|18",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [W AO1 R AH0 N T IY0] -> target AO; onset W; coda R N T. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "W AO1 R AH0 N T IY0",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "support",
+    "outline": "SPORT",
+    "signature": "0|3|8|13|18",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [S AH0 P AO1 R T] -> target AO; onset S P; coda R T. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "S AH0 P AO1 R T",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "help",
+    "outline": "HEPL",
+    "signature": "5|10|14|16",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [HH EH1 L P] -> target EH; onset HH; coda L P. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "HH EH1 L P",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "desk",
+    "outline": "TKEBGS",
+    "signature": "1|2|10|15|17|19",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [D EH1 S K] -> target EH; onset D; coda S K. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "D EH1 S K",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "team",
+    "outline": "TAOEPL",
+    "signature": "1|7|8|10|14|16",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [T IY1 M] -> target IY; onset T; coda M. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "T IY1 M",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "staff",
+    "outline": "STAF",
+    "signature": "0|1|7|12",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [S T AE1 F] -> target AE; onset S T; coda F. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "S T AE1 F",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "hire",
+    "outline": "HAOEUR",
+    "signature": "5|7|8|10|11|13",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [HH AY1 ER0] -> target AY; onset HH; coda R. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "HH AY1 ER0",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "recruit",
+    "outline": "KRAOUT",
+    "signature": "2|6|7|8|11|18",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [R AH0 K R UW1 T] -> target UW; onset R K R; coda T. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "R AH0 K R UW1 T",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "training",
+    "outline": "TRAEUPBG",
+    "signature": "1|6|7|10|11|14|15|17",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [T R EY1 N IH0 NG] -> target EY; onset T R; coda N NG. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "T R EY1 N IH0 NG",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "salary",
+    "outline": "SAERL",
+    "signature": "0|7|10|13|16",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [S AE1 L ER0 IY0] -> target AE; onset S; coda L R. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "S AE1 L ER0 IY0",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "wage",
+    "outline": "WAEUPBLG",
+    "signature": "4|7|10|11|14|15|16|17",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [W EY1 JH] -> target EY; onset W; coda JH. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "W EY1 JH",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "bonus",
+    "outline": "PWOEPBS",
+    "signature": "3|4|8|10|14|15|19",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [B OW1 N AH0 S] -> target OW; onset B; coda N S. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "B OW1 N AH0 S",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "benefit",
+    "outline": "PWEFPBT",
+    "signature": "3|4|10|12|14|15|18",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [B EH1 N AH0 F IH0 T] -> target EH; onset B; coda N F T. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "B EH1 N AH0 F IH0 T",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "pension",
+    "outline": "PERPB",
+    "signature": "3|10|13|14|15",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [P EH1 N SH AH0 N] -> target EH; onset P; coda N SH N. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "P EH1 N SH AH0 N",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "payroll",
+    "outline": "PAEURL",
+    "signature": "3|7|10|11|13|16",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [P EY1 R OW2 L] -> target EY; onset P; coda R L. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "P EY1 R OW2 L",
+    "multiStroke": [
+      "PAEU/ROEL"
+    ],
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "human",
+    "outline": "HAOUPBL",
+    "signature": "5|7|8|11|14|15|16",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [HH Y UW1 M AH0 N] -> target UW; onset HH; coda M N. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "HH Y UW1 M AH0 N",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "resources",
+    "outline": "RAOERSZ",
+    "signature": "6|7|8|10|13|19|21",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [R IY1 S AO0 R S IH0 Z] -> target IY; onset R; coda S R S Z. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "R IY1 S AO0 R S IH0 Z",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "office",
+    "outline": "OFS",
+    "signature": "8|12|19",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [AO1 F IH0 S] -> target AO; onset none; coda F S. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "AO1 F IH0 S",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "remote",
+    "outline": "PHROET",
+    "signature": "3|5|6|8|10|18",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [R IH0 M OW1 T] -> target OW; onset R M; coda T. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "R IH0 M OW1 T",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "hybrid",
+    "outline": "HAOEURBD",
+    "signature": "5|7|8|10|11|13|15|20",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [HH AY1 B R AH0 D] -> target AY; onset HH; coda B R D. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "HH AY1 B R AH0 D",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "schedule",
+    "outline": "SKEPBLG",
+    "signature": "0|2|10|14|15|16|17",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [S K EH1 JH UH0 L] -> target EH; onset S K; coda JH L. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "S K EH1 JH UH0 L",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "calendar",
+    "outline": "KARPBLD",
+    "signature": "2|7|13|14|15|16|20",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [K AE1 L AH0 N D ER0] -> target AE; onset K; coda L N D R. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "K AE1 L AH0 N D ER0",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "email",
+    "outline": "PHAEUL",
+    "signature": "3|5|7|10|11|16",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [IY0 M EY1 L] -> target EY; onset M; coda L. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "IY0 M EY1 L",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "phone",
+    "outline": "TPOEPB",
+    "signature": "1|3|8|10|14|15",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [F OW1 N] -> target OW; onset F; coda N. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "F OW1 N",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "agenda",
+    "outline": "SKWREPBD",
+    "signature": "0|2|4|6|10|14|15|20",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [AH0 JH EH1 N D AH0] -> target EH; onset JH; coda N D. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "AH0 JH EH1 N D AH0",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "minutes",
+    "outline": "PHEUPBTS",
+    "signature": "3|5|10|11|14|15|18|19",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [M IH1 N AH0 T S] -> target IH; onset M; coda N T S. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "M IH1 N AH0 T S",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "note",
+    "outline": "TPHOET",
+    "signature": "1|3|5|8|10|18",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [N OW1 T] -> target OW; onset N; coda T. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "N OW1 T",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "follow",
+    "outline": "TPOL",
+    "signature": "1|3|8|16",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [F AA1 L OW0] -> target AA; onset F; coda L. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "F AA1 L OW0",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "up",
+    "outline": "UP",
+    "signature": "11|14",
+    "sourceIds": [
+      "plover-wiki-top-100",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Top 100 form for 'up'.",
+    "changed": true,
+    "brief": true,
+    "collisionResolved": false,
+    "variant": "brief",
+    "cmudict": "AH1 P",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "action",
+    "outline": "ARPBG",
+    "signature": "7|13|14|15|17",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [AE1 K SH AH0 N] -> target AE; onset none; coda K SH N. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "AE1 K SH AH0 N",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "decision",
+    "outline": "STKEURPB",
+    "signature": "0|1|2|10|11|13|14|15",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [D IH0 S IH1 ZH AH0 N] -> target IH; onset D S; coda ZH N. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "D IH0 S IH1 ZH AH0 N",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "approve",
+    "outline": "PRAO*UF",
+    "signature": "3|6|7|8|9|11|12",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [AH0 P R UW1 V] -> target UW; onset P R; coda V. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "AH0 P R UW1 V",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "review",
+    "outline": "SRAOU",
+    "signature": "0|6|7|8|11",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [R IY2 V Y UW1] -> target UW; onset R V; coda none. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "R IY2 V Y UW1",
+    "multiStroke": [
+      "RAO*EF/AOU"
+    ],
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "feedback",
+    "outline": "TPAOEBGD",
+    "signature": "1|3|7|8|10|15|17|20",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [F IY1 D B AE2 K] -> target IY; onset F; coda D B K. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "F IY1 D B AE2 K",
+    "multiStroke": [
+      "TPAOED/PWABG"
+    ],
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "performance",
+    "outline": "TPRORPBLS",
+    "signature": "1|3|6|8|13|14|15|16|19",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [P ER0 F AO1 R M AH0 N S] -> target AO; onset P R F; coda R M N S. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "P ER0 F AO1 R M AH0 N S",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "promotion",
+    "outline": "PHROERPB",
+    "signature": "3|5|6|8|10|13|14|15",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [P R AH0 M OW1 SH AH0 N] -> target OW; onset P R M; coda SH N. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "P R AH0 M OW1 SH AH0 N",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "role",
+    "outline": "ROEL",
+    "signature": "6|8|10|16",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [R OW1 L] -> target OW; onset R; coda L. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "R OW1 L",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "responsibility",
+    "outline": "STPWHREULT",
+    "signature": "0|1|3|4|5|6|10|11|16|18",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [R IY0 S P AA2 N S AH0 B IH1 L AH0 T IY0] -> target IH; onset R S P N S B; coda L T. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "R IY0 S P AA2 N S AH0 B IH1 L AH0 T IY0",
+    "multiStroke": [
+      "SPROPBS/PWEULT"
+    ],
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "department",
+    "outline": "TKPARPBLT",
+    "signature": "1|2|3|7|13|14|15|16|18",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [D IH0 P AA1 R T M AH0 N T] -> target AA; onset D P; coda R T M N T. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "D IH0 P AA1 R T M AH0 N T",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "division",
+    "outline": "STKREURPB",
+    "signature": "0|1|2|6|10|11|13|14|15",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [D IH0 V IH1 ZH AH0 N] -> target IH; onset D V; coda ZH N. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "D IH0 V IH1 ZH AH0 N",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "region",
+    "outline": "RAOEPBLG",
+    "signature": "6|7|8|10|14|15|16|17",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [R IY1 JH AH0 N] -> target IY; onset R; coda JH N. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "R IY1 JH AH0 N",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "territory",
+    "outline": "TERT",
+    "signature": "1|10|13|18",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [T EH1 R IH0 T AO2 R IY0] -> target EH; onset T; coda R T R. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "T EH1 R IH0 T AO2 R IY0",
+    "multiStroke": [
+      "TER/TOER"
+    ],
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "executive",
+    "outline": "STKPW*EFBGT",
+    "signature": "0|1|2|3|4|9|10|12|15|17|18",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [IH0 G Z EH1 K Y AH0 T IH0 V] -> target EH; onset G Z; coda K Y T V. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "IH0 G Z EH1 K Y AH0 T IH0 V",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "chief",
+    "outline": "KHAOEF",
+    "signature": "2|5|7|8|10|12",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [CH IY1 F] -> target IY; onset CH; coda F. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "CH IY1 F",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "officer",
+    "outline": "OFRS",
+    "signature": "8|12|13|19",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [AO1 F AH0 S ER0] -> target AO; onset none; coda F S R. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "AO1 F AH0 S ER0",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "president",
+    "outline": "PREPBTDZ",
+    "signature": "3|6|10|14|15|18|20|21",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [P R EH1 Z AH0 D EH2 N T] -> target EH; onset P R; coda Z D N T. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "P R EH1 Z AH0 D EH2 N T",
+    "multiStroke": [
+      "PREZ/TKEPBT"
+    ],
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "vice",
+    "outline": "SRAOEUS",
+    "signature": "0|6|7|8|10|11|19",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [V AY1 S] -> target AY; onset V; coda S. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "V AY1 S",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "chair",
+    "outline": "KHAER",
+    "signature": "2|5|7|10|13",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [CH EH1 R] -> target EH; onset CH; coda R. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "CH EH1 R",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "stakeholder",
+    "outline": "STAEURBLGD",
+    "signature": "0|1|7|10|11|13|15|16|17|20",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [S T EY1 K HH OW2 L D ER0] -> target EY; onset S T; coda K HH L D R. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "S T EY1 K HH OW2 L D ER0",
+    "multiStroke": [
+      "STAEUBG/HOERLD"
+    ],
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "investor",
+    "outline": "STPHREFRT",
+    "signature": "0|1|3|5|6|10|12|13|18",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [IH2 N V EH1 S T ER0] -> target EH; onset N V; coda FT R. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "IH2 N V EH1 S T ER0",
+    "multiStroke": [
+      "EUPB/SREFRT"
+    ],
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "dividend",
+    "outline": "TK*EUFPBD",
+    "signature": "1|2|9|10|11|12|14|15|20",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [D IH1 V IH0 D EH2 N D] -> target IH; onset D; coda V D N D. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "D IH1 V IH0 D EH2 N D",
+    "multiStroke": [
+      "TK*EUF/TKEPBD"
+    ],
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "stock",
+    "outline": "STOBG",
+    "signature": "0|1|8|15|17",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [S T AA1 K] -> target AA; onset S T; coda K. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "S T AA1 K",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "share",
+    "outline": "SHER",
+    "signature": "0|5|10|13",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [SH EH1 R] -> target EH; onset SH; coda R. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "SH EH1 R",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "option",
+    "outline": "ORPB",
+    "signature": "8|13|14|15",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [AA1 P SH AH0 N] -> target AA; onset none; coda P SH N. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "AA1 P SH AH0 N",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "valuation",
+    "outline": "SKWHRAEURPB",
+    "signature": "0|2|4|5|6|7|10|11|13|14|15",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [V AE0 L Y UW0 EY1 SH AH0 N] -> target EY; onset V L Y; coda SH N. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "V AE0 L Y UW0 EY1 SH AH0 N",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "funding",
+    "outline": "TPUPBGD",
+    "signature": "1|3|11|14|15|17|20",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [F AH1 N D IH0 NG] -> target AH; onset F; coda N D NG. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "F AH1 N D IH0 NG",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "round",
+    "outline": "ROUPBD",
+    "signature": "6|8|11|14|15|20",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [R AW1 N D] -> target AW; onset R; coda N D. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "R AW1 N D",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "deck",
+    "outline": "TKEBG",
+    "signature": "1|2|10|15|17",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [D EH1 K] -> target EH; onset D; coda K. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "D EH1 K",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "roadmap",
+    "outline": "ROEFRPD",
+    "signature": "6|8|10|12|13|14|20",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [R OW1 D M AE2 P] -> target OW; onset R; coda D FRP. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "R OW1 D M AE2 P",
+    "multiStroke": [
+      "ROED/PHAP"
+    ],
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "feature",
+    "outline": "TPAOEFRP",
+    "signature": "1|3|7|8|10|12|13|14",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [F IY1 CH ER0] -> target IY; onset F; coda CH R. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "F IY1 CH ER0",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "release",
+    "outline": "HRAOES",
+    "signature": "5|6|7|8|10|19",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [R IY0 L IY1 S] -> target IY; onset R L; coda S. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "R IY0 L IY1 S",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "version",
+    "outline": "SRERPB",
+    "signature": "0|6|10|13|14|15",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [V ER1 ZH AH0 N] -> target ER; onset V; coda ZH N. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "V ER1 ZH AH0 N",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "update",
+    "outline": "TKPAEUT",
+    "signature": "1|2|3|7|10|11|18",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [AH0 P D EY1 T] -> target EY; onset P D; coda T. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "AH0 P D EY1 T",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "bug",
+    "outline": "PWUG",
+    "signature": "3|4|11|17",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [B AH1 G] -> target AH; onset B; coda G. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "B AH1 G",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "fix",
+    "outline": "TPEUBGS",
+    "signature": "1|3|10|11|15|17|19",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [F IH1 K S] -> target IH; onset F; coda BGS. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "F IH1 K S",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "ticket",
+    "outline": "TEUBGT",
+    "signature": "1|10|11|15|17|18",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [T IH1 K AH0 T] -> target IH; onset T; coda K T. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "T IH1 K AH0 T",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "issue",
+    "outline": "EURB",
+    "signature": "10|11|13|15",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [IH1 SH UW0] -> target IH; onset none; coda SH. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "IH1 SH UW0",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "solution",
+    "outline": "SHRAOURPB",
+    "signature": "0|5|6|7|8|11|13|14|15",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [S AH0 L UW1 SH AH0 N] -> target UW; onset S L; coda SH N. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "S AH0 L UW1 SH AH0 N",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "result",
+    "outline": "SR*ULT",
+    "signature": "0|6|9|11|16|18",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [R IH0 Z AH1 L T] -> target AH; onset R Z; coda L T. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "R IH0 Z AH1 L T",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "metric",
+    "outline": "PHERBGT",
+    "signature": "3|5|10|13|15|17|18",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [M EH1 T R IH0 K] -> target EH; onset M; coda T R K. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "M EH1 T R IH0 K",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "roi",
+    "outline": "ROEU",
+    "signature": "6|8|10|11",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [R OY1] -> target OY; onset R; coda none. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "R OY1",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "analysis",
+    "outline": "TPHALS",
+    "signature": "1|3|5|7|16|19",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [AH0 N AE1 L AH0 S AH0 S] -> target AE; onset N; coda L S S. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "AH0 N AE1 L AH0 S AH0 S",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "statement",
+    "outline": "STAEUPBLT",
+    "signature": "0|1|7|10|11|14|15|16|18",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [S T EY1 T M AH0 N T] -> target EY; onset S T; coda T M N T. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "S T EY1 T M AH0 N T",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "ledger",
+    "outline": "HRERPBLG",
+    "signature": "5|6|10|13|14|15|16|17",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [L EH1 JH ER0] -> target EH; onset L; coda JH R. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "L EH1 JH ER0",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "receipt",
+    "outline": "SRAOET",
+    "signature": "0|6|7|8|10|18",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [R IH0 S IY1 T] -> target IY; onset R S; coda T. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "R IH0 S IY1 T",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "bill",
+    "outline": "PWEUL",
+    "signature": "3|4|10|11|16",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [B IH1 L] -> target IH; onset B; coda L. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "B IH1 L",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "quote",
+    "outline": "KWOET",
+    "signature": "2|4|8|10|18",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [K W OW1 T] -> target OW; onset K W; coda T. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "K W OW1 T",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "estimate",
+    "outline": "EFPLT",
+    "signature": "10|12|14|16|18",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [EH1 S T AH0 M AH0 T] -> target EH; onset none; coda FT M T. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "EH1 S T AH0 M AH0 T",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "terms",
+    "outline": "TERPLZ",
+    "signature": "1|10|13|14|16|21",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [T ER1 M Z] -> target ER; onset T; coda M Z. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "T ER1 M Z",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "condition",
+    "outline": "TKPHEURPB",
+    "signature": "1|2|3|5|10|11|13|14|15",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [K AH0 N D IH1 SH AH0 N] -> target IH; onset K N D; coda SH N. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "K AH0 N D IH1 SH AH0 N",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "clause",
+    "outline": "KHRAUZ",
+    "signature": "2|5|6|7|11|21",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [K L AO1 Z] -> target AO; onset K L; coda Z. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "K L AO1 Z",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "renewal",
+    "outline": "TPHRAOUL",
+    "signature": "1|3|5|6|7|8|11|16",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [R IH0 N UW1 AH0 L] -> target UW; onset R N; coda L. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "R IH0 N UW1 AH0 L",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "termination",
+    "outline": "TPHRAEURPB",
+    "signature": "1|3|5|6|7|10|11|13|14|15",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [T ER0 M AH0 N EY1 SH AH0 N] -> target EY; onset T R M N; coda SH N. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "T ER0 M AH0 N EY1 SH AH0 N",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "notice",
+    "outline": "TPHOETS",
+    "signature": "1|3|5|8|10|18|19",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [N OW1 T AH0 S] -> target OW; onset N; coda T S. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "N OW1 T AH0 S",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "penalty",
+    "outline": "PEPBLT",
+    "signature": "3|10|14|15|16|18",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [P EH1 N AH0 L T IY0] -> target EH; onset P; coda N L T. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "P EH1 N AH0 L T IY0",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "liability",
+    "outline": "PWHREULT",
+    "signature": "3|4|5|6|10|11|16|18",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [L AY2 AH0 B IH1 L IH0 T IY0] -> target IH; onset L B; coda L T. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "L AY2 AH0 B IH1 L IH0 T IY0",
+    "multiStroke": [
+      "HRAOEU/PWEULT"
+    ],
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "indemnity",
+    "outline": "TKPHEPBLT",
+    "signature": "1|2|3|5|10|14|15|16|18",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [IH2 N D EH1 M N AH0 T IY0] -> target EH; onset N D; coda M N T. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "IH2 N D EH1 M N AH0 T IY0",
+    "multiStroke": [
+      "EUPB/TKEPBLT"
+    ],
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "vat",
+    "outline": "SRAT",
+    "signature": "0|6|7|18",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [V AE1 T] -> target AE; onset V; coda T. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "V AE1 T",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "receivable",
+    "outline": "SRAO*EFBL",
+    "signature": "0|6|7|8|9|10|12|15|16",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [R IH0 S IY1 V AH0 B AH0 L] -> target IY; onset R S; coda V B L. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "R IH0 S IY1 V AH0 B AH0 L",
+    "license": "CC-BY-SA-4.0"
+  },
+  {
+    "word": "payable",
+    "outline": "PAEUBL",
+    "signature": "3|7|10|11|15|16",
+    "sourceIds": [
+      "cmudict",
+      "wikipedia-stenotype",
+      "steno-start-word-list",
+      "steno-start-rules"
+    ],
+    "rule": "Phoneme rules v1: CMUdict [P EY1 AH0 B AH0 L] -> target EY; onset P; coda B L. Variant: base.",
+    "changed": false,
+    "brief": false,
+    "collisionResolved": false,
+    "variant": "base",
+    "cmudict": "P EY1 AH0 B AH0 L",
+    "license": "CC-BY-SA-4.0"
+  }
+]
