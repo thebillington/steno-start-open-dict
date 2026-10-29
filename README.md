@@ -1,4 +1,4 @@
-# open-steno-dict
+# steno-start-open-dict
 
 An openly licensed English steno dictionary for Steno Start.
 
