@@ -5,5 +5,186 @@
   "licenseEvidence": "website footer",
   "retrieved": "2026-10-29",
   "archive": "Internet Archive Wayback Machine",
-  "pages": []
+  "pages": [
+    {
+      "originalUrl": "https://www.artofchording.com/",
+      "archiveUrl": "http://web.archive.org/web/20260124174941id_/https://www.artofchording.com/",
+      "timestamp": "20260124174941",
+      "path": "index",
+      "title": "Art of Chording",
+      "html": "sources/art-of-chording/web-archive/index.html",
+      "text": "sources/art-of-chording/web-archive/index.txt",
+      "sha256": "2eb17c8ed09a93e0607962ebddcaf302aa0ad805405d5b233816d1f09d74db4f"
+    },
+    {
+      "originalUrl": "https://www.artofchording.com/draft-work/brainstorming.html",
+      "archiveUrl": "http://web.archive.org/web/20260305193920id_/https://www.artofchording.com/draft-work/brainstorming.html",
+      "timestamp": "20260305193920",
+      "path": "draft-work/brainstorming.html",
+      "title": "Request More Lessons | Art of Chording",
+      "html": "sources/art-of-chording/web-archive/draft-work_brainstorming.html.html",
+      "text": "sources/art-of-chording/web-archive/draft-work_brainstorming.html.txt",
+      "sha256": "49456eb77bfa2758b4ed286379736f88c5e6c82dc1d4c8cb70803e3c5ae56018"
+    },
+    {
+      "originalUrl": "https://www.artofchording.com/introduction/",
+      "archiveUrl": "http://web.archive.org/web/20260219203649id_/https://www.artofchording.com/introduction/",
+      "timestamp": "20260219203649",
+      "path": "introduction",
+      "title": "Welcome | Art of Chording",
+      "html": "sources/art-of-chording/web-archive/introduction.html",
+      "text": "sources/art-of-chording/web-archive/introduction.txt",
+      "sha256": "95670a39f58e72227c89aae101df2b415e1cd3a1b17c2d717081f7929788c87d"
+    },
+    {
+      "originalUrl": "https://www.artofchording.com/introduction/how-steno-works",
+      "archiveUrl": "http://web.archive.org/web/20261017224416id_/https://www.artofchording.com/introduction/how-steno-works",
+      "timestamp": "20261017224416",
+      "path": "introduction/how-steno-works",
+      "title": "",
+      "html": "sources/art-of-chording/web-archive/introduction_how-steno-works.html",
+      "text": "sources/art-of-chording/web-archive/introduction_how-steno-works.txt",
+      "sha256": "e859c18f0c0cc71ffed35c4e7ebc87cbb4f136116156f2de1588aeb71449533e"
+    },
+    {
+      "originalUrl": "https://www.artofchording.com/introduction/how-steno-works.html",
+      "archiveUrl": "http://web.archive.org/web/20260204031504id_/https://www.artofchording.com/introduction/how-steno-works.html",
+      "timestamp": "20260204031504",
+      "path": "introduction/how-steno-works.html",
+      "title": "How steno works | Art of Chording",
+      "html": "sources/art-of-chording/web-archive/introduction_how-steno-works.html.html",
+      "text": "sources/art-of-chording/web-archive/introduction_how-steno-works.html.txt",
+      "sha256": "8b0a1d19033ceb0338cc2b83efd853363f0644be3b35dd5c2ee34bca87959f79"
+    },
+    {
+      "originalUrl": "https://www.artofchording.com/introduction/theories-and-dictionaries.html",
+      "archiveUrl": "http://web.archive.org/web/20260203162926id_/https://www.artofchording.com/introduction/theories-and-dictionaries.html",
+      "timestamp": "20260203162926",
+      "path": "introduction/theories-and-dictionaries.html",
+      "title": "Theories and dictionaries | Art of Chording",
+      "html": "sources/art-of-chording/web-archive/introduction_theories-and-dictionaries.html.html",
+      "text": "sources/art-of-chording/web-archive/introduction_theories-and-dictionaries.html.txt",
+      "sha256": "023d2ab722eb57748cd101d57e62151a959010d4a55a030aea1d1c2dc56b5bc5"
+    },
+    {
+      "originalUrl": "https://www.artofchording.com/introduction/why-this-book.html",
+      "archiveUrl": "http://web.archive.org/web/20260221132534id_/https://www.artofchording.com/introduction/why-this-book.html",
+      "timestamp": "20260221132534",
+      "path": "introduction/why-this-book.html",
+      "title": "Why this book | Art of Chording",
+      "html": "sources/art-of-chording/web-archive/introduction_why-this-book.html.html",
+      "text": "sources/art-of-chording/web-archive/introduction_why-this-book.html.txt",
+      "sha256": "e1b00b3f59c39659a24c061290fd2285f900cd0cfc18b6198b35d47410bbb4ad"
+    },
+    {
+      "originalUrl": "https://www.artofchording.com/layout/",
+      "archiveUrl": "http://web.archive.org/web/20260309232148id_/https://www.artofchording.com/layout/",
+      "timestamp": "20260309232148",
+      "path": "layout",
+      "title": "The layout | Art of Chording",
+      "html": "sources/art-of-chording/web-archive/layout.html",
+      "text": "sources/art-of-chording/web-archive/layout.txt",
+      "sha256": "23b6b83bcf952a883c1af3c9894bd12494c59d5db5ee721bee9946b422d70bc0"
+    },
+    {
+      "originalUrl": "https://www.artofchording.com/layout/basic-number-bar.html",
+      "archiveUrl": "http://web.archive.org/web/20260129160618id_/https://www.artofchording.com/layout/basic-number-bar.html",
+      "timestamp": "20260129160618",
+      "path": "layout/basic-number-bar.html",
+      "title": "Basic number bar | Art of Chording",
+      "html": "sources/art-of-chording/web-archive/layout_basic-number-bar.html.html",
+      "text": "sources/art-of-chording/web-archive/layout_basic-number-bar.html.txt",
+      "sha256": "f98b524def6bfe0c9faf2394962654a7a203d8d6b2a62df877be19d441abec0b"
+    },
+    {
+      "originalUrl": "https://www.artofchording.com/layout/bottom-row.html",
+      "archiveUrl": "http://web.archive.org/web/20260302112443id_/https://www.artofchording.com/layout/bottom-row.html",
+      "timestamp": "20260302112443",
+      "path": "layout/bottom-row.html",
+      "title": "Bottom row | Art of Chording",
+      "html": "sources/art-of-chording/web-archive/layout_bottom-row.html.html",
+      "text": "sources/art-of-chording/web-archive/layout_bottom-row.html.txt",
+      "sha256": "cf484e1a620e3feb4867c48ef5600b79c9aef269389365459a08f31477e39997"
+    },
+    {
+      "originalUrl": "https://www.artofchording.com/layout/chorded-keyboard.html",
+      "archiveUrl": "http://web.archive.org/web/20260120150649id_/https://www.artofchording.com/layout/chorded-keyboard.html",
+      "timestamp": "20260120150649",
+      "path": "layout/chorded-keyboard.html",
+      "title": "Chorded keyboard | Art of Chording",
+      "html": "sources/art-of-chording/web-archive/layout_chorded-keyboard.html.html",
+      "text": "sources/art-of-chording/web-archive/layout_chorded-keyboard.html.txt",
+      "sha256": "3634b01d483e9194b3dc98c9e29ff8ba5ed408813af9ef085461f01b80493cca"
+    },
+    {
+      "originalUrl": "https://www.artofchording.com/layout/d-and-z.html",
+      "archiveUrl": "http://web.archive.org/web/20260113215548id_/https://www.artofchording.com/layout/d-and-z.html",
+      "timestamp": "20260113215548",
+      "path": "layout/d-and-z.html",
+      "title": "",
+      "html": "sources/art-of-chording/web-archive/layout_d-and-z.html.html",
+      "text": "sources/art-of-chording/web-archive/layout_d-and-z.html.txt",
+      "sha256": "e859c18f0c0cc71ffed35c4e7ebc87cbb4f136116156f2de1588aeb71449533e"
+    },
+    {
+      "originalUrl": "https://www.artofchording.com/layout/top-row.html",
+      "archiveUrl": "http://web.archive.org/web/20260131084009id_/https://www.artofchording.com/layout/top-row.html",
+      "timestamp": "20260131084009",
+      "path": "layout/top-row.html",
+      "title": "",
+      "html": "sources/art-of-chording/web-archive/layout_top-row.html.html",
+      "text": "sources/art-of-chording/web-archive/layout_top-row.html.txt",
+      "sha256": "e859c18f0c0cc71ffed35c4e7ebc87cbb4f136116156f2de1588aeb71449533e"
+    },
+    {
+      "originalUrl": "https://www.artofchording.com/multistroke/",
+      "archiveUrl": "http://web.archive.org/web/20260520045924id_/https://www.artofchording.com/multistroke/",
+      "timestamp": "20260520045924",
+      "path": "multistroke",
+      "title": "",
+      "html": "sources/art-of-chording/web-archive/multistroke.html",
+      "text": "sources/art-of-chording/web-archive/multistroke.txt",
+      "sha256": "e859c18f0c0cc71ffed35c4e7ebc87cbb4f136116156f2de1588aeb71449533e"
+    },
+    {
+      "originalUrl": "https://www.artofchording.com/multistroke/prefixes-and-suffixes.html",
+      "archiveUrl": "http://web.archive.org/web/20260608201903id_/https://www.artofchording.com/multistroke/prefixes-and-suffixes.html",
+      "timestamp": "20260608201903",
+      "path": "multistroke/prefixes-and-suffixes.html",
+      "title": "Prefixes and suffixes | Art of Chording",
+      "html": "sources/art-of-chording/web-archive/multistroke_prefixes-and-suffixes.html.html",
+      "text": "sources/art-of-chording/web-archive/multistroke_prefixes-and-suffixes.html.txt",
+      "sha256": "99456f4be86eb8e9a174f2d4fa6e13ef957b421f9d9ae0b3fabe92f3f3ef2b18"
+    },
+    {
+      "originalUrl": "https://www.artofchording.com/sounds/",
+      "archiveUrl": "http://web.archive.org/web/20260604142956id_/https://www.artofchording.com/sounds/",
+      "timestamp": "20260604142956",
+      "path": "sounds",
+      "title": "Hidden sounds | Art of Chording",
+      "html": "sources/art-of-chording/web-archive/sounds.html",
+      "text": "sources/art-of-chording/web-archive/sounds.txt",
+      "sha256": "aeaf70db4ea5c97e78ffac9771fc6bd4a701df401e053b103d22ca2b9918f17c"
+    },
+    {
+      "originalUrl": "https://www.artofchording.com/sounds/aw_ow_-k.html",
+      "archiveUrl": "http://web.archive.org/web/20260604142956id_/https://www.artofchording.com/sounds/aw_ow_-k.html",
+      "timestamp": "20260604142956",
+      "path": "sounds/aw_ow_-k.html",
+      "title": "",
+      "html": "sources/art-of-chording/web-archive/sounds_aw_ow_-k.html.html",
+      "text": "sources/art-of-chording/web-archive/sounds_aw_ow_-k.html.txt",
+      "sha256": "e859c18f0c0cc71ffed35c4e7ebc87cbb4f136116156f2de1588aeb71449533e"
+    },
+    {
+      "originalUrl": "https://www.artofchording.com/sounds/ay_oy.html",
+      "archiveUrl": "http://web.archive.org/web/20260604142956id_/https://www.artofchording.com/sounds/ay_oy.html",
+      "timestamp": "20260604142956",
+      "path": "sounds/ay_oy.html",
+      "title": "Vowels ay and oy | Art of Chording",
+      "html": "sources/art-of-chording/web-archive/sounds_ay_oy.html.html",
+      "text": "sources/art-of-chording/web-archive/sounds_ay_oy.html.txt",
+      "sha256": "e6c4fa1d3430cae7ba4469fe0e6872a5eacafaf2391c858d55defc72e5a871b6"
+    }
+  ]
 }
