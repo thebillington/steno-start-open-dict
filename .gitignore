@@ -2,3 +2,6 @@
 .packages
 build/
 sources/cache/
+
+benchmarks/references/*.json
+benchmarks/cache/

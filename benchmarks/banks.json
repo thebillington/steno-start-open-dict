@@ -1,0 +1,85 @@
+{
+  "format": "steno-start-word-banks",
+  "version": 1,
+  "banks": [
+    {
+      "id": "basics",
+      "name": "Basics 500",
+      "description": "The core Steno Start teaching vocabulary.",
+      "wordList": "benchmarks/wordlists/teaching-500.txt",
+      "words": 500,
+      "tier": "free",
+      "sourceIds": [
+        "steno-start-word-list"
+      ],
+      "license": "CC-BY-SA-4.0",
+      "sha256": "bbd0819d7623b337a271d2b7005a5e09074138e87f0eb4b2447c1cd927c17e22"
+    },
+    {
+      "id": "everyday",
+      "name": "Everyday English 500",
+      "description": "High-frequency everyday English from NGSL.",
+      "wordList": "benchmarks/wordlists/everyday-500.txt",
+      "words": 500,
+      "tier": "pro",
+      "sourceIds": [
+        "ngsl"
+      ],
+      "license": "CC-BY-SA-4.0",
+      "sha256": "a3e83a52d7b373e30754d5d9795dc8af9c18af6c5a68f61d9eace34925b84874"
+    },
+    {
+      "id": "legal",
+      "name": "Legal 200",
+      "description": "Common court and legal vocabulary.",
+      "wordList": "benchmarks/wordlists/legal-200.txt",
+      "words": 200,
+      "tier": "pro",
+      "sourceIds": [
+        "steno-start-benchmark-list"
+      ],
+      "license": "CC-BY-SA-4.0",
+      "sha256": "e968c9416bdd1d2706d815a21ce0280da870c8cbf678c816955ab82c090a45d6"
+    },
+    {
+      "id": "business",
+      "name": "Business 200",
+      "description": "Common business and office vocabulary.",
+      "wordList": "benchmarks/wordlists/business-200.txt",
+      "words": 200,
+      "tier": "pro",
+      "sourceIds": [
+        "steno-start-benchmark-list"
+      ],
+      "license": "CC-BY-SA-4.0",
+      "sha256": "551cca5cbc9040d9126b7634b0fb816f663f9d4a38051727584822239d54dc2a"
+    },
+    {
+      "id": "general",
+      "name": "General 500",
+      "description": "Deterministic general-English sample from CMUdict.",
+      "wordList": "benchmarks/wordlists/general-500.txt",
+      "words": 500,
+      "tier": "pro",
+      "sourceIds": [
+        "cmudict",
+        "steno-start-benchmark-list"
+      ],
+      "license": "CC-BY-SA-4.0",
+      "sha256": "14b67e422982ff9f4b7070da3830eaff83716e49fae9a2df9f788b6fb85b5346"
+    },
+    {
+      "id": "sentences",
+      "name": "Sentence words",
+      "description": "Unique words used by the 100 free sentences.",
+      "wordList": "benchmarks/wordlists/sentences-135.txt",
+      "words": 135,
+      "tier": "free",
+      "sourceIds": [
+        "steno-start-sentences"
+      ],
+      "license": "CC-BY-SA-4.0",
+      "sha256": "fea19cfee12bb3d500fcde023533c016724a371a614d4edf0ce291da2aa9d997"
+    }
+  ]
+}

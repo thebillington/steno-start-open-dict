@@ -1,0 +1,42 @@
+{
+  "format": "steno-start-benchmark-sources",
+  "version": 1,
+  "sources": [
+    {
+      "id": "ngsl",
+      "name": "New General Service List",
+      "url": "https://www.newgeneralservicelist.com/new-general-service-list",
+      "license": "CC-BY-SA-4.0",
+      "usedFor": "Everyday 500 word selection",
+      "notes": "Top 500 alphabetic entries from the NGSL headword list."
+    },
+    {
+      "id": "cmudict",
+      "name": "CMU Pronouncing Dictionary",
+      "url": "https://github.com/cmusphinx/cmudict",
+      "license": "BSD-2-Clause",
+      "usedFor": "General 500 word sample"
+    },
+    {
+      "id": "steno-start-word-list",
+      "name": "Steno Start teaching word list",
+      "url": "local",
+      "license": "CC-BY-SA-4.0",
+      "usedFor": "Basics 500"
+    },
+    {
+      "id": "steno-start-sentences",
+      "name": "Steno Start 100 sentences",
+      "url": "local",
+      "license": "CC-BY-SA-4.0",
+      "usedFor": "Sentence word bank"
+    },
+    {
+      "id": "steno-start-benchmark-list",
+      "name": "Steno Start authored benchmark lists",
+      "url": "local",
+      "license": "CC-BY-SA-4.0",
+      "usedFor": "Legal and business word banks, general sample selection"
+    }
+  ]
+}
