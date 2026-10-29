@@ -1,0 +1,14 @@
+open-steno-dict is independent and is not affiliated with, endorsed by, or
+maintained by Open Steno or Plover.
+
+Dictionary data is licensed CC BY-SA 4.0. Generator code is licensed MIT.
+Source material is attributed in provenance/sources.json and LICENSES/.
+
+Expected sources, subject to final audit:
+- CMU Pronouncing Dictionary, BSD-2-Clause
+- Art of Chording, CC BY-SA 4.0, Thea Morin
+- Wikipedia Stenotype, CC BY-SA 4.0
+- Plover Wiki pages only where the page-level licence and provenance permit it
+- Steno Start authored rules, briefs and word list, CC BY-SA 4.0
+
+No Plover main.json or other GPL dictionary data is included.

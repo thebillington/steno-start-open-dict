@@ -1,0 +1,16 @@
+This repository contains separate works under separate licences.
+
+Dictionary data in data/ and provenance records derived from it:
+  Creative Commons Attribution-ShareAlike 4.0 International
+  See LICENSES/CC-BY-SA-4.0.txt
+
+Generator source code in generator/:
+  MIT License
+  See LICENSES/MIT.txt
+
+CMUdict input in sources/cmudict/:
+  BSD-2-Clause
+  See LICENSES/BSD-2-Clause.txt
+
+Third-party source material remains under its original licence.
+See NOTICE and LICENSES/.
