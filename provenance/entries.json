@@ -1229,8 +1229,6 @@
     "signature": "1|3|7|8|13",
     "sourceIds": [
       "cmudict",
-      "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Steno Start number brief for 'four' (F + AO + R); keeps it distinct from 'for' TPOR.",
@@ -1989,8 +1987,6 @@
     "sourceIds": [
       "plover-wiki-top-100",
       "cmudict",
-      "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Steno Start compound brief: 'to' (TO) plus the final -D of 'day'.",
@@ -2081,8 +2077,6 @@
     "signature": "0|1|10|11|19",
     "sourceIds": [
       "cmudict",
-      "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Steno Start collision brief for 'city' (ST + EU + S); keeps it distinct from 'sit' SEUT.",
@@ -2102,7 +2096,6 @@
     "sourceIds": [
       "wikipedia-stenotype",
       "cmudict",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Wikipedia Stenotype chart spelling-disambiguation example: road is RAOD, contrasting with rode ROED.",
@@ -2117,8 +2110,8 @@
   },
   {
     "word": "door",
-    "outline": "TKAUR",
-    "signature": "1|2|7|11|13",
+    "outline": "TKAOR",
+    "signature": "1|2|7|8|13",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -2130,8 +2123,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "D AO1 R",
-    "plainRule": "TKAUR",
-    "plainSignature": "1|2|7|11|13",
+    "plainRule": "TKAOR",
+    "plainSignature": "1|2|7|8|13",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -2764,21 +2757,21 @@
   },
   {
     "word": "white",
-    "outline": "WAOEUT",
-    "signature": "4|7|8|10|11|18",
+    "outline": "WHAOEUT",
+    "signature": "4|5|7|8|10|11|18",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
       "steno-start-rules"
     ],
-    "rule": "Phoneme rules v1: CMUdict [W AY1 T] -> target AY; onset W; coda T. Variant: base.",
+    "rule": "Phoneme rules v1: CMUdict [W AY1 T] -> target AY; onset W HH; coda T. Variant: base.",
     "changed": false,
     "brief": false,
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "W AY1 T",
-    "plainRule": "WAOEUT",
-    "plainSignature": "4|7|8|10|11|18",
+    "plainRule": "WHAOEUT",
+    "plainSignature": "4|5|7|8|10|11|18",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -4432,8 +4425,6 @@
     "signature": "8|10|14",
     "sourceIds": [
       "cmudict",
-      "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Steno Start collision brief for 'open' (OEP); keeps it distinct from 'own' OEPB.",
@@ -7054,8 +7045,6 @@
     "signature": "5|7|8|9|10|13",
     "sourceIds": [
       "cmudict",
-      "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Steno Start homophone brief for 'hear'; 'here' keeps the rule form HAOER.",
@@ -7809,21 +7798,21 @@
   },
   {
     "word": "local",
-    "outline": "HROEBLG",
-    "signature": "5|6|8|10|15|16|17",
+    "outline": "HROELG",
+    "signature": "5|6|8|10|16|17",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
       "steno-start-rules"
     ],
-    "rule": "Phoneme rules v1: CMUdict [L OW1 K AH0 L] -> target OW; onset L; coda K L. Variant: base.",
+    "rule": "Phoneme rules v1: CMUdict [L OW1 K AH0 L] -> target OW; onset L; coda LG. Variant: base.",
     "changed": false,
     "brief": false,
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "L OW1 K AH0 L",
-    "plainRule": "HROEBLG",
-    "plainSignature": "5|6|8|10|15|16|17",
+    "plainRule": "HROELG",
+    "plainSignature": "5|6|8|10|16|17",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -8075,21 +8064,21 @@
   },
   {
     "word": "milk",
-    "outline": "PHEUBLG",
-    "signature": "3|5|10|11|15|16|17",
+    "outline": "PHEULG",
+    "signature": "3|5|10|11|16|17",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
       "steno-start-rules"
     ],
-    "rule": "Phoneme rules v1: CMUdict [M IH1 L K] -> target IH; onset M; coda L K. Variant: base.",
+    "rule": "Phoneme rules v1: CMUdict [M IH1 L K] -> target IH; onset M; coda LG. Variant: base.",
     "changed": false,
     "brief": false,
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "M IH1 L K",
-    "plainRule": "PHEUBLG",
-    "plainSignature": "3|5|10|11|15|16|17",
+    "plainRule": "PHEULG",
+    "plainSignature": "3|5|10|11|16|17",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -8358,8 +8347,8 @@
   },
   {
     "word": "ocean",
-    "outline": "OERPB",
-    "signature": "8|10|13|14|15",
+    "outline": "OEGS",
+    "signature": "8|10|17|19",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -8371,8 +8360,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "OW1 SH AH0 N",
-    "plainRule": "OERPB",
-    "plainSignature": "8|10|13|14|15",
+    "plainRule": "OEGS",
+    "plainSignature": "8|10|17|19",
     "license": "CC-BY-SA-4.0"
   },
   {

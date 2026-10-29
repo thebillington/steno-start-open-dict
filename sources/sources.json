@@ -164,8 +164,8 @@
       "url": "local",
       "license": "CC-BY-SA-4.0",
       "file": "generator/RULES.md",
-      "sha256": "562be8129889412f3149ff1d100389dea50fe8f89f95076cc2cfd7ee88b939b1",
-      "bytes": 10375,
+      "sha256": "071e4b2d43108ea569fb8b47879a2d90d02eca28fe73b4e43c0c874a5fdbc379",
+      "bytes": 10647,
       "usedFor": "phoneme rules, spelling adjustments and the Steno Start briefs layer",
       "retrieved": "2026-10-29"
     }

@@ -232,8 +232,8 @@
   },
   {
     "word": "motion",
-    "outline": "PHOERPB",
-    "signature": "3|5|8|10|13|14|15",
+    "outline": "PHOEGS",
+    "signature": "3|5|8|10|17|19",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -245,14 +245,14 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "M OW1 SH AH0 N",
-    "plainRule": "PHOERPB",
-    "plainSignature": "3|5|8|10|13|14|15",
+    "plainRule": "PHOEGS",
+    "plainSignature": "3|5|8|10|17|19",
     "license": "CC-BY-SA-4.0"
   },
   {
     "word": "objection",
-    "outline": "SKPWRERPBG",
-    "signature": "0|2|3|4|6|10|13|14|15|17",
+    "outline": "SKPWREBGS",
+    "signature": "0|2|3|4|6|10|15|17|19",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -264,8 +264,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "AH0 B JH EH1 K SH AH0 N",
-    "plainRule": "SKPWRERPBG",
-    "plainSignature": "0|2|3|4|6|10|13|14|15|17",
+    "plainRule": "SKPWREBGS",
+    "plainSignature": "0|2|3|4|6|10|15|17|19",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -352,8 +352,8 @@
   },
   {
     "word": "agreement",
-    "outline": "TKPWRAOEPBLT",
-    "signature": "1|2|3|4|6|7|8|10|14|15|16|18",
+    "outline": "TKPWRAOEPLT",
+    "signature": "1|2|3|4|6|7|8|10|14|16|18",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -365,8 +365,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "AH0 G R IY1 M AH0 N T",
-    "plainRule": "TKPWRAOEPBLT",
-    "plainSignature": "1|2|3|4|6|7|8|10|14|15|16|18",
+    "plainRule": "TKPWRAOEPLT",
+    "plainSignature": "1|2|3|4|6|7|8|10|14|16|18",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -469,8 +469,8 @@
   },
   {
     "word": "regulation",
-    "outline": "TKPWHRAEURPB",
-    "signature": "1|2|3|4|5|6|7|10|11|13|14|15",
+    "outline": "TKPWHRAEUGS",
+    "signature": "1|2|3|4|5|6|7|10|11|17|19",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -482,10 +482,10 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "R EH2 G Y AH0 L EY1 SH AH0 N",
-    "plainRule": "TKPWHRAEURPB",
-    "plainSignature": "1|2|3|4|5|6|7|10|11|13|14|15",
+    "plainRule": "TKPWHRAEUGS",
+    "plainSignature": "1|2|3|4|5|6|7|10|11|17|19",
     "multiStroke": [
-      "REG/HRAEURPB"
+      "REG/HRAEUGS"
     ],
     "license": "CC-BY-SA-4.0"
   },
@@ -624,8 +624,8 @@
   },
   {
     "word": "deposition",
-    "outline": "STKP*EURPB",
-    "signature": "0|1|2|3|9|10|11|13|14|15",
+    "outline": "STKP*EUGS",
+    "signature": "0|1|2|3|9|10|11|17|19",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -637,10 +637,10 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "D EH2 P AH0 Z IH1 SH AH0 N",
-    "plainRule": "STKP*EURPB",
-    "plainSignature": "0|1|2|3|9|10|11|13|14|15",
+    "plainRule": "STKP*EUGS",
+    "plainSignature": "0|1|2|3|9|10|11|17|19",
     "multiStroke": [
-      "TKEP/S*EURPB"
+      "TKEP/S*EUGS"
     ],
     "license": "CC-BY-SA-4.0"
   },
@@ -687,8 +687,8 @@
   },
   {
     "word": "petition",
-    "outline": "TPEURPB",
-    "signature": "1|3|10|11|13|14|15",
+    "outline": "TPEUGS",
+    "signature": "1|3|10|11|17|19",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -700,8 +700,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "P AH0 T IH1 SH AH0 N",
-    "plainRule": "TPEURPB",
-    "plainSignature": "1|3|10|11|13|14|15",
+    "plainRule": "TPEUGS",
+    "plainSignature": "1|3|10|11|17|19",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -725,8 +725,8 @@
   },
   {
     "word": "prosecution",
-    "outline": "SKPRAOURPB",
-    "signature": "0|2|3|6|7|8|11|13|14|15",
+    "outline": "SKPRAOUGS",
+    "signature": "0|2|3|6|7|8|11|17|19",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -738,10 +738,10 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "P R AA2 S AH0 K Y UW1 SH AH0 N",
-    "plainRule": "SKPRAOURPB",
-    "plainSignature": "0|2|3|6|7|8|11|13|14|15",
+    "plainRule": "SKPRAOUGS",
+    "plainSignature": "0|2|3|6|7|8|11|17|19",
     "multiStroke": [
-      "PROBGS/AOURPB"
+      "PROBGS/AOUGS"
     ],
     "license": "CC-BY-SA-4.0"
   },
@@ -785,8 +785,8 @@
   },
   {
     "word": "arbitration",
-    "outline": "TPWRAEURPB",
-    "signature": "1|3|4|6|7|10|11|13|14|15",
+    "outline": "TPWRAEUGS",
+    "signature": "1|3|4|6|7|10|11|17|19",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -798,17 +798,17 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "AA2 R B IH0 T R EY1 SH AH0 N",
-    "plainRule": "TPWRAEURPB",
-    "plainSignature": "1|3|4|6|7|10|11|13|14|15",
+    "plainRule": "TPWRAEUGS",
+    "plainSignature": "1|3|4|6|7|10|11|17|19",
     "multiStroke": [
-      "ORBT/RAEURPB"
+      "ORBT/RAEUGS"
     ],
     "license": "CC-BY-SA-4.0"
   },
   {
     "word": "mediation",
-    "outline": "TKPHAEURPB",
-    "signature": "1|2|3|5|7|10|11|13|14|15",
+    "outline": "TKPHAEUGS",
+    "signature": "1|2|3|5|7|10|11|17|19",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -820,17 +820,17 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "M IY2 D IY0 EY1 SH AH0 N",
-    "plainRule": "TKPHAEURPB",
-    "plainSignature": "1|2|3|5|7|10|11|13|14|15",
+    "plainRule": "TKPHAEUGS",
+    "plainSignature": "1|2|3|5|7|10|11|17|19",
     "multiStroke": [
-      "PHAOED/AEURPB"
+      "PHAOED/AEUGS"
     ],
     "license": "CC-BY-SA-4.0"
   },
   {
     "word": "jurisdiction",
-    "outline": "STKWREURPBG",
-    "signature": "0|1|2|4|6|10|11|13|14|15|17",
+    "outline": "STKWREUBGS",
+    "signature": "0|1|2|4|6|10|11|15|17|19",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -842,10 +842,10 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "JH UH2 R AH0 S D IH1 K SH AH0 N",
-    "plainRule": "STKWREURPBG",
-    "plainSignature": "0|1|2|4|6|10|11|13|14|15|17",
+    "plainRule": "STKWREUBGS",
+    "plainSignature": "0|1|2|4|6|10|11|15|17|19",
     "multiStroke": [
-      "SKWRAORS/TKEURPBG"
+      "SKWRAORS/TKEUBGS"
     ],
     "license": "CC-BY-SA-4.0"
   },
@@ -911,8 +911,8 @@
   },
   {
     "word": "probation",
-    "outline": "PWRAEURPB",
-    "signature": "3|4|6|7|10|11|13|14|15",
+    "outline": "PWRAEUGS",
+    "signature": "3|4|6|7|10|11|17|19",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -924,8 +924,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "P R OW0 B EY1 SH AH0 N",
-    "plainRule": "PWRAEURPB",
-    "plainSignature": "3|4|6|7|10|11|13|14|15",
+    "plainRule": "PWRAEUGS",
+    "plainSignature": "3|4|6|7|10|11|17|19",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -1237,8 +1237,8 @@
   },
   {
     "word": "examination",
-    "outline": "STKPWHA*EURPB",
-    "signature": "0|1|2|3|4|5|7|9|10|11|13|14|15",
+    "outline": "STKPWHA*EUGS",
+    "signature": "0|1|2|3|4|5|7|9|10|11|17|19",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -1250,10 +1250,10 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "IH0 G Z AE2 M AH0 N EY1 SH AH0 N",
-    "plainRule": "STKPWHA*EURPB",
-    "plainSignature": "0|1|2|3|4|5|7|9|10|11|13|14|15",
+    "plainRule": "STKPWHA*EUGS",
+    "plainSignature": "0|1|2|3|4|5|7|9|10|11|17|19",
     "multiStroke": [
-      "STKPWA*PL/TPHAEURPB"
+      "STKPWA*PL/TPHAEUGS"
     ],
     "license": "CC-BY-SA-4.0"
   },
@@ -1658,8 +1658,8 @@
   },
   {
     "word": "execution",
-    "outline": "SKAOURPB",
-    "signature": "0|2|7|8|11|13|14|15",
+    "outline": "SKAOUGS",
+    "signature": "0|2|7|8|11|17|19",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -1671,10 +1671,10 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "EH2 K S AH0 K Y UW1 SH AH0 N",
-    "plainRule": "SKAOURPB",
-    "plainSignature": "0|2|7|8|11|13|14|15",
+    "plainRule": "SKAOUGS",
+    "plainSignature": "0|2|7|8|11|17|19",
     "multiStroke": [
-      "EBGS/AOURPB"
+      "EBGS/AOUGS"
     ],
     "license": "CC-BY-SA-4.0"
   },
@@ -1980,8 +1980,8 @@
   },
   {
     "word": "interrogation",
-    "outline": "TKPWHRA*EURPB",
-    "signature": "1|2|3|4|5|6|7|9|10|11|13|14|15",
+    "outline": "TKPWHRA*EUGS",
+    "signature": "1|2|3|4|5|6|7|9|10|11|17|19",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -1993,10 +1993,10 @@
     "collisionResolved": true,
     "variant": "base+star",
     "cmudict": "IH2 N T EH2 R AH0 G EY1 SH AH0 N",
-    "plainRule": "TKPWHRAEURPB",
-    "plainSignature": "1|2|3|4|5|6|7|10|11|13|14|15",
+    "plainRule": "TKPWHRAEUGS",
+    "plainSignature": "1|2|3|4|5|6|7|10|11|17|19",
     "multiStroke": [
-      "EUPB/TKPWRAEURPB"
+      "EUPB/TKPWRAEUGS"
     ],
     "license": "CC-BY-SA-4.0"
   },
@@ -2277,8 +2277,8 @@
   },
   {
     "word": "litigation",
-    "outline": "TKPWHRAEURPBD",
-    "signature": "1|2|3|4|5|6|7|10|11|13|14|15|20",
+    "outline": "TKPWHRAEUGSD",
+    "signature": "1|2|3|4|5|6|7|10|11|17|19|20",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -2290,10 +2290,10 @@
     "collisionResolved": true,
     "variant": "base+tag-D",
     "cmudict": "L IH2 T AH0 G EY1 SH AH0 N",
-    "plainRule": "TKPWHRAEURPB",
-    "plainSignature": "1|2|3|4|5|6|7|10|11|13|14|15",
+    "plainRule": "TKPWHRAEUGS",
+    "plainSignature": "1|2|3|4|5|6|7|10|11|17|19",
     "multiStroke": [
-      "HREUT/TKPWAEURPB"
+      "HREUT/TKPWAEUGS"
     ],
     "license": "CC-BY-SA-4.0"
   },
@@ -2761,8 +2761,8 @@
   },
   {
     "word": "possession",
-    "outline": "SP*ERPB",
-    "signature": "0|3|9|10|13|14|15",
+    "outline": "SP*EGS",
+    "signature": "0|3|9|10|17|19",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -2774,8 +2774,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "P AH0 Z EH1 SH AH0 N",
-    "plainRule": "SP*ERPB",
-    "plainSignature": "0|3|9|10|13|14|15",
+    "plainRule": "SP*EGS",
+    "plainSignature": "0|3|9|10|17|19",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -2894,8 +2894,8 @@
   },
   {
     "word": "proceeding",
-    "outline": "SPRAOEPBGD",
-    "signature": "0|3|6|7|8|10|14|15|17|20",
+    "outline": "SPRAOEGD",
+    "signature": "0|3|6|7|8|10|17|20",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -2907,8 +2907,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "P R AH0 S IY1 D IH0 NG",
-    "plainRule": "SPRAOEPBGD",
-    "plainSignature": "0|3|6|7|8|10|14|15|17|20",
+    "plainRule": "SPRAOEGD",
+    "plainSignature": "0|3|6|7|8|10|17|20",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -2935,8 +2935,8 @@
   },
   {
     "word": "protection",
-    "outline": "TPRERPBG",
-    "signature": "1|3|6|10|13|14|15|17",
+    "outline": "TPREBGS",
+    "signature": "1|3|6|10|15|17|19",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -2948,8 +2948,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "P R AH0 T EH1 K SH AH0 N",
-    "plainRule": "TPRERPBG",
-    "plainSignature": "1|3|6|10|13|14|15|17",
+    "plainRule": "TPREBGS",
+    "plainSignature": "1|3|6|10|15|17|19",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -2961,7 +2961,7 @@
       "wikipedia-stenotype",
       "steno-start-rules"
     ],
-    "rule": "Phoneme rules v1: CMUdict [P AH1 B L IH0 K] -> target AH; onset P; coda B L K. Variant: base.",
+    "rule": "Phoneme rules v1: CMUdict [P AH1 B L IH0 K] -> target AH; onset P; coda B LG. Variant: base.",
     "changed": false,
     "brief": false,
     "collisionResolved": false,
@@ -3299,8 +3299,8 @@
   },
   {
     "word": "restitution",
-    "outline": "STRAOURPB",
-    "signature": "0|1|6|7|8|11|13|14|15",
+    "outline": "STRAOUGS",
+    "signature": "0|1|6|7|8|11|17|19",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -3312,10 +3312,10 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "R EH2 S T IH0 T UW1 SH AH0 N",
-    "plainRule": "STRAOURPB",
-    "plainSignature": "0|1|6|7|8|11|13|14|15",
+    "plainRule": "STRAOUGS",
+    "plainSignature": "0|1|6|7|8|11|17|19",
     "multiStroke": [
-      "REFT/TAOURPB"
+      "REFT/TAOUGS"
     ],
     "license": "CC-BY-SA-4.0"
   },
@@ -3400,8 +3400,8 @@
   },
   {
     "word": "revocation",
-    "outline": "SKRAEURPB",
-    "signature": "0|2|6|7|10|11|13|14|15",
+    "outline": "SKRAEUGS",
+    "signature": "0|2|6|7|10|11|17|19",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -3413,10 +3413,10 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "R EH2 V AH0 K EY1 SH AH0 N",
-    "plainRule": "SKRAEURPB",
-    "plainSignature": "0|2|6|7|10|11|13|14|15",
+    "plainRule": "SKRAEUGS",
+    "plainSignature": "0|2|6|7|10|11|17|19",
     "multiStroke": [
-      "R*EF/KAEURPB"
+      "R*EF/KAEUGS"
     ],
     "license": "CC-BY-SA-4.0"
   },
@@ -3594,8 +3594,8 @@
   },
   {
     "word": "stipulation",
-    "outline": "STKPWHRAEURPB",
-    "signature": "0|1|2|3|4|5|6|7|10|11|13|14|15",
+    "outline": "STKPWHRAEUGS",
+    "signature": "0|1|2|3|4|5|6|7|10|11|17|19",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -3607,10 +3607,10 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "S T IH2 P Y AH0 L EY1 SH AH0 N",
-    "plainRule": "STKPWHRAEURPB",
-    "plainSignature": "0|1|2|3|4|5|6|7|10|11|13|14|15",
+    "plainRule": "STKPWHRAEUGS",
+    "plainSignature": "0|1|2|3|4|5|6|7|10|11|17|19",
     "multiStroke": [
-      "STEUP/HRAEURPB"
+      "STEUP/HRAEUGS"
     ],
     "license": "CC-BY-SA-4.0"
   },
@@ -3673,8 +3673,8 @@
   },
   {
     "word": "suppression",
-    "outline": "SPRERPB",
-    "signature": "0|3|6|10|13|14|15",
+    "outline": "SPREGS",
+    "signature": "0|3|6|10|17|19",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -3686,8 +3686,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "S AH0 P R EH1 SH AH0 N",
-    "plainRule": "SPRERPB",
-    "plainSignature": "0|3|6|10|13|14|15",
+    "plainRule": "SPREGS",
+    "plainSignature": "0|3|6|10|17|19",
     "license": "CC-BY-SA-4.0"
   },
   {

@@ -35,14 +35,14 @@ Overall: **PASS**
 | 3 | 3 |
 | 4 | 12 |
 | 5 | 24 |
-| 6 | 41 |
-| 7 | 35 |
-| 8 | 33 |
-| 9 | 19 |
-| 10 | 19 |
-| 11 | 4 |
-| 12 | 4 |
-| 13 | 5 |
+| 6 | 45 |
+| 7 | 33 |
+| 8 | 35 |
+| 9 | 21 |
+| 10 | 14 |
+| 11 | 5 |
+| 12 | 6 |
+| 13 | 1 |
 
 ## Art of Chording citations
 
@@ -58,8 +58,8 @@ These outlines differ from the plain rule signature. The comparison is recorded 
 
 | Word | Outline | Variant | Source ids |
 |---|---|---|---|
-| interrogation | `TKPWHRA*EURPB` | base+star | cmudict, wikipedia-stenotype, steno-start-rules |
-| litigation | `TKPWHRAEURPBD` | base+tag-D | cmudict, wikipedia-stenotype, steno-start-rules |
+| interrogation | `TKPWHRA*EUGS` | base+star | cmudict, wikipedia-stenotype, steno-start-rules |
+| litigation | `TKPWHRAEUGSD` | base+tag-D | cmudict, wikipedia-stenotype, steno-start-rules |
 | release | `HRAO*ES` | base+star | cmudict, wikipedia-stenotype, steno-start-rules |
 | remand | `PHRA*PBD` | base+star | cmudict, wikipedia-stenotype, steno-start-rules |
 | retrial | `TRAO*EUL` | base+star | cmudict, wikipedia-stenotype, steno-start-rules |

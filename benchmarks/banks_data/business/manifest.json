@@ -158,8 +158,8 @@
       "url": "local",
       "license": "CC-BY-SA-4.0",
       "file": "generator/RULES.md",
-      "sha256": "5aa080e67c040a302ff30a3ed67be0f62506c5e8b23e6c9c5bec8245607b27f6",
-      "bytes": 10377,
+      "sha256": "071e4b2d43108ea569fb8b47879a2d90d02eca28fe73b4e43c0c874a5fdbc379",
+      "bytes": 10647,
       "usedFor": "phoneme rules, spelling adjustments and the Steno Start briefs layer",
       "modified": false,
       "retrieved": "2026-10-29",
@@ -197,19 +197,19 @@
   ],
   "outputs": {
     "data/dictionary.json": {
-      "sha256": "d4db03051320af618280ff971ec28d60f4dedc35ec194755957948c60ebe991d",
-      "bytes": 4678
+      "sha256": "0ac12b7491a8f3a4a3f8e96d0f9afd680b1f9074c168471aceb8a06e1aadd3c0",
+      "bytes": 4657
     },
     "data/multi_stroke.json": {
-      "sha256": "3cb14661167d601295c6fa2065e132c4782a1fc30727c5c2a8d9a25782321e46",
-      "bytes": 1025
+      "sha256": "8d6a911a75d0c3a2390f4ee2510776636592f97778ce017361a9b6b5d89150cc",
+      "bytes": 1019
     },
     "provenance/entries.json": {
-      "sha256": "4c1544f55fb3d12429bc2c5454241e58c961be55a80f96962e7400b6ab36b596",
-      "bytes": 107764
+      "sha256": "47195103fc31739345fc306b0318785c6148fba88249682f341686646824e160",
+      "bytes": 107589
     },
     "validation/self_check.md": {
-      "sha256": "365ac671d8050a4860617181a305a1becf5f98cc538698cbb7add2f7aaf9eee0",
+      "sha256": "265225b135f69d6bdb324898e450b44379c33574123b225253599f068bd594ab",
       "bytes": 2828
     }
   },

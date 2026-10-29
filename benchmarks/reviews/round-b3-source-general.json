@@ -1,0 +1,20 @@
+{
+  "name": "general",
+  "bank_dir": "benchmarks/banks_data/general",
+  "words": 500,
+  "entries": 500,
+  "issues": [],
+  "issue_counts": {},
+  "flags": {
+    "multi_phone_coda": 281,
+    "collision_resolved_rule": 13,
+    "star_collision_rule": 13
+  },
+  "source_id_counts": {
+    "cmudict": 498,
+    "wikipedia-stenotype": 498,
+    "steno-start-rules": 498,
+    "plover-wiki-brief-ideas": 1,
+    "art-of-chording-website": 2
+  }
+}

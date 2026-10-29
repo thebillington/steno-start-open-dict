@@ -5,7 +5,7 @@
   "generator": {
     "name": "steno-start-open-dict-generator",
     "version": "1.0.0",
-    "commit": "ee5c993df69afcae66244bede2b876916b060039"
+    "commit": "829fa5dd0271b341168cb3b3924a9bbb039f8d97"
   },
   "command": "docker run --rm -v /home/dev/Development/steno-start-open-dict-lab-clean:/workspace -w /workspace/generator revision-app-dev:latest sh -lc 'dart pub get && dart run bin/generate.dart && dart test'",
   "date": "2026-10-29",
@@ -26,7 +26,7 @@
     "changedEntries": 69,
     "collisionResolved": 4,
     "multiStrokeEntries": 8,
-    "sourceIdsUsed": 7
+    "sourceIdsUsed": 6
   },
   "sources": [
     {
@@ -158,8 +158,8 @@
       "url": "local",
       "license": "CC-BY-SA-4.0",
       "file": "generator/RULES.md",
-      "sha256": "562be8129889412f3149ff1d100389dea50fe8f89f95076cc2cfd7ee88b939b1",
-      "bytes": 10375,
+      "sha256": "071e4b2d43108ea569fb8b47879a2d90d02eca28fe73b4e43c0c874a5fdbc379",
+      "bytes": 10647,
       "usedFor": "phoneme rules, spelling adjustments and the Steno Start briefs layer",
       "modified": false,
       "retrieved": "2026-10-29",
@@ -176,7 +176,7 @@
       "usedFor": "word selection",
       "modified": false,
       "retrieved": "2026-10-29",
-      "entryCount": 6
+      "entryCount": 0
     },
     {
       "id": "wikipedia-stenotype",
@@ -192,25 +192,25 @@
       "usedFor": "layout, chart and theory examples",
       "modified": false,
       "retrieved": "2026-10-29",
-      "entryCount": 407
+      "entryCount": 402
     }
   ],
   "outputs": {
     "data/dictionary.json": {
-      "sha256": "24483fd7b71ac565aa4b406be3725ccd5bb70aa775a9d39e0c8f2384c23f71d7",
-      "bytes": 9643
+      "sha256": "3ecb9ae675b2929c56ea18bafc984c02e67e6d2c52f1262ab1cee17124822bc8",
+      "bytes": 9641
     },
     "data/multi_stroke.json": {
       "sha256": "df444f4f5eda08536e8cb601d86c59d9eb0b08b1b7d0ff54d6b35733a6e11ac8",
       "bytes": 220
     },
     "provenance/entries.json": {
-      "sha256": "fbcc3ba196c032570c29ff7af7c820dc510294fecb9e0a6e893e6d462c1d55e4",
-      "bytes": 247043
+      "sha256": "98fc9fa82863607e3fbecb8ff582ab0897e68af20b0f95f514e8aeaf8204f910",
+      "bytes": 246693
     },
     "validation/self_check.md": {
-      "sha256": "dd8fb5e0c250bf6776f683fe20e279d6668eaba17b397fbafe471f0398215f67",
-      "bytes": 8265
+      "sha256": "bfe6e3b6d8f98c700a360323042e657b094389ec7f04f3063299e6bb6adceb56",
+      "bytes": 8022
     }
   },
   "notes": [

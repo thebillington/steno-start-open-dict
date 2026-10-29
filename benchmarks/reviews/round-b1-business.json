@@ -1,0 +1,391 @@
+{
+  "name": "business",
+  "words": 199,
+  "present": 197,
+  "missing": 2,
+  "missing_words": [
+    "roadmap",
+    "roi"
+  ],
+  "exact": 78,
+  "exact_percent_all": 39.2,
+  "exact_percent_present": 39.6,
+  "mismatch_single": 95,
+  "multi_only": 24,
+  "categories": {
+    "coda": 25,
+    "vowel": 17,
+    "onset+vowel+coda": 13,
+    "onset": 10,
+    "vowel+coda": 9,
+    "onset+coda": 7,
+    "star": 6,
+    "onset+vowel": 3,
+    "onset+vowel+star+coda": 2,
+    "vowel+star": 1,
+    "onset+star": 1,
+    "onset+star+coda": 1
+  },
+  "mismatch_sample": [
+    {
+      "word": "company",
+      "generated": "KUFRPB",
+      "reference": "K-P",
+      "category": "vowel+coda"
+    },
+    {
+      "word": "business",
+      "generated": "PWEUPBSZ",
+      "reference": "PWEUS",
+      "category": "coda"
+    },
+    {
+      "word": "customer",
+      "generated": "KUFRPLT",
+      "reference": "KUFRPL",
+      "category": "coda"
+    },
+    {
+      "word": "product",
+      "generated": "PROBGTD",
+      "reference": "PROUBLGTD",
+      "category": "vowel+coda"
+    },
+    {
+      "word": "service",
+      "generated": "S*EFRS",
+      "reference": "S*FS",
+      "category": "vowel+coda"
+    },
+    {
+      "word": "finance",
+      "generated": "TPHAPBS",
+      "reference": "TP-PBS",
+      "category": "onset+vowel"
+    },
+    {
+      "word": "account",
+      "generated": "KOUPBT",
+      "reference": "K-T",
+      "category": "vowel+coda"
+    },
+    {
+      "word": "invoice",
+      "generated": "*EUFPBS",
+      "reference": "EUPB/SROEUS",
+      "category": "multi-only"
+    },
+    {
+      "word": "contract",
+      "generated": "KORPBGT",
+      "reference": "KRABGT",
+      "category": "onset+vowel+coda"
+    },
+    {
+      "word": "employee",
+      "generated": "PHROEU",
+      "reference": "PHROE",
+      "category": "vowel"
+    },
+    {
+      "word": "director",
+      "generated": "TKRERBGT",
+      "reference": "TKROR",
+      "category": "vowel+coda"
+    },
+    {
+      "word": "board",
+      "generated": "PWORD",
+      "reference": "PWAORD",
+      "category": "vowel"
+    },
+    {
+      "word": "meeting",
+      "generated": "PHAOEPBGT",
+      "reference": "PHAOEGT",
+      "category": "coda"
+    },
+    {
+      "word": "deadline",
+      "generated": "TKAEPBLD",
+      "reference": "TKED/HRAO*EUPB",
+      "category": "multi-only"
+    },
+    {
+      "word": "report",
+      "generated": "PRORT",
+      "reference": "RORT",
+      "category": "onset"
+    },
+    {
+      "word": "strategy",
+      "generated": "STRAEPBLGT",
+      "reference": "STRAOEPBLG",
+      "category": "vowel+coda"
+    },
+    {
+      "word": "sales",
+      "generated": "SAEULZ",
+      "reference": "SAELS",
+      "category": "vowel+coda"
+    },
+    {
+      "word": "marketing",
+      "generated": "PHARPBGT",
+      "reference": "PHARBLGT/-G",
+      "category": "multi-only"
+    },
+    {
+      "word": "campaign",
+      "generated": "KPHAEUPB",
+      "reference": "KPAEUPB",
+      "category": "onset"
+    },
+    {
+      "word": "investment",
+      "generated": "STPHREFPBLT",
+      "reference": "SREFPLT",
+      "category": "onset+coda"
+    },
+    {
+      "word": "shareholder",
+      "generated": "SHERLD",
+      "reference": "SHOERLD",
+      "category": "vowel"
+    },
+    {
+      "word": "margin",
+      "generated": "PHARPBLG",
+      "reference": "PHARPB",
+      "category": "coda"
+    },
+    {
+      "word": "capital",
+      "generated": "KAPLT",
+      "reference": "KPAL",
+      "category": "onset+coda"
+    },
+    {
+      "word": "asset",
+      "generated": "AFT",
+      "reference": "SA*ET",
+      "category": "onset+vowel+star+coda"
+    },
+    {
+      "word": "equity",
+      "generated": "EBGT",
+      "reference": "KWET",
+      "category": "onset+coda"
+    },
+    {
+      "word": "loan",
+      "generated": "HROEPB",
+      "reference": "HRAOPB",
+      "category": "vowel"
+    },
+    {
+      "word": "debit",
+      "generated": "TKEBT",
+      "reference": "TKE/PWEUT",
+      "category": "multi-only"
+    },
+    {
+      "word": "balance",
+      "generated": "PWAPBLS",
+      "reference": "PWAL",
+      "category": "coda"
+    },
+    {
+      "word": "income",
+      "generated": "EUPBLG",
+      "reference": "TPH-BG",
+      "category": "onset+vowel+coda"
+    },
+    {
+      "word": "expense",
+      "generated": "SKPEPBS",
+      "reference": "SPEPBS",
+      "category": "onset"
+    },
+    {
+      "word": "forecast",
+      "generated": "TPORBGTS",
+      "reference": "TPOER/KA*S",
+      "category": "multi-only"
+    },
+    {
+      "word": "quarter",
+      "generated": "KWORT",
+      "reference": "KWRART",
+      "category": "onset+vowel"
+    },
+    {
+      "word": "annual",
+      "generated": "APBL",
+      "reference": "AEPBL",
+      "category": "vowel"
+    },
+    {
+      "word": "monthly",
+      "generated": "PH*EUPBLT",
+      "reference": "PHO*PBLT",
+      "category": "vowel"
+    },
+    {
+      "word": "weekly",
+      "generated": "WAOEBLG",
+      "reference": "WAOELG",
+      "category": "coda"
+    },
+    {
+      "word": "proposal",
+      "generated": "PROELZ",
+      "reference": "PROEL",
+      "category": "coda"
+    },
+    {
+      "word": "negotiation",
+      "generated": "STKPWHAEUGS",
+      "reference": "TKPWOEGS",
+      "category": "onset+vowel"
+    },
+    {
+      "word": "partnership",
+      "generated": "PARPBT",
+      "reference": "PARP",
+      "category": "coda"
+    },
+    {
+      "word": "merger",
+      "generated": "PHERPBLG",
+      "reference": "PHER/SKWRER",
+      "category": "multi-only"
+    },
+    {
+      "word": "acquisition",
+      "generated": "SKW*EUGS",
+      "reference": "SKWEUGS",
+      "category": "star"
+    },
+    {
+      "word": "startup",
+      "generated": "STARPT",
+      "reference": "START/*UP",
+      "category": "multi-only"
+    },
+    {
+      "word": "enterprise",
+      "generated": "ERPBTZ",
+      "reference": "SPWER/PRAOEUS",
+      "category": "multi-only"
+    },
+    {
+      "word": "industry",
+      "generated": "EUFRPBTD",
+      "reference": "STREU",
+      "category": "onset+coda"
+    },
+    {
+      "word": "competitor",
+      "generated": "KPHERT",
+      "reference": "KPOR",
+      "category": "onset+vowel+coda"
+    },
+    {
+      "word": "consumer",
+      "generated": "STKPHAOURPL",
+      "reference": "KAOURPL",
+      "category": "onset"
+    },
+    {
+      "word": "distribution",
+      "generated": "STKPWRAOUGS",
+      "reference": "TKWR-BGS",
+      "category": "onset+vowel+coda"
+    },
+    {
+      "word": "logistics",
+      "generated": "SKWHREUFBGTS",
+      "reference": "HRO/SKWR*EUS/EUBGS",
+      "category": "multi-only"
+    },
+    {
+      "word": "inventory",
+      "generated": "STPHROER",
+      "reference": "SROERPB",
+      "category": "onset+coda"
+    },
+    {
+      "word": "warehouse",
+      "generated": "WERS",
+      "reference": "WROUS",
+      "category": "onset+vowel+coda"
+    },
+    {
+      "word": "shipping",
+      "generated": "SHEUPBG",
+      "reference": "SHEUPG",
+      "category": "coda"
+    },
+    {
+      "word": "delivery",
+      "generated": "TKHR*EUFR",
+      "reference": "TKHROEUFR",
+      "category": "vowel+star"
+    },
+    {
+      "word": "quality",
+      "generated": "KWAEULT",
+      "reference": "KWAULT",
+      "category": "vowel"
+    },
+    {
+      "word": "control",
+      "generated": "TKPHROEL",
+      "reference": "TKROEL",
+      "category": "onset"
+    },
+    {
+      "word": "process",
+      "generated": "PROS",
+      "reference": "PROEUS",
+      "category": "vowel"
+    },
+    {
+      "word": "improvement",
+      "generated": "PHRAO*UFPBLT",
+      "reference": "PROFPLT",
+      "category": "onset+vowel+star+coda"
+    },
+    {
+      "word": "risk",
+      "generated": "REUBGS",
+      "reference": "REUFBG",
+      "category": "coda"
+    },
+    {
+      "word": "regulation",
+      "generated": "TKPWHRAEUGS",
+      "reference": "RAEUGS",
+      "category": "onset"
+    },
+    {
+      "word": "legal",
+      "generated": "HRAOELG",
+      "reference": "HRAOEL",
+      "category": "coda"
+    },
+    {
+      "word": "policy",
+      "generated": "POELS",
+      "reference": "POEULS",
+      "category": "vowel"
+    },
+    {
+      "word": "coverage",
+      "generated": "K*UFRPBLG",
+      "reference": "KO*FRPBLG",
+      "category": "vowel"
+    }
+  ]
+}

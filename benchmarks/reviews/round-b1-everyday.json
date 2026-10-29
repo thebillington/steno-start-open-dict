@@ -1,0 +1,390 @@
+{
+  "name": "everyday",
+  "words": 500,
+  "present": 500,
+  "missing": 0,
+  "missing_words": [],
+  "exact": 331,
+  "exact_percent_all": 66.2,
+  "exact_percent_present": 66.2,
+  "mismatch_single": 167,
+  "multi_only": 2,
+  "categories": {
+    "vowel": 33,
+    "coda": 31,
+    "onset+vowel+coda": 23,
+    "onset": 22,
+    "vowel+coda": 14,
+    "onset+coda": 9,
+    "star": 7,
+    "onset+vowel+star+coda": 6,
+    "vowel+star": 5,
+    "onset+star": 5,
+    "star+coda": 4,
+    "vowel+star+coda": 4,
+    "onset+star+coda": 2,
+    "onset+vowel": 2
+  },
+  "mismatch_sample": [
+    {
+      "word": "cannot",
+      "generated": "KAPBT",
+      "reference": "KAPBLT",
+      "category": "coda"
+    },
+    {
+      "word": "very",
+      "generated": "SRER",
+      "reference": "SRE",
+      "category": "coda"
+    },
+    {
+      "word": "where",
+      "generated": "WER",
+      "reference": "WHER",
+      "category": "onset"
+    },
+    {
+      "word": "should",
+      "generated": "SHAOD",
+      "reference": "SHO",
+      "category": "vowel+coda"
+    },
+    {
+      "word": "really",
+      "generated": "REUL",
+      "reference": "R-L",
+      "category": "vowel"
+    },
+    {
+      "word": "before",
+      "generated": "TPWOR",
+      "reference": "PWOFR",
+      "category": "onset+coda"
+    },
+    {
+      "word": "company",
+      "generated": "KUFRPB",
+      "reference": "K-P",
+      "category": "vowel+coda"
+    },
+    {
+      "word": "through",
+      "generated": "THRAOU",
+      "reference": "THRU",
+      "category": "vowel"
+    },
+    {
+      "word": "problem",
+      "generated": "PROPBL",
+      "reference": "PRO*B",
+      "category": "star+coda"
+    },
+    {
+      "word": "great",
+      "generated": "TKPWRAEUT",
+      "reference": "TKPWRAET",
+      "category": "vowel"
+    },
+    {
+      "word": "number",
+      "generated": "TPHURPBL",
+      "reference": "TPHURPL",
+      "category": "coda"
+    },
+    {
+      "word": "help",
+      "generated": "HEPL",
+      "reference": "HEP",
+      "category": "coda"
+    },
+    {
+      "word": "ask",
+      "generated": "ABGS",
+      "reference": "SK",
+      "category": "onset+vowel+coda"
+    },
+    {
+      "word": "something",
+      "generated": "S*UPBLGT",
+      "reference": "STHEUPBG",
+      "category": "onset+vowel+star+coda"
+    },
+    {
+      "word": "another",
+      "generated": "TPH*URT",
+      "reference": "TPHOER",
+      "category": "vowel+star+coda"
+    },
+    {
+      "word": "become",
+      "generated": "KPWUPL",
+      "reference": "PW-BG",
+      "category": "onset+vowel+coda"
+    },
+    {
+      "word": "interest",
+      "generated": "EUFRPBT",
+      "reference": "T-R",
+      "category": "onset+vowel+coda"
+    },
+    {
+      "word": "country",
+      "generated": "KEURPBT",
+      "reference": "KUPBT",
+      "category": "vowel+coda"
+    },
+    {
+      "word": "next",
+      "generated": "TPHEBGTS",
+      "reference": "TPH*EBGS",
+      "category": "star+coda"
+    },
+    {
+      "word": "while",
+      "generated": "WAOEUL",
+      "reference": "WHAOEUL",
+      "category": "onset"
+    },
+    {
+      "word": "never",
+      "generated": "TPH*EFR",
+      "reference": "TPHEFR",
+      "category": "star"
+    },
+    {
+      "word": "include",
+      "generated": "TKPHRAOUD",
+      "reference": "KHRU",
+      "category": "onset+vowel+coda"
+    },
+    {
+      "word": "report",
+      "generated": "PRORT",
+      "reference": "RORT",
+      "category": "onset"
+    },
+    {
+      "word": "woman",
+      "generated": "WAOPBL",
+      "reference": "WOPL",
+      "category": "vowel+coda"
+    },
+    {
+      "word": "hear",
+      "generated": "HAO*ER",
+      "reference": "HAER",
+      "category": "vowel+star"
+    },
+    {
+      "word": "system",
+      "generated": "SEUFPLT",
+      "reference": "ST-FPL",
+      "category": "onset+vowel+coda"
+    },
+    {
+      "word": "question",
+      "generated": "KWEFPBS",
+      "reference": "KWE",
+      "category": "coda"
+    },
+    {
+      "word": "study",
+      "generated": "STEUD",
+      "reference": "STOEU",
+      "category": "vowel+coda"
+    },
+    {
+      "word": "important",
+      "generated": "PHORPBT",
+      "reference": "PORPBT",
+      "category": "onset"
+    },
+    {
+      "word": "under",
+      "generated": "URPBD",
+      "reference": "*UPBD",
+      "category": "star+coda"
+    },
+    {
+      "word": "early",
+      "generated": "EURL",
+      "reference": "ERL",
+      "category": "vowel"
+    },
+    {
+      "word": "money",
+      "generated": "PHEUPB",
+      "reference": "PHUPB",
+      "category": "vowel"
+    },
+    {
+      "word": "however",
+      "generated": "H*EFR",
+      "reference": "HOEFR",
+      "category": "vowel+star"
+    },
+    {
+      "word": "area",
+      "generated": "AER",
+      "reference": "KWRA*ER",
+      "category": "onset+star"
+    },
+    {
+      "word": "provide",
+      "generated": "SPRAOEUD",
+      "reference": "PRAO*EUFD",
+      "category": "onset+star+coda"
+    },
+    {
+      "word": "read",
+      "generated": "RAOED",
+      "reference": "RAED",
+      "category": "vowel"
+    },
+    {
+      "word": "month",
+      "generated": "PH*UPBT",
+      "reference": "PHO*PBT",
+      "category": "vowel"
+    },
+    {
+      "word": "business",
+      "generated": "PWEUPBSZ",
+      "reference": "PWEUS",
+      "category": "coda"
+    },
+    {
+      "word": "without",
+      "generated": "TWHOUT",
+      "reference": "WOUT",
+      "category": "onset"
+    },
+    {
+      "word": "information",
+      "generated": "TPHRAEUGS",
+      "reference": "TPH-FGS",
+      "category": "onset+vowel+coda"
+    },
+    {
+      "word": "government",
+      "generated": "TKPW*UFRPBLT",
+      "reference": "TKPWO*FRPLT",
+      "category": "vowel+coda"
+    },
+    {
+      "word": "issue",
+      "generated": "EURB",
+      "reference": "*EURB",
+      "category": "star"
+    },
+    {
+      "word": "service",
+      "generated": "S*EFRS",
+      "reference": "S*FS",
+      "category": "vowel+coda"
+    },
+    {
+      "word": "against",
+      "generated": "TKPWEFPBT",
+      "reference": "TKPWEPBS",
+      "category": "coda"
+    },
+    {
+      "word": "second",
+      "generated": "SEPBGD",
+      "reference": "SEBGD",
+      "category": "coda"
+    },
+    {
+      "word": "yes",
+      "generated": "KWRES",
+      "reference": "KWRE",
+      "category": "coda"
+    },
+    {
+      "word": "increase",
+      "generated": "TKPHRAOES",
+      "reference": "EUP/KRAOES",
+      "category": "multi-only"
+    },
+    {
+      "word": "result",
+      "generated": "SR*ULT",
+      "reference": "RULT",
+      "category": "onset+star"
+    },
+    {
+      "word": "example",
+      "generated": "STKPWA*FRPL",
+      "reference": "KPAFRPL",
+      "category": "onset+star"
+    },
+    {
+      "word": "happen",
+      "generated": "HAPB",
+      "reference": "HAP",
+      "category": "coda"
+    },
+    {
+      "word": "program",
+      "generated": "PROERPLG",
+      "reference": "PRAPL",
+      "category": "vowel+coda"
+    },
+    {
+      "word": "understand",
+      "generated": "STKPHRAPBD",
+      "reference": "URPBD",
+      "category": "onset+vowel+coda"
+    },
+    {
+      "word": "student",
+      "generated": "STAOUPBTD",
+      "reference": "STAOUPBT",
+      "category": "coda"
+    },
+    {
+      "word": "idea",
+      "generated": "TKAOE",
+      "reference": "KWR-D",
+      "category": "onset+vowel+coda"
+    },
+    {
+      "word": "until",
+      "generated": "TPHEUL",
+      "reference": "TPH-L",
+      "category": "vowel"
+    },
+    {
+      "word": "reason",
+      "generated": "RAOEPBZ",
+      "reference": "R-PB",
+      "category": "vowel+coda"
+    },
+    {
+      "word": "learn",
+      "generated": "HREURPB",
+      "reference": "HRERPB",
+      "category": "vowel"
+    },
+    {
+      "word": "person",
+      "generated": "PERPBS",
+      "reference": "PERPB",
+      "category": "coda"
+    },
+    {
+      "word": "experience",
+      "generated": "SKPEURPBS",
+      "reference": "SPAOERPBS",
+      "category": "onset+vowel"
+    },
+    {
+      "word": "member",
+      "generated": "PHERPBL",
+      "reference": "PHEPL",
+      "category": "coda"
+    }
+  ]
+}

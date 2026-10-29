@@ -4,7 +4,7 @@
   "generator": {
     "name": "steno-start-open-dict-generator",
     "version": "1.0.0",
-    "commit": "ee5c993df69afcae66244bede2b876916b060039"
+    "commit": "829fa5dd0271b341168cb3b3924a9bbb039f8d97"
   },
   "command": "docker run --rm -v /home/dev/Development/steno-start-open-dict-lab-clean:/workspace -w /workspace/generator revision-app-dev:latest sh -lc 'dart pub get && dart run bin/generate.dart && dart test'",
   "date": "2026-10-29",
@@ -28,11 +28,11 @@
     "changedEntries": 69,
     "collisionResolved": 4,
     "multiStrokeEntries": 8,
-    "sourceIdsUsed": 7
+    "sourceIdsUsed": 6
   },
   "sourceRegistry": {
     "path": "sources/sources.json",
-    "sha256": "eb94b4cb390eac6da3edca25b55342e8153918c88d59921a726f687dd4d93c68"
+    "sha256": "5c21f8a3c2b312f82ff9c3dcc1562f29274c2f8e2cdeea52c88f596de2628d95"
   },
   "inputs": [
     {
@@ -72,8 +72,8 @@
     },
     {
       "path": "generator/RULES.md",
-      "sha256": "562be8129889412f3149ff1d100389dea50fe8f89f95076cc2cfd7ee88b939b1",
-      "bytes": 10375
+      "sha256": "071e4b2d43108ea569fb8b47879a2d90d02eca28fe73b4e43c0c874a5fdbc379",
+      "bytes": 10647
     },
     {
       "path": "generator/bin/generate.dart",
@@ -82,8 +82,8 @@
     },
     {
       "path": "generator/lib/src/briefs.dart",
-      "sha256": "f7a5bee7ab8ad61189c9ef6fa9aec443009241e1a247a3b7b7dfbf0f645c2ec5",
-      "bytes": 27906
+      "sha256": "4bbbee237ed2f72c60cb6639e99bc9b2a38cb753a07b73808c8c8c5e19a2d371",
+      "bytes": 27615
     },
     {
       "path": "generator/lib/src/cmudict.dart",
@@ -97,8 +97,8 @@
     },
     {
       "path": "generator/lib/src/rules.dart",
-      "sha256": "d1f706a2897cc0fea1736e746b61746c581171defd9e86ae8b2c23109fe80bf7",
-      "bytes": 16580
+      "sha256": "cba6be009cece1754b8a106ef24db0092ff001df70d84dfc05ea1cfa19700195",
+      "bytes": 17541
     },
     {
       "path": "generator/lib/steno_start_generator.dart",
@@ -332,7 +332,7 @@
     },
     {
       "path": "sources/sources.json",
-      "sha256": "eb94b4cb390eac6da3edca25b55342e8153918c88d59921a726f687dd4d93c68",
+      "sha256": "5c21f8a3c2b312f82ff9c3dcc1562f29274c2f8e2cdeea52c88f596de2628d95",
       "bytes": 8023
     },
     {
@@ -348,23 +348,23 @@
   ],
   "outputs": {
     "data/dictionary.json": {
-      "sha256": "24483fd7b71ac565aa4b406be3725ccd5bb70aa775a9d39e0c8f2384c23f71d7",
-      "bytes": 9643
+      "sha256": "3ecb9ae675b2929c56ea18bafc984c02e67e6d2c52f1262ab1cee17124822bc8",
+      "bytes": 9641
     },
     "data/multi_stroke.json": {
       "sha256": "df444f4f5eda08536e8cb601d86c59d9eb0b08b1b7d0ff54d6b35733a6e11ac8",
       "bytes": 220
     },
     "provenance/entries.json": {
-      "sha256": "fbcc3ba196c032570c29ff7af7c820dc510294fecb9e0a6e893e6d462c1d55e4",
-      "bytes": 247043
+      "sha256": "98fc9fa82863607e3fbecb8ff582ab0897e68af20b0f95f514e8aeaf8204f910",
+      "bytes": 246693
     },
     "validation/self_check.md": {
-      "sha256": "dd8fb5e0c250bf6776f683fe20e279d6668eaba17b397fbafe471f0398215f67",
-      "bytes": 8265
+      "sha256": "bfe6e3b6d8f98c700a360323042e657b094389ec7f04f3063299e6bb6adceb56",
+      "bytes": 8022
     },
     "data/manifest.json": {
-      "sha256": "95bbbffe7179a393bbcb5a6c7535256e5e8b23841f433b8fb533ad1fc6b29832",
+      "sha256": "8ecd4a1f709b94654e481d5796b3abb2022db253fcc5fec15eedfe91a89c01b6",
       "bytes": 9564
     }
   },

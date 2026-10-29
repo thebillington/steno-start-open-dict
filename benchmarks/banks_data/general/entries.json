@@ -36,7 +36,7 @@
     "plainRule": "HRAEURPB",
     "plainSignature": "5|6|7|10|11|13|14|15",
     "multiStroke": [
-      "HRAEURPB/SHEUP"
+      "HRAEUGS/SHEUP"
     ],
     "license": "CC-BY-SA-4.0"
   },
@@ -217,8 +217,8 @@
   },
   {
     "word": "organization",
-    "outline": "STKPWHRA*EURPB",
-    "signature": "0|1|2|3|4|5|6|7|9|10|11|13|14|15",
+    "outline": "STKPWHRA*EUGS",
+    "signature": "0|1|2|3|4|5|6|7|9|10|11|17|19",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -230,10 +230,10 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "AO2 R G AH0 N AH0 Z EY1 SH AH0 N",
-    "plainRule": "STKPWHRA*EURPB",
-    "plainSignature": "0|1|2|3|4|5|6|7|9|10|11|13|14|15",
+    "plainRule": "STKPWHRA*EUGS",
+    "plainSignature": "0|1|2|3|4|5|6|7|9|10|11|17|19",
     "multiStroke": [
-      "ORPBG/SA*EURPB"
+      "ORPBG/SA*EUGS"
     ],
     "license": "CC-BY-SA-4.0"
   },
@@ -587,8 +587,8 @@
   },
   {
     "word": "education",
-    "outline": "SKWRAEURPB",
-    "signature": "0|2|4|6|7|10|11|13|14|15",
+    "outline": "SKWRAEUGS",
+    "signature": "0|2|4|6|7|10|11|17|19",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -600,10 +600,10 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "EH2 JH AH0 K EY1 SH AH0 N",
-    "plainRule": "SKWRAEURPB",
-    "plainSignature": "0|2|4|6|7|10|11|13|14|15",
+    "plainRule": "SKWRAEUGS",
+    "plainSignature": "0|2|4|6|7|10|11|17|19",
     "multiStroke": [
-      "EPBLG/KAEURPB"
+      "EPBLG/KAEUGS"
     ],
     "license": "CC-BY-SA-4.0"
   },
@@ -666,21 +666,21 @@
   },
   {
     "word": "likely",
-    "outline": "HRAOEUBLG",
-    "signature": "5|6|7|8|10|11|15|16|17",
+    "outline": "HRAOEULG",
+    "signature": "5|6|7|8|10|11|16|17",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
       "steno-start-rules"
     ],
-    "rule": "Phoneme rules v1: CMUdict [L AY1 K L IY0] -> target AY; onset L; coda K L. Variant: base.",
+    "rule": "Phoneme rules v1: CMUdict [L AY1 K L IY0] -> target AY; onset L; coda LG. Variant: base.",
     "changed": false,
     "brief": false,
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "L AY1 K L IY0",
-    "plainRule": "HRAOEUBLG",
-    "plainSignature": "5|6|7|8|10|11|15|16|17",
+    "plainRule": "HRAOEULG",
+    "plainSignature": "5|6|7|8|10|11|16|17",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -2490,21 +2490,21 @@
   },
   {
     "word": "article",
-    "outline": "ARBLG",
-    "signature": "7|13|15|16|17",
+    "outline": "ARLG",
+    "signature": "7|13|16|17",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
       "steno-start-rules"
     ],
-    "rule": "Phoneme rules v1: CMUdict [AA1 R T AH0 K AH0 L] -> target AA; onset none; coda R K L. Variant: base.",
+    "rule": "Phoneme rules v1: CMUdict [AA1 R T AH0 K AH0 L] -> target AA; onset none; coda R LG. Variant: base.",
     "changed": false,
     "brief": false,
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "AA1 R T AH0 K AH0 L",
-    "plainRule": "ARBLG",
-    "plainSignature": "7|13|15|16|17",
+    "plainRule": "ARLG",
+    "plainSignature": "7|13|16|17",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -3224,8 +3224,8 @@
   },
   {
     "word": "section",
-    "outline": "SERPBG",
-    "signature": "0|10|13|14|15|17",
+    "outline": "SEBGS",
+    "signature": "0|10|15|17|19",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -3237,8 +3237,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "S EH1 K SH AH0 N",
-    "plainRule": "SERPBG",
-    "plainSignature": "0|10|13|14|15|17",
+    "plainRule": "SEBGS",
+    "plainSignature": "0|10|15|17|19",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -3360,21 +3360,21 @@
   },
   {
     "word": "whatever",
-    "outline": "TW*EFR",
-    "signature": "1|4|9|10|12|13",
+    "outline": "TWH*EFR",
+    "signature": "1|4|5|9|10|12|13",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
       "steno-start-rules"
     ],
-    "rule": "Phoneme rules v1: CMUdict [W AH2 T EH1 V ER0] -> target EH; onset W T; coda V R. Variant: base.",
+    "rule": "Phoneme rules v1: CMUdict [W AH2 T EH1 V ER0] -> target EH; onset W HH T; coda V R. Variant: base.",
     "changed": false,
     "brief": false,
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "W AH2 T EH1 V ER0",
-    "plainRule": "TW*EFR",
-    "plainSignature": "1|4|9|10|12|13",
+    "plainRule": "TWH*EFR",
+    "plainSignature": "1|4|5|9|10|12|13",
     "multiStroke": [
       "WU/T*EFR"
     ],
@@ -3404,8 +3404,8 @@
   },
   {
     "word": "region",
-    "outline": "RAOEPBLG",
-    "signature": "6|7|8|10|14|15|16|17",
+    "outline": "RAOEGS",
+    "signature": "6|7|8|10|17|19",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -3417,8 +3417,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "R IY1 JH AH0 N",
-    "plainRule": "RAOEPBLG",
-    "plainSignature": "6|7|8|10|14|15|16|17",
+    "plainRule": "RAOEGS",
+    "plainSignature": "6|7|8|10|17|19",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -3980,8 +3980,8 @@
   },
   {
     "word": "addition",
-    "outline": "TKEURPB",
-    "signature": "1|2|10|11|13|14|15",
+    "outline": "TKEUGS",
+    "signature": "1|2|10|11|17|19",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -3993,8 +3993,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "AH0 D IH1 SH AH0 N",
-    "plainRule": "TKEURPB",
-    "plainSignature": "1|2|10|11|13|14|15",
+    "plainRule": "TKEUGS",
+    "plainSignature": "1|2|10|11|17|19",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -4018,8 +4018,8 @@
   },
   {
     "word": "station",
-    "outline": "STAEURPB",
-    "signature": "0|1|7|10|11|13|14|15",
+    "outline": "STAEUGS",
+    "signature": "0|1|7|10|11|17|19",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -4031,14 +4031,14 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "S T EY1 SH AH0 N",
-    "plainRule": "STAEURPB",
-    "plainSignature": "0|1|7|10|11|13|14|15",
+    "plainRule": "STAEUGS",
+    "plainSignature": "0|1|7|10|11|17|19",
     "license": "CC-BY-SA-4.0"
   },
   {
     "word": "population",
-    "outline": "KPWHRAEURPB",
-    "signature": "2|3|4|5|6|7|10|11|13|14|15",
+    "outline": "KPWHRAEUGS",
+    "signature": "2|3|4|5|6|7|10|11|17|19",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -4050,10 +4050,10 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "P AA2 P Y AH0 L EY1 SH AH0 N",
-    "plainRule": "KPWHRAEURPB",
-    "plainSignature": "2|3|4|5|6|7|10|11|13|14|15",
+    "plainRule": "KPWHRAEUGS",
+    "plainSignature": "2|3|4|5|6|7|10|11|17|19",
     "multiStroke": [
-      "POP/HRAEURPB"
+      "POP/HRAEUGS"
     ],
     "license": "CC-BY-SA-4.0"
   },
@@ -4097,8 +4097,8 @@
   },
   {
     "word": "production",
-    "outline": "TKPRURPBG",
-    "signature": "1|2|3|6|11|13|14|15|17",
+    "outline": "TKPRUBGS",
+    "signature": "1|2|3|6|11|15|17|19",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -4110,8 +4110,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "P R AH0 D AH1 K SH AH0 N",
-    "plainRule": "TKPRURPBG",
-    "plainSignature": "1|2|3|6|11|13|14|15|17",
+    "plainRule": "TKPRUBGS",
+    "plainSignature": "1|2|3|6|11|15|17|19",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -4157,8 +4157,8 @@
   },
   {
     "word": "comment",
-    "outline": "KOPBLT",
-    "signature": "2|8|14|15|16|18",
+    "outline": "KOPLT",
+    "signature": "2|8|14|16|18",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -4170,8 +4170,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "K AA1 M EH0 N T",
-    "plainRule": "KOPBLT",
-    "plainSignature": "2|8|14|15|16|18",
+    "plainRule": "KOPLT",
+    "plainSignature": "2|8|14|16|18",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -4951,8 +4951,8 @@
   },
   {
     "word": "election",
-    "outline": "HRERPBG",
-    "signature": "5|6|10|13|14|15|17",
+    "outline": "HREBGS",
+    "signature": "5|6|10|15|17|19",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -4964,8 +4964,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "IH0 L EH1 K SH AH0 N",
-    "plainRule": "HRERPBG",
-    "plainSignature": "5|6|10|13|14|15|17",
+    "plainRule": "HREBGS",
+    "plainSignature": "5|6|10|15|17|19",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -5087,8 +5087,8 @@
   },
   {
     "word": "discussion",
-    "outline": "STKURPB",
-    "signature": "0|1|2|11|13|14|15",
+    "outline": "STKUGS",
+    "signature": "0|1|2|11|17|19",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -5100,8 +5100,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "D IH0 S K AH1 SH AH0 N",
-    "plainRule": "STKURPB",
-    "plainSignature": "0|1|2|11|13|14|15",
+    "plainRule": "STKUGS",
+    "plainSignature": "0|1|2|11|17|19",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -5144,8 +5144,8 @@
   },
   {
     "word": "nation",
-    "outline": "TPHAEURPB",
-    "signature": "1|3|5|7|10|11|13|14|15",
+    "outline": "TPHAEUGS",
+    "signature": "1|3|5|7|10|11|17|19",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -5157,8 +5157,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "N EY1 SH AH0 N",
-    "plainRule": "TPHAEURPB",
-    "plainSignature": "1|3|5|7|10|11|13|14|15",
+    "plainRule": "TPHAEUGS",
+    "plainSignature": "1|3|5|7|10|11|17|19",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -5457,21 +5457,21 @@
   },
   {
     "word": "quickly",
-    "outline": "KWEUBLG",
-    "signature": "2|4|10|11|15|16|17",
+    "outline": "KWEULG",
+    "signature": "2|4|10|11|16|17",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
       "steno-start-rules"
     ],
-    "rule": "Phoneme rules v1: CMUdict [K W IH1 K L IY0] -> target IH; onset K W; coda K L. Variant: base.",
+    "rule": "Phoneme rules v1: CMUdict [K W IH1 K L IY0] -> target IH; onset K W; coda LG. Variant: base.",
     "changed": false,
     "brief": false,
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "K W IH1 K L IY0",
-    "plainRule": "KWEUBLG",
-    "plainSignature": "2|4|10|11|15|16|17",
+    "plainRule": "KWEULG",
+    "plainSignature": "2|4|10|11|16|17",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -5498,8 +5498,8 @@
   },
   {
     "word": "agreement",
-    "outline": "TKPWRAOEPBLT",
-    "signature": "1|2|3|4|6|7|8|10|14|15|16|18",
+    "outline": "TKPWRAOEPLT",
+    "signature": "1|2|3|4|6|7|8|10|14|16|18",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -5511,8 +5511,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "AH0 G R IY1 M AH0 N T",
-    "plainRule": "TKPWRAOEPBLT",
-    "plainSignature": "1|2|3|4|6|7|8|10|14|15|16|18",
+    "plainRule": "TKPWRAOEPLT",
+    "plainSignature": "1|2|3|4|6|7|8|10|14|16|18",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -5555,8 +5555,8 @@
   },
   {
     "word": "solution",
-    "outline": "SHRAOURPB",
-    "signature": "0|5|6|7|8|11|13|14|15",
+    "outline": "SHRAOUGS",
+    "signature": "0|5|6|7|8|11|17|19",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -5568,8 +5568,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "S AH0 L UW1 SH AH0 N",
-    "plainRule": "SHRAOURPB",
-    "plainSignature": "0|5|6|7|8|11|13|14|15",
+    "plainRule": "SHRAOUGS",
+    "plainSignature": "0|5|6|7|8|11|17|19",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -5704,7 +5704,7 @@
     "plainRule": "T*EFRPBL",
     "plainSignature": "1|9|10|12|13|14|15|16",
     "multiStroke": [
-      "TEL/SREURPB"
+      "TEL/SREUGS"
     ],
     "license": "CC-BY-SA-4.0"
   },
@@ -6428,21 +6428,21 @@
   },
   {
     "word": "relation",
-    "outline": "HRA*EURPB",
-    "signature": "5|6|7|9|10|11|13|14|15",
+    "outline": "HRAEUGS",
+    "signature": "5|6|7|10|11|17|19",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
       "steno-start-rules"
     ],
-    "rule": "Phoneme rules v1: CMUdict [R IY0 L EY1 SH AH0 N] -> target EY; onset R L; coda SH N. Variant: base+star.",
-    "changed": true,
+    "rule": "Phoneme rules v1: CMUdict [R IY0 L EY1 SH AH0 N] -> target EY; onset R L; coda SH N. Variant: base.",
+    "changed": false,
     "brief": false,
-    "collisionResolved": true,
-    "variant": "base+star",
+    "collisionResolved": false,
+    "variant": "base",
     "cmudict": "R IY0 L EY1 SH AH0 N",
-    "plainRule": "HRAEURPB",
-    "plainSignature": "5|6|7|10|11|13|14|15",
+    "plainRule": "HRAEUGS",
+    "plainSignature": "5|6|7|10|11|17|19",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -6735,8 +6735,8 @@
   },
   {
     "word": "operation",
-    "outline": "PRAEURPB",
-    "signature": "3|6|7|10|11|13|14|15",
+    "outline": "PRAEUGS",
+    "signature": "3|6|7|10|11|17|19",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -6748,10 +6748,10 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "AA2 P ER0 EY1 SH AH0 N",
-    "plainRule": "PRAEURPB",
-    "plainSignature": "3|6|7|10|11|13|14|15",
+    "plainRule": "PRAEUGS",
+    "plainSignature": "3|6|7|10|11|17|19",
     "multiStroke": [
-      "ORP/AEURPB"
+      "ORP/AEUGS"
     ],
     "license": "CC-BY-SA-4.0"
   },
@@ -7232,8 +7232,8 @@
   },
   {
     "word": "competition",
-    "outline": "TKPHEURPB",
-    "signature": "1|2|3|5|10|11|13|14|15",
+    "outline": "TKPHEUGS",
+    "signature": "1|2|3|5|10|11|17|19",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -7245,10 +7245,10 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "K AA2 M P AH0 T IH1 SH AH0 N",
-    "plainRule": "TKPHEURPB",
-    "plainSignature": "1|2|3|5|10|11|13|14|15",
+    "plainRule": "TKPHEUGS",
+    "plainSignature": "1|2|3|5|10|11|17|19",
     "multiStroke": [
-      "KOFRP/TEURPB"
+      "KOFRP/TEUGS"
     ],
     "license": "CC-BY-SA-4.0"
   },
@@ -7406,8 +7406,8 @@
   },
   {
     "word": "application",
-    "outline": "KPHRAEURPB",
-    "signature": "2|3|5|6|7|10|11|13|14|15",
+    "outline": "KPHRAEUGS",
+    "signature": "2|3|5|6|7|10|11|17|19",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -7419,10 +7419,10 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "AE2 P L AH0 K EY1 SH AH0 N",
-    "plainRule": "KPHRAEURPB",
-    "plainSignature": "2|3|5|6|7|10|11|13|14|15",
+    "plainRule": "KPHRAEUGS",
+    "plainSignature": "2|3|5|6|7|10|11|17|19",
     "multiStroke": [
-      "APL/KAEURPB"
+      "APL/KAEUGS"
     ],
     "license": "CC-BY-SA-4.0"
   },
@@ -8188,8 +8188,8 @@
   },
   {
     "word": "imagine",
-    "outline": "PHAPBLG",
-    "signature": "3|5|7|14|15|16|17",
+    "outline": "PHAGS",
+    "signature": "3|5|7|17|19",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -8201,10 +8201,10 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "IH2 M AE1 JH AH0 N",
-    "plainRule": "PHAPBLG",
-    "plainSignature": "3|5|7|14|15|16|17",
+    "plainRule": "PHAGS",
+    "plainSignature": "3|5|7|17|19",
     "multiStroke": [
-      "EU/PHAPBLG"
+      "EU/PHAGS"
     ],
     "license": "CC-BY-SA-4.0"
   },
@@ -8330,8 +8330,8 @@
   },
   {
     "word": "conclusion",
-    "outline": "TKPHRAOURPB",
-    "signature": "1|2|3|5|6|7|8|11|13|14|15",
+    "outline": "TKPHRAOUGS",
+    "signature": "1|2|3|5|6|7|8|11|17|19",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -8343,8 +8343,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "K AH0 N K L UW1 ZH AH0 N",
-    "plainRule": "TKPHRAOURPB",
-    "plainSignature": "1|2|3|5|6|7|8|11|13|14|15",
+    "plainRule": "TKPHRAOUGS",
+    "plainSignature": "1|2|3|5|6|7|8|11|17|19",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -8741,8 +8741,8 @@
   },
   {
     "word": "direction",
-    "outline": "TKRERPBG",
-    "signature": "1|2|6|10|13|14|15|17",
+    "outline": "TKREBGS",
+    "signature": "1|2|6|10|15|17|19",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -8754,8 +8754,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "D ER0 EH1 K SH AH0 N",
-    "plainRule": "TKRERPBG",
-    "plainSignature": "1|2|6|10|13|14|15|17",
+    "plainRule": "TKREBGS",
+    "plainSignature": "1|2|6|10|15|17|19",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -9301,8 +9301,8 @@
   },
   {
     "word": "version",
-    "outline": "SRERPB",
-    "signature": "0|6|10|13|14|15",
+    "outline": "SRERGS",
+    "signature": "0|6|10|13|17|19",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -9314,14 +9314,14 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "V ER1 ZH AH0 N",
-    "plainRule": "SRERPB",
-    "plainSignature": "0|6|10|13|14|15",
+    "plainRule": "SRERGS",
+    "plainSignature": "0|6|10|13|17|19",
     "license": "CC-BY-SA-4.0"
   },
   {
     "word": "conversation",
-    "outline": "STKPHRAEURPB",
-    "signature": "0|1|2|3|5|6|7|10|11|13|14|15",
+    "outline": "STKPHRAEUGS",
+    "signature": "0|1|2|3|5|6|7|10|11|17|19",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -9333,10 +9333,10 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "K AA2 N V ER0 S EY1 SH AH0 N",
-    "plainRule": "STKPHRAEURPB",
-    "plainSignature": "0|1|2|3|5|6|7|10|11|13|14|15",
+    "plainRule": "STKPHRAEUGS",
+    "plainSignature": "0|1|2|3|5|6|7|10|11|17|19",
     "multiStroke": [
-      "KO*FRPB/SAEURPB"
+      "KO*FRPB/SAEUGS"
     ],
     "license": "CC-BY-SA-4.0"
   },
@@ -9465,21 +9465,21 @@
   },
   {
     "word": "welcome",
-    "outline": "WEPBLG",
-    "signature": "4|10|14|15|16|17",
+    "outline": "WEPLG",
+    "signature": "4|10|14|16|17",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
       "steno-start-rules"
     ],
-    "rule": "Phoneme rules v1: CMUdict [W EH1 L K AH0 M] -> target EH; onset W; coda L K M. Variant: base.",
+    "rule": "Phoneme rules v1: CMUdict [W EH1 L K AH0 M] -> target EH; onset W; coda LG M. Variant: base.",
     "changed": false,
     "brief": false,
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "W EH1 L K AH0 M",
-    "plainRule": "WEPBLG",
-    "plainSignature": "4|10|14|15|16|17",
+    "plainRule": "WEPLG",
+    "plainSignature": "4|10|14|16|17",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -9503,8 +9503,8 @@
   },
   {
     "word": "communication",
-    "outline": "TKPWHRAEURPB",
-    "signature": "1|2|3|4|5|6|7|10|11|13|14|15",
+    "outline": "TKPWHRAEUGS",
+    "signature": "1|2|3|4|5|6|7|10|11|17|19",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -9516,10 +9516,10 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "K AH0 M Y UW2 N AH0 K EY1 SH AH0 N",
-    "plainRule": "TKPWHRAEURPB",
-    "plainSignature": "1|2|3|4|5|6|7|10|11|13|14|15",
+    "plainRule": "TKPWHRAEUGS",
+    "plainSignature": "1|2|3|4|5|6|7|10|11|17|19",
     "multiStroke": [
-      "KPHAOUPB/KAEURPB"
+      "KPHAOUPB/KAEUGS"
     ],
     "license": "CC-BY-SA-4.0"
   },
@@ -9642,8 +9642,8 @@
   },
   {
     "word": "generation",
-    "outline": "STKPWHRAEURPB",
-    "signature": "0|1|2|3|4|5|6|7|10|11|13|14|15",
+    "outline": "STKPWHRAEUGS",
+    "signature": "0|1|2|3|4|5|6|7|10|11|17|19",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -9655,10 +9655,10 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "JH EH2 N ER0 EY1 SH AH0 N",
-    "plainRule": "STKPWHRAEURPB",
-    "plainSignature": "0|1|2|3|4|5|6|7|10|11|13|14|15",
+    "plainRule": "STKPWHRAEUGS",
+    "plainSignature": "0|1|2|3|4|5|6|7|10|11|17|19",
     "multiStroke": [
-      "SKWRERPB/AEURPB"
+      "SKWRERPB/AEUGS"
     ],
     "license": "CC-BY-SA-4.0"
   },

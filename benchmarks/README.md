@@ -22,11 +22,11 @@ published outline for that word.
 
 | Bank | Words | In reference | Exact, all words | Exact, present |
 |---|---:|---:|---:|---:|
-| Basics 500 | 500 | 500 | 392 / 500 = 78.4% | 78.4% |
-| Everyday 500 | 500 | 500 | 328 / 500 = 65.6% | 65.6% |
-| Legal 200 | 200 | 199 | 59 / 200 = 29.5% | 59 / 199 = 29.6% |
-| Business 200 | 199 | 197 | 71 / 199 = 35.7% | 71 / 197 = 36.0% |
-| General 500 | 500 | 500 | 215 / 500 = 43.0% | 43.0% |
+| Basics 500 | 500 | 500 | 394 / 500 = 78.8% | 78.8% |
+| Everyday 500 | 500 | 500 | 335 / 500 = 67.0% | 67.0% |
+| Legal 200 | 200 | 199 | 63 / 200 = 31.5% | 63 / 199 = 31.7% |
+| Business 200 | 199 | 197 | 80 / 199 = 40.2% | 80 / 197 = 40.6% |
+| General 500 | 500 | 500 | 228 / 500 = 45.6% | 45.6% |
 
 The General bank now uses NGSL ranks 501-1000. All 500 words are present in the
 Plover reference; the earlier random CMUdict sample was replaced.

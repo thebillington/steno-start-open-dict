@@ -1,0 +1,388 @@
+{
+  "name": "basics",
+  "words": 500,
+  "present": 500,
+  "missing": 0,
+  "missing_words": [],
+  "exact": 394,
+  "exact_percent_all": 78.8,
+  "exact_percent_present": 78.8,
+  "mismatch_single": 106,
+  "multi_only": 0,
+  "categories": {
+    "vowel": 34,
+    "coda": 17,
+    "star": 12,
+    "onset+vowel+coda": 10,
+    "vowel+coda": 9,
+    "vowel+star": 7,
+    "onset": 5,
+    "star+coda": 4,
+    "vowel+star+coda": 3,
+    "onset+star": 2,
+    "onset+vowel": 2,
+    "onset+coda": 1
+  },
+  "mismatch_sample": [
+    {
+      "word": "is",
+      "generated": "EUZ",
+      "reference": "S",
+      "category": "onset+vowel+coda"
+    },
+    {
+      "word": "yes",
+      "generated": "KWRES",
+      "reference": "KWRE",
+      "category": "coda"
+    },
+    {
+      "word": "very",
+      "generated": "SRER",
+      "reference": "SRE",
+      "category": "coda"
+    },
+    {
+      "word": "four",
+      "generated": "TPAOR",
+      "reference": "TPOUR",
+      "category": "vowel"
+    },
+    {
+      "word": "five",
+      "generated": "TPAO*EUF",
+      "reference": "TPAOEUF",
+      "category": "star"
+    },
+    {
+      "word": "seven",
+      "generated": "S*EFPB",
+      "reference": "SEFPB",
+      "category": "star"
+    },
+    {
+      "word": "eight",
+      "generated": "AEUT",
+      "reference": "A*EUT",
+      "category": "star"
+    },
+    {
+      "word": "woman",
+      "generated": "WAOPBL",
+      "reference": "WOPL",
+      "category": "vowel+coda"
+    },
+    {
+      "word": "baby",
+      "generated": "PWAEUB",
+      "reference": "PWA*EUB",
+      "category": "star"
+    },
+    {
+      "word": "water",
+      "generated": "WAURT",
+      "reference": "WAUR",
+      "category": "coda"
+    },
+    {
+      "word": "city",
+      "generated": "STEUS",
+      "reference": "STEU",
+      "category": "coda"
+    },
+    {
+      "word": "chair",
+      "generated": "KHAER",
+      "reference": "KHAEUR",
+      "category": "vowel"
+    },
+    {
+      "word": "music",
+      "generated": "PHAOUBGZ",
+      "reference": "PHAOUFBG",
+      "category": "coda"
+    },
+    {
+      "word": "plane",
+      "generated": "PHRAEUPB",
+      "reference": "PHRAEPB",
+      "category": "vowel"
+    },
+    {
+      "word": "tea",
+      "generated": "TAOE",
+      "reference": "TAE",
+      "category": "vowel"
+    },
+    {
+      "word": "blue",
+      "generated": "PWHRAOU",
+      "reference": "PWHRAO*U",
+      "category": "star"
+    },
+    {
+      "word": "yellow",
+      "generated": "KWREL",
+      "reference": "KWR*EL",
+      "category": "star"
+    },
+    {
+      "word": "dirty",
+      "generated": "TKEURT",
+      "reference": "TKOEURT",
+      "category": "vowel"
+    },
+    {
+      "word": "easy",
+      "generated": "AOEZ",
+      "reference": "EZ",
+      "category": "vowel"
+    },
+    {
+      "word": "weak",
+      "generated": "WAOEBG",
+      "reference": "WAEBG",
+      "category": "vowel"
+    },
+    {
+      "word": "next",
+      "generated": "TPHEBGTS",
+      "reference": "TPH*EBGS",
+      "category": "star+coda"
+    },
+    {
+      "word": "learn",
+      "generated": "HREURPB",
+      "reference": "HRERPB",
+      "category": "vowel"
+    },
+    {
+      "word": "read",
+      "generated": "RAOED",
+      "reference": "RAED",
+      "category": "vowel"
+    },
+    {
+      "word": "ask",
+      "generated": "ABGS",
+      "reference": "SK",
+      "category": "onset+vowel+coda"
+    },
+    {
+      "word": "help",
+      "generated": "HEPL",
+      "reference": "HEP",
+      "category": "coda"
+    },
+    {
+      "word": "drive",
+      "generated": "TKRAO*EUF",
+      "reference": "TKRAOEUF",
+      "category": "star"
+    },
+    {
+      "word": "above",
+      "generated": "PW*UF",
+      "reference": "PWO*F",
+      "category": "vowel"
+    },
+    {
+      "word": "across",
+      "generated": "KROS",
+      "reference": "KRAOS",
+      "category": "vowel"
+    },
+    {
+      "word": "ago",
+      "generated": "TKPWOE",
+      "reference": "AG",
+      "category": "onset+vowel+coda"
+    },
+    {
+      "word": "almost",
+      "generated": "AUFPLT",
+      "reference": "HR-PL",
+      "category": "onset+vowel+coda"
+    },
+    {
+      "word": "along",
+      "generated": "HRAUPBG",
+      "reference": "HRAOPBG",
+      "category": "vowel"
+    },
+    {
+      "word": "already",
+      "generated": "HRAED",
+      "reference": "HR-RD",
+      "category": "vowel+coda"
+    },
+    {
+      "word": "animal",
+      "generated": "APBL",
+      "reference": "PHAPBL",
+      "category": "onset"
+    },
+    {
+      "word": "answer",
+      "generated": "ARPBS",
+      "reference": "AEPBS",
+      "category": "vowel+coda"
+    },
+    {
+      "word": "away",
+      "generated": "WAEU",
+      "reference": "WA*EU",
+      "category": "star"
+    },
+    {
+      "word": "beach",
+      "generated": "PWAOEFP",
+      "reference": "PWAEFP",
+      "category": "vowel"
+    },
+    {
+      "word": "beat",
+      "generated": "PWAOET",
+      "reference": "PWAET",
+      "category": "vowel"
+    },
+    {
+      "word": "become",
+      "generated": "KPWUPL",
+      "reference": "PW-BG",
+      "category": "onset+vowel+coda"
+    },
+    {
+      "word": "before",
+      "generated": "TPWOR",
+      "reference": "PWOFR",
+      "category": "onset+coda"
+    },
+    {
+      "word": "below",
+      "generated": "PWHROE",
+      "reference": "PWHRO",
+      "category": "vowel"
+    },
+    {
+      "word": "blood",
+      "generated": "PWHRUD",
+      "reference": "PWHRAOD",
+      "category": "vowel"
+    },
+    {
+      "word": "break",
+      "generated": "PWRAEUBG",
+      "reference": "PWRAEBG",
+      "category": "vowel"
+    },
+    {
+      "word": "business",
+      "generated": "PWEUPBSZ",
+      "reference": "PWEUS",
+      "category": "coda"
+    },
+    {
+      "word": "busy",
+      "generated": "PWEUZ",
+      "reference": "PW-Z",
+      "category": "vowel"
+    },
+    {
+      "word": "care",
+      "generated": "KER",
+      "reference": "KAEUR",
+      "category": "vowel"
+    },
+    {
+      "word": "center",
+      "generated": "SERPBT",
+      "reference": "KRERPBT",
+      "category": "onset"
+    },
+    {
+      "word": "certain",
+      "generated": "S*ERPBT",
+      "reference": "SERPB",
+      "category": "star+coda"
+    },
+    {
+      "word": "church",
+      "generated": "KHUFRP",
+      "reference": "KHUFRPB",
+      "category": "coda"
+    },
+    {
+      "word": "circle",
+      "generated": "SEURBG",
+      "reference": "SOEURBG",
+      "category": "vowel"
+    },
+    {
+      "word": "clear",
+      "generated": "KHREUR",
+      "reference": "KHRAOER",
+      "category": "vowel"
+    },
+    {
+      "word": "color",
+      "generated": "KURL",
+      "reference": "KROR",
+      "category": "onset+vowel+coda"
+    },
+    {
+      "word": "company",
+      "generated": "KUFRPB",
+      "reference": "K-P",
+      "category": "vowel+coda"
+    },
+    {
+      "word": "copy",
+      "generated": "KOEP",
+      "reference": "KO*EP",
+      "category": "star"
+    },
+    {
+      "word": "corner",
+      "generated": "KO*RPB",
+      "reference": "KRORPB",
+      "category": "onset+star"
+    },
+    {
+      "word": "country",
+      "generated": "KEURPBT",
+      "reference": "KUPBT",
+      "category": "vowel+coda"
+    },
+    {
+      "word": "cover",
+      "generated": "K*UFR",
+      "reference": "KOFR",
+      "category": "vowel+star"
+    },
+    {
+      "word": "cross",
+      "generated": "KRO*S",
+      "reference": "KROS",
+      "category": "star"
+    },
+    {
+      "word": "dead",
+      "generated": "TKAED",
+      "reference": "TKED",
+      "category": "vowel"
+    },
+    {
+      "word": "dear",
+      "generated": "TKEUR",
+      "reference": "TKAER",
+      "category": "vowel"
+    },
+    {
+      "word": "death",
+      "generated": "TKA*ET",
+      "reference": "TK*ET",
+      "category": "vowel"
+    }
+  ]
+}

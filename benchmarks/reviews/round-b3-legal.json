@@ -1,0 +1,392 @@
+{
+  "name": "legal",
+  "words": 200,
+  "present": 199,
+  "missing": 1,
+  "missing_words": [
+    "mistrial"
+  ],
+  "exact": 63,
+  "exact_percent_all": 31.5,
+  "exact_percent_present": 31.7,
+  "mismatch_single": 90,
+  "multi_only": 46,
+  "categories": {
+    "coda": 15,
+    "onset+vowel+coda": 13,
+    "vowel+coda": 12,
+    "vowel": 12,
+    "onset": 11,
+    "onset+vowel": 6,
+    "onset+vowel+star+coda": 5,
+    "star": 4,
+    "onset+coda": 4,
+    "vowel+star+coda": 2,
+    "onset+star+coda": 2,
+    "vowel+star": 2,
+    "star+coda": 1,
+    "onset+vowel+star": 1
+  },
+  "mismatch_sample": [
+    {
+      "word": "plaintiff",
+      "generated": "PHRAEUFPBT",
+      "reference": "PHR-F",
+      "category": "vowel+coda"
+    },
+    {
+      "word": "defendant",
+      "generated": "TKPEPBTD",
+      "reference": "TK-FT",
+      "category": "onset+vowel+coda"
+    },
+    {
+      "word": "evidence",
+      "generated": "*EFPBSD",
+      "reference": "*EFD",
+      "category": "coda"
+    },
+    {
+      "word": "witness",
+      "generated": "WEUPBTS",
+      "reference": "W-PBS",
+      "category": "vowel+coda"
+    },
+    {
+      "word": "testimony",
+      "generated": "TEFPBLT",
+      "reference": "T*PL",
+      "category": "vowel+star+coda"
+    },
+    {
+      "word": "hearing",
+      "generated": "HAOERPBG",
+      "reference": "HAERPBG",
+      "category": "vowel"
+    },
+    {
+      "word": "objection",
+      "generated": "SKPWREBGS",
+      "reference": "OBGS",
+      "category": "onset+vowel"
+    },
+    {
+      "word": "sustained",
+      "generated": "STAEUPBD",
+      "reference": "STA*EUPBD",
+      "category": "star"
+    },
+    {
+      "word": "overruled",
+      "generated": "SRAOULD",
+      "reference": "O*FRLD",
+      "category": "onset+vowel+star+coda"
+    },
+    {
+      "word": "exhibit",
+      "generated": "STKPW*EUBT",
+      "reference": "KP*EUBT",
+      "category": "onset"
+    },
+    {
+      "word": "contract",
+      "generated": "KORPBGT",
+      "reference": "KRABGT",
+      "category": "onset+vowel+coda"
+    },
+    {
+      "word": "breach",
+      "generated": "PWRAOEFP",
+      "reference": "PWRAEFP",
+      "category": "vowel"
+    },
+    {
+      "word": "damages",
+      "generated": "TKAPBLGZ",
+      "reference": "TKAPBLGS",
+      "category": "coda"
+    },
+    {
+      "word": "liability",
+      "generated": "PWHREULT",
+      "reference": "HRAOEUBLT",
+      "category": "onset+vowel+coda"
+    },
+    {
+      "word": "statute",
+      "generated": "STAFPT",
+      "reference": "STAUT",
+      "category": "vowel+coda"
+    },
+    {
+      "word": "regulation",
+      "generated": "TKPWHRAEUGS",
+      "reference": "RAEUGS",
+      "category": "onset"
+    },
+    {
+      "word": "appeal",
+      "generated": "PAOEL",
+      "reference": "AEP",
+      "category": "onset+vowel+coda"
+    },
+    {
+      "word": "verdict",
+      "generated": "SRERBGTD",
+      "reference": "SREURBGT",
+      "category": "vowel+coda"
+    },
+    {
+      "word": "sentence",
+      "generated": "SEPBTS",
+      "reference": "STEPBS",
+      "category": "onset+coda"
+    },
+    {
+      "word": "custody",
+      "generated": "KEUFTD",
+      "reference": "K*US/TKEU",
+      "category": "multi-only"
+    },
+    {
+      "word": "warrant",
+      "generated": "WAURPBT",
+      "reference": "WARPBT",
+      "category": "vowel"
+    },
+    {
+      "word": "deposition",
+      "generated": "STKP*EUGS",
+      "reference": "TKEUPGS",
+      "category": "onset+star+coda"
+    },
+    {
+      "word": "affidavit",
+      "generated": "TKPA*EUFT",
+      "reference": "AF/TKA*EUFT",
+      "category": "multi-only"
+    },
+    {
+      "word": "petition",
+      "generated": "TPEUGS",
+      "reference": "PE/TEUGS",
+      "category": "multi-only"
+    },
+    {
+      "word": "counsel",
+      "generated": "KOUPBLS",
+      "reference": "KOUPB",
+      "category": "coda"
+    },
+    {
+      "word": "prosecution",
+      "generated": "SKPRAOUGS",
+      "reference": "PR-GS",
+      "category": "onset+vowel"
+    },
+    {
+      "word": "defense",
+      "generated": "TKPEPBS",
+      "reference": "TKEFPBS",
+      "category": "onset+coda"
+    },
+    {
+      "word": "settlement",
+      "generated": "SEPBLT",
+      "reference": "SELT/*PLT",
+      "category": "multi-only"
+    },
+    {
+      "word": "arbitration",
+      "generated": "TPWRAEUGS",
+      "reference": "AR/PWEU/TRAEUGS",
+      "category": "multi-only"
+    },
+    {
+      "word": "mediation",
+      "generated": "TKPHAEUGS",
+      "reference": "PHAOEGS",
+      "category": "onset+vowel"
+    },
+    {
+      "word": "jurisdiction",
+      "generated": "STKWREUBGS",
+      "reference": "SKWRUBGS",
+      "category": "onset+vowel"
+    },
+    {
+      "word": "venue",
+      "generated": "SREPB",
+      "reference": "SRAOUPB",
+      "category": "vowel"
+    },
+    {
+      "word": "felony",
+      "generated": "TPEPBL",
+      "reference": "TPHROPB/TPH*EU",
+      "category": "multi-only"
+    },
+    {
+      "word": "probation",
+      "generated": "PWRAEUGS",
+      "reference": "PRO/PWAEUGS",
+      "category": "multi-only"
+    },
+    {
+      "word": "parole",
+      "generated": "PROEL",
+      "reference": "PAERL",
+      "category": "onset+vowel+coda"
+    },
+    {
+      "word": "alibi",
+      "generated": "ABL",
+      "reference": "AL/PWAOEU",
+      "category": "multi-only"
+    },
+    {
+      "word": "arraignment",
+      "generated": "RAEUPBLT",
+      "reference": "RAEUPLT",
+      "category": "coda"
+    },
+    {
+      "word": "arrest",
+      "generated": "REFT",
+      "reference": "A*EURS",
+      "category": "onset+vowel+star+coda"
+    },
+    {
+      "word": "assault",
+      "generated": "SAULT",
+      "reference": "A/SKAULT",
+      "category": "multi-only"
+    },
+    {
+      "word": "battery",
+      "generated": "PWAERT",
+      "reference": "PWRART",
+      "category": "onset+vowel"
+    },
+    {
+      "word": "burglary",
+      "generated": "PWEURLG",
+      "reference": "PWHRAR/REU",
+      "category": "multi-only"
+    },
+    {
+      "word": "examination",
+      "generated": "STKPWHA*EUGS",
+      "reference": "KPA*EUGS",
+      "category": "onset"
+    },
+    {
+      "word": "decree",
+      "generated": "TKRAOE",
+      "reference": "TKAOE/KRAOE",
+      "category": "multi-only"
+    },
+    {
+      "word": "default",
+      "generated": "TKPAULT",
+      "reference": "TKAOEFLT",
+      "category": "onset+vowel+coda"
+    },
+    {
+      "word": "detention",
+      "generated": "TKERPB",
+      "reference": "TKAOE/TEPBGS",
+      "category": "multi-only"
+    },
+    {
+      "word": "discovery",
+      "generated": "STK*EUFR",
+      "reference": "SKO*EUFR",
+      "category": "onset+vowel"
+    },
+    {
+      "word": "district",
+      "generated": "TKEUFRBGT",
+      "reference": "TKR-RT",
+      "category": "onset+vowel+coda"
+    },
+    {
+      "word": "document",
+      "generated": "TKOPBLGT",
+      "reference": "TKOUPLT",
+      "category": "vowel+coda"
+    },
+    {
+      "word": "domestic",
+      "generated": "TKPHEFBGT",
+      "reference": "TKPHEFBG",
+      "category": "coda"
+    },
+    {
+      "word": "duress",
+      "generated": "TKURS",
+      "reference": "TKAOU/RESZ",
+      "category": "multi-only"
+    },
+    {
+      "word": "duty",
+      "generated": "TKAOEUT",
+      "reference": "TKAOUT",
+      "category": "vowel"
+    },
+    {
+      "word": "easement",
+      "generated": "AOEPBLTZ",
+      "reference": "AOEFT/*PLT",
+      "category": "multi-only"
+    },
+    {
+      "word": "embezzlement",
+      "generated": "PWHEPBLTZ",
+      "reference": "EPL/PWEFL/*PLT",
+      "category": "multi-only"
+    },
+    {
+      "word": "equity",
+      "generated": "EBGT",
+      "reference": "KWET",
+      "category": "onset+coda"
+    },
+    {
+      "word": "escape",
+      "generated": "SKAEUP",
+      "reference": "SKA*EUP",
+      "category": "star"
+    },
+    {
+      "word": "estate",
+      "generated": "STAEUT",
+      "reference": "EGS/TAEUT",
+      "category": "multi-only"
+    },
+    {
+      "word": "executor",
+      "generated": "STKPW*ERBGT",
+      "reference": "SKAOUT/TOR",
+      "category": "multi-only"
+    },
+    {
+      "word": "filing",
+      "generated": "TPAOEUPBLG",
+      "reference": "TPAOEULG",
+      "category": "coda"
+    },
+    {
+      "word": "guardian",
+      "generated": "TKPWARPBD",
+      "reference": "TKPWA*RD/KWRAPB",
+      "category": "multi-only"
+    },
+    {
+      "word": "habeas",
+      "generated": "HABS",
+      "reference": "HAEUB/KWRAS",
+      "category": "multi-only"
+    }
+  ]
+}

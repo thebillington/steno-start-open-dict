@@ -32,7 +32,7 @@
   },
   "sourceRegistry": {
     "path": "sources/sources.json",
-    "sha256": "e8feb9d44469c940fba83b87e6785f0bff8dae0dc558ed03f9791413dad1335d"
+    "sha256": "36b91f1e69cc52ccbabf8e1de6f68ff399c5f4cba7b440a6e6e99ac75de409a2"
   },
   "inputs": [
     {
@@ -72,8 +72,8 @@
     },
     {
       "path": "generator/RULES.md",
-      "sha256": "5aa080e67c040a302ff30a3ed67be0f62506c5e8b23e6c9c5bec8245607b27f6",
-      "bytes": 10377
+      "sha256": "071e4b2d43108ea569fb8b47879a2d90d02eca28fe73b4e43c0c874a5fdbc379",
+      "bytes": 10647
     },
     {
       "path": "generator/bin/generate.dart",
@@ -97,8 +97,8 @@
     },
     {
       "path": "generator/lib/src/rules.dart",
-      "sha256": "b388d8c6a5035443e250a266075b1d21315a193d8289072a90e408a0233d0a8c",
-      "bytes": 16548
+      "sha256": "cba6be009cece1754b8a106ef24db0092ff001df70d84dfc05ea1cfa19700195",
+      "bytes": 17541
     },
     {
       "path": "generator/lib/steno_start_generator.dart",
@@ -332,7 +332,7 @@
     },
     {
       "path": "sources/sources.json",
-      "sha256": "e8feb9d44469c940fba83b87e6785f0bff8dae0dc558ed03f9791413dad1335d",
+      "sha256": "36b91f1e69cc52ccbabf8e1de6f68ff399c5f4cba7b440a6e6e99ac75de409a2",
       "bytes": 8023
     },
     {
@@ -348,23 +348,23 @@
   ],
   "outputs": {
     "data/dictionary.json": {
-      "sha256": "28d048f833cb5e3d09017a1c9121a9a99e2cd29063156a72dc0b470d8d638686",
-      "bytes": 4882
+      "sha256": "28b80cd9caa50f928960adb134b10eb8d7ec6dd7bcce3cf7bfbf140db986e779",
+      "bytes": 4859
     },
     "data/multi_stroke.json": {
-      "sha256": "905a82ba0a714095bffdacf50543d38e2fdc290e4daaf03e0c69f68da16dbf59",
-      "bytes": 1060
+      "sha256": "11ac4385db1602668af738d7037a3478717e5e672fd797606ea1a956b24c3eb3",
+      "bytes": 1047
     },
     "provenance/entries.json": {
-      "sha256": "9a05e200d289b98f4c58d4808ef97276e3c9f13b715fa3ca3563c2721e34fa6c",
-      "bytes": 109729
+      "sha256": "220b2f41cf9f46ee34dbe1d091be2d0c70c270041bef2e5d55dd91d06324c3ce",
+      "bytes": 109531
     },
     "validation/self_check.md": {
-      "sha256": "6c4bb5ff2d4f70b3748ba8945fe6303ed94ed911f104364ee804b438040ea949",
-      "bytes": 3373
+      "sha256": "403e3d2217cec8d32d2cda88b0a1884f11b22507afb4ca0222f5639daa1e2eff",
+      "bytes": 3371
     },
     "data/manifest.json": {
-      "sha256": "246823aba751b85ab3458ef7c8020533d8b3a9b535f1d1378be5661b49dd48db",
+      "sha256": "059c9e61485f32213c23dfe42c0183fa5d79ccb53a024a87f73dcc17b8a2e039",
       "bytes": 9562
     }
   },

@@ -65,3 +65,29 @@ and a multi-stroke fallback, which was not applied in this round.
 The `-le` elision, authored `ER` row, `use` verb sense, current published
 alternatives and `four TPAOR` were kept by explicit decision. They remain
 documented as authored Steno Start choices.
+
+## Suffix clusters used in cycle 2
+
+Sources:
+
+- Plover Wiki Cheat Sheet: <http://stenoknight.com/wiki/Plover_Cheat_Sheet>
+- Plover Practice, The -ion and -tion endings:
+  <https://practiceplover.com/the--ion-and--tion-word-endings>
+- Plover Practice, The -ment suffix:
+  <https://practiceplover.com/the--ment-suffix-and-word-ending>
+- Learn Plover, Lesson 5:
+  <https://opensteno.org/learn-plover/lesson-5-prefix-and-suffix-strokes>
+- Art of Chording, Prefixes and suffixes:
+  <https://www.artofchording.com/multistroke/prefixes-and-suffixes.html>
+
+Documented forms:
+
+- `-GS` for final -tion, -sion, -cian, -cean and -gion
+- `-BGS` for final -ction
+- `-PLT` for final -ment
+- `-LG` for -lk
+- `-G` for -ing, folded into a preceding T or D as `-GT` or `-GD`
+- `WHA`, `WHO` and `WH` spelling forms for written wh-
+
+These are compound clusters, not copied dictionary entries. The generator uses
+the cited keys and records the rule in each entry.

@@ -3,7 +3,7 @@
   "include": "EUPB/KHRAOUD",
   "important": "EUPL/PORPBT",
   "however": "HOU/*EFR",
-  "information": "EUFRPB/PHAEURPB",
+  "information": "EUFRPB/PHAEUGS",
   "increase": "EUPB/KRAOES",
   "program": "PROEG/RAPL",
   "understand": "URPBSD/TAPBD",
@@ -18,9 +18,9 @@
   "require": "RAOEBG/WAOEUR",
   "individual": "EUPBD/SREUPBLG",
   "everything": "*EFR/THEUPBG",
-  "situation": "SEUFP/AEURPB",
+  "situation": "SEUFP/AEUGS",
   "someone": "SUPL/WUPB",
   "outside": "OUT/SEUD",
   "economic": "EBG/TPHOPBLG",
-  "relationship": "HRAEURPB/SHEUP"
+  "relationship": "HRAEUGS/SHEUP"
 }

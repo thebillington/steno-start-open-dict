@@ -23,8 +23,8 @@
     "uniqueSignatures": 500,
     "briefEntries": 3,
     "ruleEntries": 497,
-    "changedEntries": 17,
-    "collisionResolved": 14,
+    "changedEntries": 16,
+    "collisionResolved": 13,
     "multiStrokeEntries": 68,
     "sourceIdsUsed": 5
   },
@@ -158,8 +158,8 @@
       "url": "local",
       "license": "CC-BY-SA-4.0",
       "file": "generator/RULES.md",
-      "sha256": "5aa080e67c040a302ff30a3ed67be0f62506c5e8b23e6c9c5bec8245607b27f6",
-      "bytes": 10377,
+      "sha256": "071e4b2d43108ea569fb8b47879a2d90d02eca28fe73b4e43c0c874a5fdbc379",
+      "bytes": 10647,
       "usedFor": "phoneme rules, spelling adjustments and the Steno Start briefs layer",
       "modified": false,
       "retrieved": "2026-10-29",
@@ -197,20 +197,20 @@
   ],
   "outputs": {
     "data/dictionary.json": {
-      "sha256": "4ef13f62376ebd3a77741e667af9321f984b56fb14c97cbb72722ffcea6269ba",
-      "bytes": 11392
+      "sha256": "ba8385547c9f28403c6b0769817f6e520f9cf50bdaeec06304d04f8d4eefcbcc",
+      "bytes": 11362
     },
     "data/multi_stroke.json": {
-      "sha256": "242a4644ec314991ce50c9214ac963835a026c37c338023af0e57d94b96494d8",
-      "bytes": 2005
+      "sha256": "17a30da638952221563d028f5af3f85506c1973f5ec45cf2d42c3fd5907c7573",
+      "bytes": 1992
     },
     "provenance/entries.json": {
-      "sha256": "1aa3a24899261495c10af9367c816d9d51634d53c172d3c59cbc9aaf8d628e80",
-      "bytes": 267312
+      "sha256": "41733320a961103f55d981ace740a3e8015090f47030ba1770144a584b38a0db",
+      "bytes": 267053
     },
     "validation/self_check.md": {
-      "sha256": "8046dea6f7dd025a334be35254115a59e5ed73d20ebc450123767772b54101e3",
-      "bytes": 4280
+      "sha256": "7cc8828951bc0e8acaa40700704a563e6270c9b8978b4688e4174d5f0199f2ba",
+      "bytes": 4191
     }
   },
   "notes": [

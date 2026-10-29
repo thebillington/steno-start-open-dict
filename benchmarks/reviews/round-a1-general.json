@@ -1,0 +1,390 @@
+{
+  "name": "general",
+  "words": 500,
+  "present": 500,
+  "missing": 0,
+  "missing_words": [],
+  "exact": 215,
+  "exact_percent_all": 43.0,
+  "exact_percent_present": 43.0,
+  "mismatch_single": 261,
+  "multi_only": 24,
+  "categories": {
+    "coda": 69,
+    "vowel": 36,
+    "onset+vowel+coda": 26,
+    "onset+coda": 25,
+    "vowel+coda": 22,
+    "onset": 18,
+    "onset+vowel": 14,
+    "onset+vowel+star+coda": 12,
+    "star": 11,
+    "vowel+star": 9,
+    "star+coda": 8,
+    "onset+star+coda": 7,
+    "onset+star": 2,
+    "vowel+star+coda": 2
+  },
+  "mismatch_sample": [
+    {
+      "word": "relationship",
+      "generated": "HRAEURPB",
+      "reference": "R*EUP",
+      "category": "onset+vowel+star+coda"
+    },
+    {
+      "word": "enjoy",
+      "generated": "STKPWHROEU",
+      "reference": "TPHOEUPBLG",
+      "category": "onset+coda"
+    },
+    {
+      "word": "death",
+      "generated": "TKA*ET",
+      "reference": "TK*ET",
+      "category": "vowel"
+    },
+    {
+      "word": "amount",
+      "generated": "PHOUPBT",
+      "reference": "AO*PLT",
+      "category": "onset+vowel+star+coda"
+    },
+    {
+      "word": "improve",
+      "generated": "PHRAO*UF",
+      "reference": "EUPL/PROF",
+      "category": "multi-only"
+    },
+    {
+      "word": "regard",
+      "generated": "TKPWRARD",
+      "reference": "RARD",
+      "category": "onset"
+    },
+    {
+      "word": "organization",
+      "generated": "STKPWHRA*EURPB",
+      "reference": "ORGS",
+      "category": "onset+vowel+star+coda"
+    },
+    {
+      "word": "quality",
+      "generated": "KWAEULT",
+      "reference": "KWAULT",
+      "category": "vowel"
+    },
+    {
+      "word": "opportunity",
+      "generated": "TPRAOEUPBT",
+      "reference": "TAOUPBT",
+      "category": "onset+vowel"
+    },
+    {
+      "word": "accord",
+      "generated": "KORD",
+      "reference": "K-D",
+      "category": "vowel+coda"
+    },
+    {
+      "word": "list",
+      "generated": "HREUFT",
+      "reference": "HR*EUFS",
+      "category": "star+coda"
+    },
+    {
+      "word": "therefore",
+      "generated": "THEFRB",
+      "reference": "THREFR",
+      "category": "onset+coda"
+    },
+    {
+      "word": "industry",
+      "generated": "EUFRPBTD",
+      "reference": "STREU",
+      "category": "onset+coda"
+    },
+    {
+      "word": "education",
+      "generated": "SKWRAEURPB",
+      "reference": "STKAEUBGS",
+      "category": "onset+coda"
+    },
+    {
+      "word": "measure",
+      "generated": "PHAERB",
+      "reference": "PH*ERB",
+      "category": "vowel+star"
+    },
+    {
+      "word": "serve",
+      "generated": "S*EFR",
+      "reference": "SEFRB",
+      "category": "star+coda"
+    },
+    {
+      "word": "likely",
+      "generated": "HRAOEUBLG",
+      "reference": "HRAOEULG",
+      "category": "coda"
+    },
+    {
+      "word": "national",
+      "generated": "TPHARPBL",
+      "reference": "TPHARBL",
+      "category": "coda"
+    },
+    {
+      "word": "itself",
+      "generated": "STEFL",
+      "reference": "*EUTS",
+      "category": "onset+vowel+star+coda"
+    },
+    {
+      "word": "security",
+      "generated": "SKWREURT",
+      "reference": "SKURT",
+      "category": "onset+vowel"
+    },
+    {
+      "word": "risk",
+      "generated": "REUBGS",
+      "reference": "REUFBG",
+      "category": "coda"
+    },
+    {
+      "word": "standard",
+      "generated": "STARPBD",
+      "reference": "ST-D",
+      "category": "vowel+coda"
+    },
+    {
+      "word": "percent",
+      "generated": "SPREPBT",
+      "reference": "PERS",
+      "category": "onset+coda"
+    },
+    {
+      "word": "focus",
+      "generated": "TPOEBGS",
+      "reference": "TPOEUBGS",
+      "category": "vowel"
+    },
+    {
+      "word": "instead",
+      "generated": "STPHAED",
+      "reference": "STPHED",
+      "category": "vowel"
+    },
+    {
+      "word": "usually",
+      "generated": "AOEURBL",
+      "reference": "AOURBL",
+      "category": "vowel"
+    },
+    {
+      "word": "data",
+      "generated": "TKAEUT",
+      "reference": "TKAET",
+      "category": "vowel"
+    },
+    {
+      "word": "single",
+      "generated": "SEUPBG",
+      "reference": "SEUPBLG",
+      "category": "coda"
+    },
+    {
+      "word": "address",
+      "generated": "ARSD",
+      "reference": "A/TKRES",
+      "category": "multi-only"
+    },
+    {
+      "word": "performance",
+      "generated": "TPRORPBLS",
+      "reference": "PHORPLS",
+      "category": "onset+coda"
+    },
+    {
+      "word": "accept",
+      "generated": "SKEPT",
+      "reference": "SEP",
+      "category": "onset+coda"
+    },
+    {
+      "word": "society",
+      "generated": "SAOEUT",
+      "reference": "SOEUT",
+      "category": "vowel"
+    },
+    {
+      "word": "technology",
+      "generated": "TKPHOEPBLG",
+      "reference": "TOPBLG",
+      "category": "onset+vowel"
+    },
+    {
+      "word": "mention",
+      "generated": "PHERPB",
+      "reference": "PHEPBG",
+      "category": "coda"
+    },
+    {
+      "word": "save",
+      "generated": "SA*EUF",
+      "reference": "SAF",
+      "category": "vowel+star"
+    },
+    {
+      "word": "common",
+      "generated": "KOPBL",
+      "reference": "KPHOPB",
+      "category": "onset+coda"
+    },
+    {
+      "word": "culture",
+      "generated": "KUFRPL",
+      "reference": "KURLT",
+      "category": "coda"
+    },
+    {
+      "word": "material",
+      "generated": "TPHEURL",
+      "reference": "TAOERL",
+      "category": "onset+vowel"
+    },
+    {
+      "word": "listen",
+      "generated": "HREUPBS",
+      "reference": "HREUFPB",
+      "category": "coda"
+    },
+    {
+      "word": "attention",
+      "generated": "TERPB",
+      "reference": "TAEPBGS",
+      "category": "vowel+coda"
+    },
+    {
+      "word": "reduce",
+      "generated": "TKRAOUS",
+      "reference": "RAOUS",
+      "category": "onset"
+    },
+    {
+      "word": "personal",
+      "generated": "PERPBLS",
+      "reference": "PERPBL",
+      "category": "coda"
+    },
+    {
+      "word": "animal",
+      "generated": "APBL",
+      "reference": "PHAPBL",
+      "category": "onset"
+    },
+    {
+      "word": "arrive",
+      "generated": "RAO*EUF",
+      "reference": "A/RAOEUF",
+      "category": "multi-only"
+    },
+    {
+      "word": "patient",
+      "generated": "PAEURPBT",
+      "reference": "PAEURBT",
+      "category": "coda"
+    },
+    {
+      "word": "century",
+      "generated": "SEFRPBLG",
+      "reference": "KROEURPBT",
+      "category": "onset+vowel+coda"
+    },
+    {
+      "word": "evidence",
+      "generated": "*EFPBSD",
+      "reference": "*EFD",
+      "category": "coda"
+    },
+    {
+      "word": "exist",
+      "generated": "STKPW*EUFT",
+      "reference": "KPEUFT",
+      "category": "onset+star"
+    },
+    {
+      "word": "similar",
+      "generated": "SEURPL",
+      "reference": "SEUPL",
+      "category": "coda"
+    },
+    {
+      "word": "former",
+      "generated": "TPORPL",
+      "reference": "TPRORPL",
+      "category": "onset"
+    },
+    {
+      "word": "contact",
+      "generated": "KOPBGT",
+      "reference": "KABGT",
+      "category": "vowel+coda"
+    },
+    {
+      "word": "particularly",
+      "generated": "TPREURBLG",
+      "reference": "PRARL",
+      "category": "onset+vowel+coda"
+    },
+    {
+      "word": "prepare",
+      "generated": "PRER",
+      "reference": "PRAEP",
+      "category": "vowel+coda"
+    },
+    {
+      "word": "response",
+      "generated": "SPROPBS",
+      "reference": "SPOPBS",
+      "category": "onset"
+    },
+    {
+      "word": "finish",
+      "generated": "TPEURPB",
+      "reference": "TP*EURB",
+      "category": "star+coda"
+    },
+    {
+      "word": "apply",
+      "generated": "PHRAOEU",
+      "reference": "A/PHRAOEU",
+      "category": "multi-only"
+    },
+    {
+      "word": "president",
+      "generated": "PREPBTDZ",
+      "reference": "PREZ",
+      "category": "coda"
+    },
+    {
+      "word": "compare",
+      "generated": "KPHER",
+      "reference": "KPAEUR",
+      "category": "onset+vowel"
+    },
+    {
+      "word": "police",
+      "generated": "PHRAOES",
+      "reference": "PHREUS",
+      "category": "vowel"
+    },
+    {
+      "word": "knowledge",
+      "generated": "TKPHOPBLG",
+      "reference": "TPHOPBLG",
+      "category": "onset"
+    }
+  ]
+}

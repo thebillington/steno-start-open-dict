@@ -113,6 +113,10 @@ Spelling adjustments are intentionally small and documented:
   `TPAEPL`, `happy` `HAEP`);
 - a final consonant `L` after `T` in `-le` drops the `T` (`little` `HREUL`);
 - a final `L` after `K`/`G` in `-le` drops the `L` (`circle` `SEURBG`);
+- final `-tion`, `-sion`, `-cian`, `-cean` and `-gion` use the `-GS` cluster;
+  final `-ction` uses `-BGS`; final `-ment` uses `-PLT`;
+- the `-ing` suffix folds into a preceding `T` or `D` as `-GT` or `-GD`;
+- `-lk` uses the `-LG` cluster; written `wh-` uses `W` + `H`;
 - initial silent written letters are restored from orthography: `wr-` adds `W`
   (`write` `WRAOEUT`), `kn-` adds `K`, `gn-` adds `G`, `ps-`/`pn-` add `P`, and
   an initial written `h` before a vowel adds `H` (`hour` `HOUR`).
@@ -228,9 +232,9 @@ entry. No word requires the multi-stroke form to be covered.
   supply them.
 - The `ER`/r-coloured vowel row is authored because the cited chart has no `ER`
   row.
-- The current 500-word set matches 392/500 (78.4%) of the full external Plover
-  reference exactly. Exact personal Plover compatibility comes from importing
-  the user's own dictionary, not from these built-in banks.
+- The current 500-word set matches 319/500 (63.8%) of the pinned Plover
+  teaching reference exactly. Exact personal Plover compatibility comes from
+  importing the user's own dictionary, not from these built-in banks.
 
 ## Provenance and licence
 

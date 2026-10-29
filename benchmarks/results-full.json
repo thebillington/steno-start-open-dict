@@ -10,10 +10,10 @@
       "words": 500,
       "present": 500,
       "missing": 0,
-      "exact": 392,
-      "exact_percent_all": 78.4,
-      "exact_percent_present": 78.4,
-      "mismatch_single": 108,
+      "exact": 394,
+      "exact_percent_all": 78.8,
+      "exact_percent_present": 78.8,
+      "mismatch_single": 106,
       "multi_only": 0
     },
     {
@@ -21,10 +21,10 @@
       "words": 500,
       "present": 500,
       "missing": 0,
-      "exact": 328,
-      "exact_percent_all": 65.6,
-      "exact_percent_present": 65.6,
-      "mismatch_single": 170,
+      "exact": 335,
+      "exact_percent_all": 67.0,
+      "exact_percent_present": 67.0,
+      "mismatch_single": 163,
       "multi_only": 2
     },
     {
@@ -32,10 +32,10 @@
       "words": 200,
       "present": 199,
       "missing": 1,
-      "exact": 59,
-      "exact_percent_all": 29.5,
-      "exact_percent_present": 29.6,
-      "mismatch_single": 94,
+      "exact": 63,
+      "exact_percent_all": 31.5,
+      "exact_percent_present": 31.7,
+      "mismatch_single": 90,
       "multi_only": 46
     },
     {
@@ -43,10 +43,10 @@
       "words": 199,
       "present": 197,
       "missing": 2,
-      "exact": 71,
-      "exact_percent_all": 35.7,
-      "exact_percent_present": 36.0,
-      "mismatch_single": 102,
+      "exact": 80,
+      "exact_percent_all": 40.2,
+      "exact_percent_present": 40.6,
+      "mismatch_single": 93,
       "multi_only": 24
     },
     {
@@ -54,11 +54,11 @@
       "words": 500,
       "present": 500,
       "missing": 0,
-      "exact": 215,
-      "exact_percent_all": 43.0,
-      "exact_percent_present": 43.0,
-      "mismatch_single": 285,
-      "multi_only": 0
+      "exact": 228,
+      "exact_percent_all": 45.6,
+      "exact_percent_present": 45.6,
+      "mismatch_single": 248,
+      "multi_only": 24
     }
   ]
 }

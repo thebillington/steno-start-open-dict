@@ -311,8 +311,8 @@
   },
   {
     "word": "payment",
-    "outline": "PAEUPBLT",
-    "signature": "3|7|10|11|14|15|16|18",
+    "outline": "PAEUPLT",
+    "signature": "3|7|10|11|14|16|18",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -324,8 +324,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "P EY1 M AH0 N T",
-    "plainRule": "PAEUPBLT",
-    "plainSignature": "3|7|10|11|14|15|16|18",
+    "plainRule": "PAEUPLT",
+    "plainSignature": "3|7|10|11|14|16|18",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -466,8 +466,8 @@
   },
   {
     "word": "meeting",
-    "outline": "PHAOEPBGT",
-    "signature": "3|5|7|8|10|14|15|17|18",
+    "outline": "PHAOEGT",
+    "signature": "3|5|7|8|10|17|18",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -479,8 +479,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "M IY1 T IH0 NG",
-    "plainRule": "PHAOEPBGT",
-    "plainSignature": "3|5|7|8|10|14|15|17|18",
+    "plainRule": "PHAOEGT",
+    "plainSignature": "3|5|7|8|10|17|18",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -1111,21 +1111,21 @@
   },
   {
     "word": "weekly",
-    "outline": "WAOEBLG",
-    "signature": "4|7|8|10|15|16|17",
+    "outline": "WAOELG",
+    "signature": "4|7|8|10|16|17",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
       "steno-start-rules"
     ],
-    "rule": "Phoneme rules v1: CMUdict [W IY1 K L IY0] -> target IY; onset W; coda K L. Variant: base.",
+    "rule": "Phoneme rules v1: CMUdict [W IY1 K L IY0] -> target IY; onset W; coda LG. Variant: base.",
     "changed": false,
     "brief": false,
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "W IY1 K L IY0",
-    "plainRule": "WAOEBLG",
-    "plainSignature": "4|7|8|10|15|16|17",
+    "plainRule": "WAOELG",
+    "plainSignature": "4|7|8|10|16|17",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -1263,8 +1263,8 @@
   },
   {
     "word": "negotiation",
-    "outline": "STKPWHAEURPB",
-    "signature": "0|1|2|3|4|5|7|10|11|13|14|15",
+    "outline": "STKPWHAEUGS",
+    "signature": "0|1|2|3|4|5|7|10|11|17|19",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -1276,10 +1276,10 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "N IH0 G OW2 SH IY0 EY1 SH AH0 N",
-    "plainRule": "STKPWHAEURPB",
-    "plainSignature": "0|1|2|3|4|5|7|10|11|13|14|15",
+    "plainRule": "STKPWHAEUGS",
+    "plainSignature": "0|1|2|3|4|5|7|10|11|17|19",
     "multiStroke": [
-      "TKPWHOERB/AEURPB"
+      "TKPWHOERB/AEUGS"
     ],
     "license": "CC-BY-SA-4.0"
   },
@@ -1345,8 +1345,8 @@
   },
   {
     "word": "acquisition",
-    "outline": "SKW*EURPB",
-    "signature": "0|2|4|9|10|11|13|14|15",
+    "outline": "SKW*EUGS",
+    "signature": "0|2|4|9|10|11|17|19",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -1358,10 +1358,10 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "AE2 K W AH0 Z IH1 SH AH0 N",
-    "plainRule": "SKW*EURPB",
-    "plainSignature": "0|2|4|9|10|11|13|14|15",
+    "plainRule": "SKW*EUGS",
+    "plainSignature": "0|2|4|9|10|11|17|19",
     "multiStroke": [
-      "ABG/S*EURPB"
+      "ABG/S*EUGS"
     ],
     "license": "CC-BY-SA-4.0"
   },
@@ -1525,8 +1525,8 @@
   },
   {
     "word": "distribution",
-    "outline": "STKPWRAOURPB",
-    "signature": "0|1|2|3|4|6|7|8|11|13|14|15",
+    "outline": "STKPWRAOUGS",
+    "signature": "0|1|2|3|4|6|7|8|11|17|19",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -1538,10 +1538,10 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "D IH2 S T R AH0 B Y UW1 SH AH0 N",
-    "plainRule": "STKPWRAOURPB",
-    "plainSignature": "0|1|2|3|4|6|7|8|11|13|14|15",
+    "plainRule": "STKPWRAOUGS",
+    "plainSignature": "0|1|2|3|4|6|7|8|11|17|19",
     "multiStroke": [
-      "TKEUFRBT/AOURPB"
+      "TKEUFRBT/AOUGS"
     ],
     "license": "CC-BY-SA-4.0"
   },
@@ -1686,8 +1686,8 @@
   },
   {
     "word": "operation",
-    "outline": "PRAEURPB",
-    "signature": "3|6|7|10|11|13|14|15",
+    "outline": "PRAEUGS",
+    "signature": "3|6|7|10|11|17|19",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -1699,10 +1699,10 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "AA2 P ER0 EY1 SH AH0 N",
-    "plainRule": "PRAEURPB",
-    "plainSignature": "3|6|7|10|11|13|14|15",
+    "plainRule": "PRAEUGS",
+    "plainSignature": "3|6|7|10|11|17|19",
     "multiStroke": [
-      "ORP/AEURPB"
+      "ORP/AEUGS"
     ],
     "license": "CC-BY-SA-4.0"
   },
@@ -1790,8 +1790,8 @@
   },
   {
     "word": "regulation",
-    "outline": "TKPWHRAEURPB",
-    "signature": "1|2|3|4|5|6|7|10|11|13|14|15",
+    "outline": "TKPWHRAEUGS",
+    "signature": "1|2|3|4|5|6|7|10|11|17|19",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -1803,10 +1803,10 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "R EH2 G Y AH0 L EY1 SH AH0 N",
-    "plainRule": "TKPWHRAEURPB",
-    "plainSignature": "1|2|3|4|5|6|7|10|11|13|14|15",
+    "plainRule": "TKPWHRAEUGS",
+    "plainSignature": "1|2|3|4|5|6|7|10|11|17|19",
     "multiStroke": [
-      "REG/HRAEURPB"
+      "REG/HRAEUGS"
     ],
     "license": "CC-BY-SA-4.0"
   },
@@ -1967,8 +1967,8 @@
   },
   {
     "word": "commission",
-    "outline": "KPHEURPB",
-    "signature": "2|3|5|10|11|13|14|15",
+    "outline": "KPHEUGS",
+    "signature": "2|3|5|10|11|17|19",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -1980,8 +1980,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "K AH0 M IH1 SH AH0 N",
-    "plainRule": "KPHEURPB",
-    "plainSignature": "2|3|5|10|11|13|14|15",
+    "plainRule": "KPHEUGS",
+    "plainSignature": "2|3|5|10|11|17|19",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -2690,8 +2690,8 @@
   },
   {
     "word": "action",
-    "outline": "ARPBG",
-    "signature": "7|13|14|15|17",
+    "outline": "ABGS",
+    "signature": "7|15|17|19",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -2703,14 +2703,14 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "AE1 K SH AH0 N",
-    "plainRule": "ARPBG",
-    "plainSignature": "7|13|14|15|17",
+    "plainRule": "ABGS",
+    "plainSignature": "7|15|17|19",
     "license": "CC-BY-SA-4.0"
   },
   {
     "word": "decision",
-    "outline": "STKEURPB",
-    "signature": "0|1|2|10|11|13|14|15",
+    "outline": "STKEUGS",
+    "signature": "0|1|2|10|11|17|19",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -2722,8 +2722,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "D IH0 S IH1 ZH AH0 N",
-    "plainRule": "STKEURPB",
-    "plainSignature": "0|1|2|10|11|13|14|15",
+    "plainRule": "STKEUGS",
+    "plainSignature": "0|1|2|10|11|17|19",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -2810,8 +2810,8 @@
   },
   {
     "word": "promotion",
-    "outline": "PHROERPB",
-    "signature": "3|5|6|8|10|13|14|15",
+    "outline": "PHROEGS",
+    "signature": "3|5|6|8|10|17|19",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -2823,8 +2823,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "P R AH0 M OW1 SH AH0 N",
-    "plainRule": "PHROERPB",
-    "plainSignature": "3|5|6|8|10|13|14|15",
+    "plainRule": "PHROEGS",
+    "plainSignature": "3|5|6|8|10|17|19",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -2889,8 +2889,8 @@
   },
   {
     "word": "division",
-    "outline": "STKREURPB",
-    "signature": "0|1|2|6|10|11|13|14|15",
+    "outline": "STKREUGS",
+    "signature": "0|1|2|6|10|11|17|19",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -2902,14 +2902,14 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "D IH0 V IH1 ZH AH0 N",
-    "plainRule": "STKREURPB",
-    "plainSignature": "0|1|2|6|10|11|13|14|15",
+    "plainRule": "STKREUGS",
+    "plainSignature": "0|1|2|6|10|11|17|19",
     "license": "CC-BY-SA-4.0"
   },
   {
     "word": "region",
-    "outline": "RAOEPBLG",
-    "signature": "6|7|8|10|14|15|16|17",
+    "outline": "RAOEGS",
+    "signature": "6|7|8|10|17|19",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -2921,8 +2921,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "R IY1 JH AH0 N",
-    "plainRule": "RAOEPBLG",
-    "plainSignature": "6|7|8|10|14|15|16|17",
+    "plainRule": "RAOEGS",
+    "plainSignature": "6|7|8|10|17|19",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -3189,8 +3189,8 @@
   },
   {
     "word": "valuation",
-    "outline": "SKWHRAEURPB",
-    "signature": "0|2|4|5|6|7|10|11|13|14|15",
+    "outline": "SKWHRAEUGS",
+    "signature": "0|2|4|5|6|7|10|11|17|19",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -3202,8 +3202,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "V AE0 L Y UW0 EY1 SH AH0 N",
-    "plainRule": "SKWHRAEURPB",
-    "plainSignature": "0|2|4|5|6|7|10|11|13|14|15",
+    "plainRule": "SKWHRAEUGS",
+    "plainSignature": "0|2|4|5|6|7|10|11|17|19",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -3325,8 +3325,8 @@
   },
   {
     "word": "version",
-    "outline": "SRERPB",
-    "signature": "0|6|10|13|14|15",
+    "outline": "SRERGS",
+    "signature": "0|6|10|13|17|19",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -3338,8 +3338,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "V ER1 ZH AH0 N",
-    "plainRule": "SRERPB",
-    "plainSignature": "0|6|10|13|14|15",
+    "plainRule": "SRERGS",
+    "plainSignature": "0|6|10|13|17|19",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -3439,8 +3439,8 @@
   },
   {
     "word": "solution",
-    "outline": "SHRAOURPB",
-    "signature": "0|5|6|7|8|11|13|14|15",
+    "outline": "SHRAOUGS",
+    "signature": "0|5|6|7|8|11|17|19",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -3452,8 +3452,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "S AH0 L UW1 SH AH0 N",
-    "plainRule": "SHRAOURPB",
-    "plainSignature": "0|5|6|7|8|11|13|14|15",
+    "plainRule": "SHRAOUGS",
+    "plainSignature": "0|5|6|7|8|11|17|19",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -3667,8 +3667,8 @@
   },
   {
     "word": "condition",
-    "outline": "TKPHEURPB",
-    "signature": "1|2|3|5|10|11|13|14|15",
+    "outline": "TKPHEUGS",
+    "signature": "1|2|3|5|10|11|17|19",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -3680,8 +3680,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "K AH0 N D IH1 SH AH0 N",
-    "plainRule": "TKPHEURPB",
-    "plainSignature": "1|2|3|5|10|11|13|14|15",
+    "plainRule": "TKPHEUGS",
+    "plainSignature": "1|2|3|5|10|11|17|19",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -3724,8 +3724,8 @@
   },
   {
     "word": "termination",
-    "outline": "TPHRAEURPB",
-    "signature": "1|3|5|6|7|10|11|13|14|15",
+    "outline": "TPHRAEUGS",
+    "signature": "1|3|5|6|7|10|11|17|19",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -3737,8 +3737,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "T ER0 M AH0 N EY1 SH AH0 N",
-    "plainRule": "TPHRAEURPB",
-    "plainSignature": "1|3|5|6|7|10|11|13|14|15",
+    "plainRule": "TPHRAEUGS",
+    "plainSignature": "1|3|5|6|7|10|11|17|19",
     "license": "CC-BY-SA-4.0"
   },
   {
@@ -3803,8 +3803,8 @@
   },
   {
     "word": "indemnity",
-    "outline": "TKPHEPBLT",
-    "signature": "1|2|3|5|10|14|15|16|18",
+    "outline": "TKPHEPLT",
+    "signature": "1|2|3|5|10|14|16|18",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -3816,10 +3816,10 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "IH2 N D EH1 M N AH0 T IY0",
-    "plainRule": "TKPHEPBLT",
-    "plainSignature": "1|2|3|5|10|14|15|16|18",
+    "plainRule": "TKPHEPLT",
+    "plainSignature": "1|2|3|5|10|14|16|18",
     "multiStroke": [
-      "EUPB/TKEPBLT"
+      "EUPB/TKEPLT"
     ],
     "license": "CC-BY-SA-4.0"
   },

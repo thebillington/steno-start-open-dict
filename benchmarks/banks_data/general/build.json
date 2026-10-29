@@ -25,14 +25,14 @@
     "uniqueSignatures": 500,
     "briefEntries": 3,
     "ruleEntries": 497,
-    "changedEntries": 17,
-    "collisionResolved": 14,
+    "changedEntries": 16,
+    "collisionResolved": 13,
     "multiStrokeEntries": 68,
     "sourceIdsUsed": 5
   },
   "sourceRegistry": {
     "path": "sources/sources.json",
-    "sha256": "f41039c59de70e7fdbd266bbda834be8cbc79dea570e765d7fc1fb0d3af2cc95"
+    "sha256": "3491d3deb9e63c939fd25e2c6485f6dede3787ae0473152e9b5196d3669680b2"
   },
   "inputs": [
     {
@@ -72,8 +72,8 @@
     },
     {
       "path": "generator/RULES.md",
-      "sha256": "5aa080e67c040a302ff30a3ed67be0f62506c5e8b23e6c9c5bec8245607b27f6",
-      "bytes": 10377
+      "sha256": "071e4b2d43108ea569fb8b47879a2d90d02eca28fe73b4e43c0c874a5fdbc379",
+      "bytes": 10647
     },
     {
       "path": "generator/bin/generate.dart",
@@ -97,8 +97,8 @@
     },
     {
       "path": "generator/lib/src/rules.dart",
-      "sha256": "b388d8c6a5035443e250a266075b1d21315a193d8289072a90e408a0233d0a8c",
-      "bytes": 16548
+      "sha256": "cba6be009cece1754b8a106ef24db0092ff001df70d84dfc05ea1cfa19700195",
+      "bytes": 17541
     },
     {
       "path": "generator/lib/steno_start_generator.dart",
@@ -332,7 +332,7 @@
     },
     {
       "path": "sources/sources.json",
-      "sha256": "f41039c59de70e7fdbd266bbda834be8cbc79dea570e765d7fc1fb0d3af2cc95",
+      "sha256": "3491d3deb9e63c939fd25e2c6485f6dede3787ae0473152e9b5196d3669680b2",
       "bytes": 8023
     },
     {
@@ -348,23 +348,23 @@
   ],
   "outputs": {
     "data/dictionary.json": {
-      "sha256": "4ef13f62376ebd3a77741e667af9321f984b56fb14c97cbb72722ffcea6269ba",
-      "bytes": 11392
+      "sha256": "ba8385547c9f28403c6b0769817f6e520f9cf50bdaeec06304d04f8d4eefcbcc",
+      "bytes": 11362
     },
     "data/multi_stroke.json": {
-      "sha256": "242a4644ec314991ce50c9214ac963835a026c37c338023af0e57d94b96494d8",
-      "bytes": 2005
+      "sha256": "17a30da638952221563d028f5af3f85506c1973f5ec45cf2d42c3fd5907c7573",
+      "bytes": 1992
     },
     "provenance/entries.json": {
-      "sha256": "1aa3a24899261495c10af9367c816d9d51634d53c172d3c59cbc9aaf8d628e80",
-      "bytes": 267312
+      "sha256": "41733320a961103f55d981ace740a3e8015090f47030ba1770144a584b38a0db",
+      "bytes": 267053
     },
     "validation/self_check.md": {
-      "sha256": "8046dea6f7dd025a334be35254115a59e5ed73d20ebc450123767772b54101e3",
-      "bytes": 4280
+      "sha256": "7cc8828951bc0e8acaa40700704a563e6270c9b8978b4688e4174d5f0199f2ba",
+      "bytes": 4191
     },
     "data/manifest.json": {
-      "sha256": "7983da8e6975965adf4405357f93aa68e636c26accdc5c21105330c0fa3e20f7",
+      "sha256": "352f1a9f6d11040cdce0698a052e91efd8d0bef09df83403e1167102a216c9c9",
       "bytes": 9565
     }
   },

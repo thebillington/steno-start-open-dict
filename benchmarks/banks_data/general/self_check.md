@@ -24,7 +24,7 @@ Overall: **PASS**
 - Unique signatures: 500
 - Brief entries: 3
 - Rule-derived entries: 497
-- Collision-resolved entries: 14
+- Collision-resolved entries: 13
 - Multi-stroke expansions: 68
 
 ## Key counts
@@ -32,17 +32,17 @@ Overall: **PASS**
 | Number of keys | Entries |
 |---|---|
 | 3 | 8 |
-| 4 | 64 |
-| 5 | 84 |
-| 6 | 109 |
+| 4 | 65 |
+| 5 | 87 |
+| 6 | 110 |
 | 7 | 99 |
-| 8 | 74 |
-| 9 | 37 |
+| 8 | 75 |
+| 9 | 33 |
 | 10 | 12 |
-| 11 | 5 |
-| 12 | 4 |
+| 11 | 6 |
+| 12 | 2 |
 | 13 | 2 |
-| 14 | 2 |
+| 14 | 1 |
 
 ## Art of Chording citations
 
@@ -65,7 +65,6 @@ These outlines differ from the plain rule signature. The comparison is recorded 
 | financial | `TPHA*RPBL` | base+star | cmudict, wikipedia-stenotype, steno-start-rules |
 | simple | `S*EUFRPL` | base+star | cmudict, wikipedia-stenotype, steno-start-rules |
 | nearly | `TPH*EURL` | base+star | cmudict, wikipedia-stenotype, steno-start-rules |
-| relation | `HRA*EURPB` | base+star | cmudict, wikipedia-stenotype, steno-start-rules |
 | except | `SK*EPT` | base+star | cmudict, wikipedia-stenotype, steno-start-rules |
 | tend | `T*EPBD` | base+star | cmudict, wikipedia-stenotype, steno-start-rules |
 | task | `TA*BGS` | base+star | cmudict, wikipedia-stenotype, steno-start-rules |

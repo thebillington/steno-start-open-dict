@@ -24,7 +24,7 @@ Overall: **PASS**
 - Unique signatures: 500
 - Brief entries: 93
 - Rule-derived entries: 407
-- Collision-resolved entries: 3
+- Collision-resolved entries: 4
 - Multi-stroke expansions: 24
 
 ## Key counts
@@ -33,14 +33,14 @@ Overall: **PASS**
 |---|---|
 | 1 | 6 |
 | 2 | 20 |
-| 3 | 39 |
+| 3 | 38 |
 | 4 | 79 |
-| 5 | 109 |
-| 6 | 98 |
-| 7 | 70 |
-| 8 | 37 |
-| 9 | 31 |
-| 10 | 7 |
+| 5 | 108 |
+| 6 | 99 |
+| 7 | 74 |
+| 8 | 38 |
+| 9 | 28 |
+| 10 | 6 |
 | 11 | 2 |
 | 12 | 2 |
 
@@ -146,6 +146,7 @@ These outlines differ from the plain rule signature. The comparison is recorded 
 | paper | `PAEUP` | brief | art-of-chording-website |
 | certain | `S*ERPBT` | base+star | cmudict, wikipedia-stenotype, steno-start-rules |
 | especially | `SP*ERBL` | base+star | cmudict, wikipedia-stenotype, steno-start-rules |
+| action | `A*BGS` | base+star | cmudict, wikipedia-stenotype, steno-start-rules |
 
 ## Method notes
 
