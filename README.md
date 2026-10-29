@@ -31,8 +31,7 @@ dictionary data must remain available under CC BY-SA 4.0. See `NOTICE`.
 
 ## Sources
 
-The source registry is `sources/sources.json`. External source files are not committed; run `python3 scripts/fetch_sources.py` to download them into the ignored `sources/cache/` directory and verify their SHA-256 hashes. It records the source id, URL,
-licence, file, SHA-256 and intended use.
+The source registry is `sources/sources.json`. External source files are not committed. Run `python3 scripts/fetch_sources.py` to download the pinned files into the ignored `sources/cache/` directory and verify their SHA-256 hashes. The registry records each source id, URL, pinned revision or archive timestamp, licence, hash and intended use.
 
 Allowed inputs:
 

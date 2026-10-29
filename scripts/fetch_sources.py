@@ -23,6 +23,13 @@ def verify(path, expected):
 for s in REGISTRY['sources']:
     if 'fetchUrl' in s:
         dest = ROOT / s['cachePath']
+        if dest.exists():
+            try:
+                verify(dest, s['sha256'])
+                print('OK cached', s['id'])
+                continue
+            except SystemExit:
+                pass
         fetch(s['fetchUrl'], dest)
         verify(dest, s['sha256'])
         print('OK', s['id'])
@@ -31,9 +38,15 @@ for s in REGISTRY['sources']:
         verify(ROOT / s['manifest'], s['manifestSha256'])
         for page in manifest['pages']:
             dest = ROOT / page['cachePath']
+            if dest.exists():
+                try:
+                    verify(dest, page['sha256'])
+                    continue
+                except SystemExit:
+                    pass
             fetch(page['archiveUrl'], dest)
             verify(dest, page['sha256'])
-        print('OK', s['id'], len(manifest['pages']), 'pages')
+        print('OK cached', s['id'], len(manifest['pages']), 'pages')
     elif 'file' in s:
         verify(ROOT / s['file'], s['sha256'])
         print('OK', s['id'])
