@@ -4,7 +4,7 @@
   "generator": {
     "name": "steno-start-open-dict-generator",
     "version": "1.0.0",
-    "commit": "829fa5dd0271b341168cb3b3924a9bbb039f8d97"
+    "commit": "ee5c993df69afcae66244bede2b876916b060039"
   },
   "command": "docker run --rm -v /home/dev/Development/steno-start-open-dict-lab-clean:/workspace -w /workspace/generator revision-app-dev:latest sh -lc 'dart pub get && dart run bin/generate.dart && dart test'",
   "date": "2026-10-29",
@@ -32,7 +32,7 @@
   },
   "sourceRegistry": {
     "path": "sources/sources.json",
-    "sha256": "d182bb44c05befc6cc9f441d41442f6909c4f33171515648ad161a29feca72d0"
+    "sha256": "eb94b4cb390eac6da3edca25b55342e8153918c88d59921a726f687dd4d93c68"
   },
   "inputs": [
     {
@@ -72,8 +72,8 @@
     },
     {
       "path": "generator/RULES.md",
-      "sha256": "e7e259b67b1892bf7526df6887d7573d0d656a41da977959a42160024d21fb4e",
-      "bytes": 10386
+      "sha256": "562be8129889412f3149ff1d100389dea50fe8f89f95076cc2cfd7ee88b939b1",
+      "bytes": 10375
     },
     {
       "path": "generator/bin/generate.dart",
@@ -332,7 +332,7 @@
     },
     {
       "path": "sources/sources.json",
-      "sha256": "d182bb44c05befc6cc9f441d41442f6909c4f33171515648ad161a29feca72d0",
+      "sha256": "eb94b4cb390eac6da3edca25b55342e8153918c88d59921a726f687dd4d93c68",
       "bytes": 8023
     },
     {
@@ -364,7 +364,7 @@
       "bytes": 8265
     },
     "data/manifest.json": {
-      "sha256": "fbec309ebcc3764d4ebca2912fa3928c2270cb7ebb7975dea2b4591e2af9f8f6",
+      "sha256": "95bbbffe7179a393bbcb5a6c7535256e5e8b23841f433b8fb533ad1fc6b29832",
       "bytes": 9564
     }
   },

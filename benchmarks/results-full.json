@@ -1,0 +1,64 @@
+{
+  "format": "steno-start-full-compatibility",
+  "version": 1,
+  "date": "2026-10-29",
+  "reference": "full external Plover dictionary (main.json), evaluation only, not shipped",
+  "method": "Every word in the bank is included in the denominator. A word is exact when its generated stroke sequence matches any published outline for that word. present is the number of bank words found in the reference.",
+  "banks": [
+    {
+      "name": "basics",
+      "words": 500,
+      "present": 500,
+      "missing": 0,
+      "exact": 392,
+      "exact_percent_all": 78.4,
+      "exact_percent_present": 78.4,
+      "mismatch_single": 108,
+      "multi_only": 0
+    },
+    {
+      "name": "everyday",
+      "words": 500,
+      "present": 500,
+      "missing": 0,
+      "exact": 328,
+      "exact_percent_all": 65.6,
+      "exact_percent_present": 65.6,
+      "mismatch_single": 170,
+      "multi_only": 2
+    },
+    {
+      "name": "legal",
+      "words": 200,
+      "present": 199,
+      "missing": 1,
+      "exact": 59,
+      "exact_percent_all": 29.5,
+      "exact_percent_present": 29.6,
+      "mismatch_single": 94,
+      "multi_only": 46
+    },
+    {
+      "name": "business",
+      "words": 199,
+      "present": 197,
+      "missing": 2,
+      "exact": 71,
+      "exact_percent_all": 35.7,
+      "exact_percent_present": 36.0,
+      "mismatch_single": 102,
+      "multi_only": 24
+    },
+    {
+      "name": "general",
+      "words": 500,
+      "present": 142,
+      "missing": 358,
+      "exact": 23,
+      "exact_percent_all": 4.6,
+      "exact_percent_present": 16.2,
+      "mismatch_single": 26,
+      "multi_only": 93
+    }
+  ]
+}

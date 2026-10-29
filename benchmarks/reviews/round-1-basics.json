@@ -1,0 +1,189 @@
+{
+  "name": "basics",
+  "words": 500,
+  "present": 500,
+  "missing": 0,
+  "missing_words": [],
+  "exact": 391,
+  "exact_percent_all": 78.2,
+  "exact_percent_present": 78.2,
+  "mismatch_single": 109,
+  "multi_only": 0,
+  "mismatch_sample": [
+    {
+      "word": "is",
+      "generated": "EUZ",
+      "references": [
+        "0"
+      ]
+    },
+    {
+      "word": "yes",
+      "generated": "KWRES",
+      "references": [
+        "2|4|5|6|10"
+      ]
+    },
+    {
+      "word": "very",
+      "generated": "SRER",
+      "references": [
+        "0|2|6|10"
+      ]
+    },
+    {
+      "word": "four",
+      "generated": "TPAOR",
+      "references": [
+        "1|3|8|9|11|13"
+      ]
+    },
+    {
+      "word": "five",
+      "generated": "TPAO*EUF",
+      "references": [
+        "1|3|7|8|10|11|12"
+      ]
+    },
+    {
+      "word": "seven",
+      "generated": "S*EFPB",
+      "references": [
+        "0|10|11|12|14|15"
+      ]
+    },
+    {
+      "word": "eight",
+      "generated": "AEUT",
+      "references": [
+        "7|9|10|11|18"
+      ]
+    },
+    {
+      "word": "woman",
+      "generated": "WAOPBL",
+      "references": [
+        "4|8|14|16"
+      ]
+    },
+    {
+      "word": "baby",
+      "generated": "PWAEUB",
+      "references": [
+        "3|4|7|9|10|11|15"
+      ]
+    },
+    {
+      "word": "water",
+      "generated": "WAURT",
+      "references": [
+        "4|7|11|13"
+      ]
+    },
+    {
+      "word": "city",
+      "generated": "STEUS",
+      "references": [
+        "0|1|9|10|11"
+      ]
+    },
+    {
+      "word": "door",
+      "generated": "TKAUR",
+      "references": [
+        "1|2|7|8|13"
+      ]
+    },
+    {
+      "word": "chair",
+      "generated": "KHAER",
+      "references": [
+        "2|5|7|9|10|11|13"
+      ]
+    },
+    {
+      "word": "music",
+      "generated": "PHAOUBGZ",
+      "references": [
+        "3|5|7|8|9|11|12|15|17"
+      ]
+    },
+    {
+      "word": "plane",
+      "generated": "PHRAEUPB",
+      "references": [
+        "3|5|6|7|10|14|15"
+      ]
+    },
+    {
+      "word": "tea",
+      "generated": "TAOE",
+      "references": [
+        "1|7|10"
+      ]
+    },
+    {
+      "word": "blue",
+      "generated": "PWHRAOU",
+      "references": [
+        "3|4|5|6|7|8|9|11"
+      ]
+    },
+    {
+      "word": "white",
+      "generated": "WAOEUT",
+      "references": [
+        "4|5|7|8|9|10|11|18"
+      ]
+    },
+    {
+      "word": "yellow",
+      "generated": "KWREL",
+      "references": [
+        "2|4|6|8|9|10|11|16"
+      ]
+    },
+    {
+      "word": "dirty",
+      "generated": "TKEURT",
+      "references": [
+        "1|2|8|10|11|13|18"
+      ]
+    },
+    {
+      "word": "easy",
+      "generated": "AOEZ",
+      "references": [
+        "7|8|10/0|9|10|11"
+      ]
+    },
+    {
+      "word": "weak",
+      "generated": "WAOEBG",
+      "references": [
+        "4|7|10|15|17"
+      ]
+    },
+    {
+      "word": "next",
+      "generated": "TPHEBGTS",
+      "references": [
+        "1|3|5|9|10|15|17|19"
+      ]
+    },
+    {
+      "word": "learn",
+      "generated": "HREURPB",
+      "references": [
+        "5|6|7|8|10|13|14|15"
+      ]
+    },
+    {
+      "word": "read",
+      "generated": "RAOED",
+      "references": [
+        "6|7|10|20"
+      ]
+    }
+  ]
+}

@@ -32,7 +32,7 @@
   },
   "sourceRegistry": {
     "path": "sources/sources.json",
-    "sha256": "ef25ba30d8490ef7aa796d541b1178f5a1e80bcbec356e5ca5cffae18492d976"
+    "sha256": "e8feb9d44469c940fba83b87e6785f0bff8dae0dc558ed03f9791413dad1335d"
   },
   "inputs": [
     {
@@ -72,8 +72,8 @@
     },
     {
       "path": "generator/RULES.md",
-      "sha256": "a2a67bab3cea2ee630dd8e897c96cc1d5d68217ba36bdfb74814418e8aecca24",
-      "bytes": 9329
+      "sha256": "5aa080e67c040a302ff30a3ed67be0f62506c5e8b23e6c9c5bec8245607b27f6",
+      "bytes": 10377
     },
     {
       "path": "generator/bin/generate.dart",
@@ -82,8 +82,8 @@
     },
     {
       "path": "generator/lib/src/briefs.dart",
-      "sha256": "f7a5bee7ab8ad61189c9ef6fa9aec443009241e1a247a3b7b7dfbf0f645c2ec5",
-      "bytes": 27906
+      "sha256": "4bbbee237ed2f72c60cb6639e99bc9b2a38cb753a07b73808c8c8c5e19a2d371",
+      "bytes": 27615
     },
     {
       "path": "generator/lib/src/cmudict.dart",
@@ -97,8 +97,8 @@
     },
     {
       "path": "generator/lib/src/rules.dart",
-      "sha256": "d1f706a2897cc0fea1736e746b61746c581171defd9e86ae8b2c23109fe80bf7",
-      "bytes": 16580
+      "sha256": "b388d8c6a5035443e250a266075b1d21315a193d8289072a90e408a0233d0a8c",
+      "bytes": 16548
     },
     {
       "path": "generator/lib/steno_start_generator.dart",
@@ -332,8 +332,8 @@
     },
     {
       "path": "sources/sources.json",
-      "sha256": "ef25ba30d8490ef7aa796d541b1178f5a1e80bcbec356e5ca5cffae18492d976",
-      "bytes": 8022
+      "sha256": "e8feb9d44469c940fba83b87e6785f0bff8dae0dc558ed03f9791413dad1335d",
+      "bytes": 8023
     },
     {
       "path": "sources/wikipedia/LICENSE-EVIDENCE.md",
@@ -364,8 +364,8 @@
       "bytes": 3373
     },
     "data/manifest.json": {
-      "sha256": "758dee7b97e2236bb7a00acef6cc1471dda7fdb56e0fe242412619eada9339ff",
-      "bytes": 9561
+      "sha256": "246823aba751b85ab3458ef7c8020533d8b3a9b535f1d1378be5661b49dd48db",
+      "bytes": 9562
     }
   },
   "notes": [

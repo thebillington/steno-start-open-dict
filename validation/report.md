@@ -3,46 +3,42 @@
 **Date:** 2026-10-29
 **Dictionary:** `data/dictionary.json`
 **Generator:** clean-lab audit build, 2026-10-29
-**Reference:** pinned 500-word Plover-compatible teaching set from Steno Start commit `322d212`
+**Reference:** full external Plover `main.json`, evaluation only, not shipped
 
 ## Method
 
-The generator received only the open sources in this lab. It was not given any
-Plover score, category feedback, expected outlines, or failing words. This report
-was produced by the parent evaluator after the build, as a single black-box
-comparison.
+The generator received only the open sources in this repository. It was not
+given any Plover score, category feedback, expected outlines, or failing words.
+This report was produced after the build as a black-box comparison.
 
-## Results
+Every bank word is in the denominator. A word is an exact match when the
+generated stroke sequence matches any published outline for that word in the
+reference. `present` is the number of bank words that the reference contains.
 
-| Metric | Result |
-|---|---:|
-| Words compared | 500 |
-| Exact signature match | 319 / 500 = 63.8% |
-| Mean key-set Jaccard | 0.859 |
-| Coverage | 500 / 500 |
+## Full bank results
 
-Primary mismatch categories:
+| Bank | Words | In reference | Exact, all words | Exact, present |
+|---|---:|---:|---:|---:|
+| Basics 500 | 500 | 500 | 392 / 500 = 78.4% | 78.4% |
+| Everyday 500 | 500 | 500 | 328 / 500 = 65.6% | 65.6% |
+| Legal 200 | 200 | 199 | 59 / 200 = 29.5% | 59 / 199 = 29.6% |
+| Business 200 | 199 | 197 | 71 / 199 = 35.7% | 71 / 197 = 36.0% |
+| General 500 | 500 | 142 | 23 / 500 = 4.6% | 23 / 142 = 16.2% |
 
-| Category | Words |
-|---|---:|
-| coda | 43 |
-| vowel | 42 |
-| onset + vowel + coda | 19 |
-| vowel + coda | 17 |
-| onset | 14 |
-| vowel + star | 10 |
-| star + coda | 9 |
-| star | 7 |
-| onset + vowel | 7 |
-| vowel + star + coda | 6 |
-| other combined | 7 |
+The General bank is a random CMUdict sample. 358 of its 500 words are absent
+from the reference, so its all-word percentage is not comparable with the other
+banks. It needs a product decision.
+
+The earlier 500-word teaching-subset comparison gave 319/500 (63.8%). That is a
+narrower reference with a single outline per word. It is retained in
+`benchmarks/results.json` and should not be compared with the full table above.
 
 ## Interpretation
 
 This is a custom open-source-derived teaching dictionary. It shares the 22-key
-layout and many Plover-style forms, but it is not a Plover dictionary and is not
-claimed to be Plover-compatible. The 63.8% figure is the exact agreement with
-this pinned teaching set, not a general claim about all of Plover.
+layout and many Plover-style forms, but it is not a copy of Plover and does not
+claim general Plover compatibility. The 78.4% figure is exact agreement with
+the full external reference for the Basics bank.
 
 The dictionary is useful as a beginner teaching set and as the first bank in
 Steno Start. Importing a user's own Plover dictionary is the supported route to

@@ -1,0 +1,20 @@
+{
+  "name": "everyday",
+  "bank_dir": "benchmarks/banks_data/everyday",
+  "words": 500,
+  "entries": 500,
+  "issues": [],
+  "issue_counts": {},
+  "flags": {
+    "multi_phone_coda": 172,
+    "collision_resolved_rule": 3,
+    "star_collision_rule": 3
+  },
+  "source_id_counts": {
+    "art-of-chording-website": 25,
+    "plover-wiki-top-100": 84,
+    "cmudict": 412,
+    "wikipedia-stenotype": 407,
+    "steno-start-rules": 412
+  }
+}

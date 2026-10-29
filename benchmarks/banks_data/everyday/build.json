@@ -28,11 +28,11 @@
     "changedEntries": 64,
     "collisionResolved": 3,
     "multiStrokeEntries": 24,
-    "sourceIdsUsed": 6
+    "sourceIdsUsed": 5
   },
   "sourceRegistry": {
     "path": "sources/sources.json",
-    "sha256": "380efa40eb0ca5da93b2fcdc67fb1e4aa3f736f9c0b98604ccc1687b195b05a2"
+    "sha256": "4c8b228f8025cf22ea6d2bdd51c396ae93f1dce9287c53c17074e1afc189053b"
   },
   "inputs": [
     {
@@ -72,8 +72,8 @@
     },
     {
       "path": "generator/RULES.md",
-      "sha256": "a2a67bab3cea2ee630dd8e897c96cc1d5d68217ba36bdfb74814418e8aecca24",
-      "bytes": 9329
+      "sha256": "5aa080e67c040a302ff30a3ed67be0f62506c5e8b23e6c9c5bec8245607b27f6",
+      "bytes": 10377
     },
     {
       "path": "generator/bin/generate.dart",
@@ -82,8 +82,8 @@
     },
     {
       "path": "generator/lib/src/briefs.dart",
-      "sha256": "f7a5bee7ab8ad61189c9ef6fa9aec443009241e1a247a3b7b7dfbf0f645c2ec5",
-      "bytes": 27906
+      "sha256": "4bbbee237ed2f72c60cb6639e99bc9b2a38cb753a07b73808c8c8c5e19a2d371",
+      "bytes": 27615
     },
     {
       "path": "generator/lib/src/cmudict.dart",
@@ -97,8 +97,8 @@
     },
     {
       "path": "generator/lib/src/rules.dart",
-      "sha256": "d1f706a2897cc0fea1736e746b61746c581171defd9e86ae8b2c23109fe80bf7",
-      "bytes": 16580
+      "sha256": "b388d8c6a5035443e250a266075b1d21315a193d8289072a90e408a0233d0a8c",
+      "bytes": 16548
     },
     {
       "path": "generator/lib/steno_start_generator.dart",
@@ -332,8 +332,8 @@
     },
     {
       "path": "sources/sources.json",
-      "sha256": "380efa40eb0ca5da93b2fcdc67fb1e4aa3f736f9c0b98604ccc1687b195b05a2",
-      "bytes": 8022
+      "sha256": "4c8b228f8025cf22ea6d2bdd51c396ae93f1dce9287c53c17074e1afc189053b",
+      "bytes": 8023
     },
     {
       "path": "sources/wikipedia/LICENSE-EVIDENCE.md",
@@ -348,7 +348,7 @@
   ],
   "outputs": {
     "data/dictionary.json": {
-      "sha256": "81260c4c94e40e913efe2b5b0fe1dc096a93ff4b5517b18388e9c4218cd5b25d",
+      "sha256": "ce8fb872260d98a594b4890ce0fb246c5bf9d03df75f2cc3a1cc7a898b5e0a5b",
       "bytes": 10306
     },
     "data/multi_stroke.json": {
@@ -356,16 +356,16 @@
       "bytes": 701
     },
     "provenance/entries.json": {
-      "sha256": "c3bf20e6ce4913ba0d4104c7524e1a07b3b337847b03dc14bbb7df35f81f2652",
-      "bytes": 251870
+      "sha256": "1c9faa369395a789e1b1316aa0ec37819cf234ae9d2bec807e7ab7b7660c90b6",
+      "bytes": 251628
     },
     "validation/self_check.md": {
-      "sha256": "dfd6337c314fb48fb38c8a2e9d3fc2b9fdf2baca7084ca1a888e2d6a67a6a9d9",
-      "bytes": 7527
+      "sha256": "8c3d758087983784f7f2fd425a7ee755adf746490fcc639407af20d3d5b0acc8",
+      "bytes": 7351
     },
     "data/manifest.json": {
-      "sha256": "6d9ba175db0266ab4e85def5f3c3302318499bb234936e5514d15145ddd27b80",
-      "bytes": 9565
+      "sha256": "fefb1c4ddaf66e93f75307bc9c60835f25f02a6936cfee8c97d5b125929082e2",
+      "bytes": 9566
     }
   },
   "notes": [

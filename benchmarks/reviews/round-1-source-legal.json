@@ -1,0 +1,30 @@
+{
+  "name": "legal",
+  "bank_dir": "benchmarks/banks_data/legal",
+  "words": 200,
+  "entries": 200,
+  "issues": [
+    {
+      "kind": "brief_without_rules_source",
+      "word": "will",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    }
+  ],
+  "issue_counts": {
+    "brief_without_rules_source": 1
+  },
+  "flags": {
+    "multi_phone_coda": 148,
+    "collision_resolved_rule": 5,
+    "star_collision_rule": 4
+  },
+  "source_id_counts": {
+    "cmudict": 199,
+    "wikipedia-stenotype": 199,
+    "steno-start-rules": 199,
+    "art-of-chording-website": 1,
+    "plover-wiki-top-100": 1
+  }
+}

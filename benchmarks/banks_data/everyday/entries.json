@@ -3184,8 +3184,6 @@
     "signature": "5|7|8|9|10|13",
     "sourceIds": [
       "cmudict",
-      "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Steno Start homophone brief for 'hear'; 'here' keeps the rule form HAOER.",
@@ -3874,8 +3872,6 @@
     "signature": "8|10|14",
     "sourceIds": [
       "cmudict",
-      "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Steno Start collision brief for 'open' (OEP); keeps it distinct from 'own' OEPB.",
@@ -4494,8 +4490,6 @@
     "sourceIds": [
       "plover-wiki-top-100",
       "cmudict",
-      "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Steno Start compound brief: 'to' (TO) plus the final -D of 'day'.",
@@ -4932,8 +4926,6 @@
     "signature": "0|1|10|11|19",
     "sourceIds": [
       "cmudict",
-      "wikipedia-stenotype",
-      "steno-start-word-list",
       "steno-start-rules"
     ],
     "rule": "Steno Start collision brief for 'city' (ST + EU + S); keeps it distinct from 'sit' SEUT.",
@@ -9164,8 +9156,8 @@
   },
   {
     "word": "door",
-    "outline": "TKAUR",
-    "signature": "1|2|7|11|13",
+    "outline": "TKAOR",
+    "signature": "1|2|7|8|13",
     "sourceIds": [
       "cmudict",
       "wikipedia-stenotype",
@@ -9177,8 +9169,8 @@
     "collisionResolved": false,
     "variant": "base",
     "cmudict": "D AO1 R",
-    "plainRule": "TKAUR",
-    "plainSignature": "1|2|7|11|13",
+    "plainRule": "TKAOR",
+    "plainSignature": "1|2|7|8|13",
     "license": "CC-BY-SA-4.0"
   },
   {

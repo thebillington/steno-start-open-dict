@@ -94,7 +94,7 @@ Plover spelling and it does not claim Plover accuracy.
 | AA | A or O | `O` when the spelling has `o`; `AU` for `al`/`aw`/`au` |
 | AE | A | short a |
 | AH | U | schwa/short u |
-| AO | O or AU | `AU` for `aw`/`au`/`all`/`al`, `door`, and initial `wa`/`wo`; `AO` for `oo` |
+| AO | O or AU | `AU` for `aw`/`au`/`all`/`al` and initial `wa`/`wo`; `AO` for `oo` |
 | AW | OU | cow, out, house |
 | AY | AOEU | time, right |
 | EH | E or AE | `AE` for `ea` and `air` |
@@ -228,9 +228,9 @@ entry. No word requires the multi-stroke form to be covered.
   supply them.
 - The `ER`/r-coloured vowel row is authored because the cited chart has no `ER`
   row.
-- The current 500-word set matches 319/500 (63.8%) of the pinned Plover
-  teaching reference exactly. Exact personal Plover compatibility comes from
-  importing the user's own dictionary, not from these built-in banks.
+- The current 500-word set matches 392/500 (78.4%) of the full external Plover
+  reference exactly. Exact personal Plover compatibility comes from importing
+  the user's own dictionary, not from these built-in banks.
 
 ## Provenance and licence
 

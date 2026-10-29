@@ -1,0 +1,261 @@
+{
+  "name": "general",
+  "words": 500,
+  "present": 142,
+  "missing": 358,
+  "missing_words": [
+    "bubolz",
+    "subandrio",
+    "boehnlein",
+    "intermedic",
+    "unspoken",
+    "snipers",
+    "unrefined",
+    "echenberg",
+    "dinatale",
+    "lublin",
+    "wambold",
+    "corwin",
+    "fillets",
+    "exbroker",
+    "livesey",
+    "gillooly",
+    "birkedal",
+    "spoerl",
+    "rayson",
+    "bindel",
+    "sorrenti",
+    "stockham",
+    "coupes",
+    "lisanti",
+    "bilka",
+    "booras",
+    "denzler",
+    "dilaura",
+    "chessher",
+    "levit",
+    "cundiff",
+    "galante",
+    "immanence",
+    "bucoba",
+    "edgecomb",
+    "pozo",
+    "selkirk",
+    "raggio",
+    "hitchner",
+    "retouching",
+    "trumpeter",
+    "gherig",
+    "ruzzo",
+    "busick",
+    "jacinta",
+    "briere",
+    "erlichman",
+    "heartened",
+    "solano",
+    "rused"
+  ],
+  "exact": 23,
+  "exact_percent_all": 4.6,
+  "exact_percent_present": 16.2,
+  "mismatch_single": 26,
+  "multi_only": 93,
+  "mismatch_sample": [
+    {
+      "word": "allergens",
+      "generated": "ARPBLGZ",
+      "reference_signatures": [
+        "7|16/9|10|13/0|2|4|6|10|14|15|19"
+      ]
+    },
+    {
+      "word": "oppressor",
+      "generated": "PRERS",
+      "reference_signatures": [
+        "8/3|6|10|19/0|8|13"
+      ]
+    },
+    {
+      "word": "saxophone",
+      "generated": "SAFPBGS",
+      "reference_signatures": [
+        "0|7|15|17|19/1|3|8|10|14|15"
+      ]
+    },
+    {
+      "word": "stressing",
+      "generated": "STREPBGS",
+      "reference_signatures": [
+        "0|1|6|10|12|17",
+        "0|1|6|10|19/17"
+      ]
+    },
+    {
+      "word": "spanked",
+      "generated": "SPA*PBGT",
+      "reference_signatures": [
+        "0|3|7|14|15/15|17|20",
+        "0|3|7|14|15/9|15|17|20"
+      ]
+    },
+    {
+      "word": "brigantine",
+      "generated": "TKPWHRAOEPB",
+      "reference_signatures": [
+        "3|4|6|10|11|17/7|14|15|18/1|7|8|10|11|14|15"
+      ]
+    },
+    {
+      "word": "usury",
+      "generated": "AOEURB",
+      "reference_signatures": [
+        "2|4|6|7|8|11|19/6|10|11",
+        "2|4|6|7|8|11|21/6|10|11",
+        "7|8|11|13|15/6|10|11",
+        "7|8|11|19/6|10|11"
+      ]
+    },
+    {
+      "word": "brownie",
+      "generated": "PWROEUPB",
+      "reference_signatures": [
+        "3|4|6|8|11|14|15/2|4|6|10|11"
+      ]
+    },
+    {
+      "word": "pianist",
+      "generated": "PAFPBT",
+      "reference_signatures": [
+        "3|7|8|10/1|3|5|10|11|12|18",
+        "3|7|8|10/1|3|5|9|10|11|19",
+        "3|7|8|10/7|14|15/9|10|11|19",
+        "3|7|8|10|14|15/10|11|12|18",
+        "3|7|8|10|14|15/1|3|5|10|11|12|18",
+        "3|7|8|10|14|15/1|3|5|9|10|11|19",
+        "3|7|8|10|14|15/9|10|11|19"
+      ]
+    },
+    {
+      "word": "liqueur",
+      "generated": "KHRUR",
+      "reference_signatures": [
+        "5|6|10|11|15|17/2|10|13",
+        "5|6|10|11|15|17/2|11|13",
+        "5|6|10|11|15|17/7|8|11|13"
+      ]
+    },
+    {
+      "word": "breeder",
+      "generated": "PWRAOERD",
+      "reference_signatures": [
+        "3|4|6|7|8|10|20/10|13",
+        "3|4|6|7|8|10|20/9|10|13"
+      ]
+    },
+    {
+      "word": "workbook",
+      "generated": "WORBG",
+      "reference_signatures": [
+        "4|8|13|14|15|17/3|4|7|8|9|15|17",
+        "4|8|13|15|17/3|4|7|8|15|17"
+      ]
+    },
+    {
+      "word": "constance",
+      "generated": "KOFPBTS",
+      "reference_signatures": [
+        "2|7|11|14|15/0|1|7|14|15|19"
+      ]
+    },
+    {
+      "word": "kirsten",
+      "generated": "KEUFRPBT",
+      "reference_signatures": [
+        "2|10|11|13/0|1|10|14|15"
+      ]
+    },
+    {
+      "word": "caitlin",
+      "generated": "KAEUPBLT",
+      "reference_signatures": [
+        "2|7|10|11|18/5|6|10|11|14|15"
+      ]
+    },
+    {
+      "word": "firms",
+      "generated": "TPEURPLZ",
+      "reference_signatures": [
+        "1|3|10|11|13|14|16|19"
+      ]
+    },
+    {
+      "word": "axiomatic",
+      "generated": "SKPHABGT",
+      "reference_signatures": [
+        "7|15|17|19/2|4|6|8/3|5|7/1|10|11|15|17",
+        "7|15|17|19/2|4|6|8/3|5|7|18/10|11|15|17",
+        "7|15|17|19/2|4|6|8|10/3|5|7/1|10|11|15|17",
+        "7|15|17|19/2|4|6|8|10/3|5|7|18/10|11|15|17",
+        "7|15|17|19/2|4|6|8|14|16/7|18/10|11|15|17"
+      ]
+    },
+    {
+      "word": "entailing",
+      "generated": "TPHAEUPBLG",
+      "reference_signatures": [
+        "10|14|15/1|7|10|11|16/17",
+        "10|14|15/1|7|10|11|16|17"
+      ]
+    },
+    {
+      "word": "hepburn",
+      "generated": "HERPB",
+      "reference_signatures": [
+        "5|9|10|14/3|4|11|13|14|15"
+      ]
+    },
+    {
+      "word": "panko",
+      "generated": "PA*PBG",
+      "reference_signatures": [
+        "3|7|14|15/2|8|10"
+      ]
+    },
+    {
+      "word": "kingpin",
+      "generated": "KEUPBG",
+      "reference_signatures": [
+        "2|10|11|14|15|17/3|10|11|14|15"
+      ]
+    },
+    {
+      "word": "homepage",
+      "generated": "HOEFRPBLG",
+      "reference_signatures": [
+        "5|8|10|14|16/3|7|10|11|14|15|16|17"
+      ]
+    },
+    {
+      "word": "hangover",
+      "generated": "HA*FRPBG",
+      "reference_signatures": [
+        "5|7|14|15|17/8|9|10|12|13"
+      ]
+    },
+    {
+      "word": "lori",
+      "generated": "HROER",
+      "reference_signatures": [
+        "5|6|8|13/0|2|4|6|10|11"
+      ]
+    },
+    {
+      "word": "horribly",
+      "generated": "HOERBL",
+      "reference_signatures": [
+        "5|8|13/3|4|5|6|10|11",
+        "5|8|13/6|10|11/3|4|5|6|10|11"
+      ]
+    }
+  ]
+}

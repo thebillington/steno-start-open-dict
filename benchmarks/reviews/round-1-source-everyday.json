@@ -1,0 +1,657 @@
+{
+  "name": "everyday",
+  "bank_dir": "benchmarks/banks_data/everyday",
+  "words": 500,
+  "entries": 500,
+  "issues": [
+    {
+      "kind": "brief_without_rules_source",
+      "word": "the",
+      "detail": [
+        "art-of-chording-website",
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "be",
+      "detail": [
+        "art-of-chording-website",
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "and",
+      "detail": [
+        "art-of-chording-website",
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "of",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "to",
+      "detail": [
+        "art-of-chording-website",
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "in",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "have",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "it",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "you",
+      "detail": [
+        "art-of-chording-website",
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "he",
+      "detail": [
+        "art-of-chording-website",
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "they",
+      "detail": [
+        "art-of-chording-website",
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "not",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "that",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "we",
+      "detail": [
+        "art-of-chording-website",
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "on",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "with",
+      "detail": [
+        "art-of-chording-website",
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "this",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "i",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "do",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "as",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "at",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "she",
+      "detail": [
+        "art-of-chording-website",
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "but",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "from",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "by",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "will",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "or",
+      "detail": [
+        "art-of-chording-website",
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "say",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "go",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "so",
+      "detail": [
+        "art-of-chording-website",
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "all",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "if",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "one",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "would",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "about",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "which",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "there",
+      "detail": [
+        "art-of-chording-website",
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "know",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "get",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "who",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "like",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "when",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "think",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "make",
+      "detail": [
+        "art-of-chording-website",
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "time",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "see",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "what",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "up",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "some",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "other",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "out",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "good",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "people",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "year",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "take",
+      "detail": [
+        "art-of-chording-website",
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "no",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "well",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "because",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "just",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "come",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "could",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "work",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "use",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "than",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "now",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "then",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "also",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "into",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "only",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "look",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "want",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "give",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "first",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "new",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "way",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "over",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "any",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "after",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "day",
+      "detail": [
+        "art-of-chording-website",
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "most",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "how",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "back",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "even",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "around",
+      "detail": [
+        "art-of-chording-website"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "every",
+      "detail": [
+        "art-of-chording-website"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "always",
+      "detail": [
+        "art-of-chording-website"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "remember",
+      "detail": [
+        "art-of-chording-website"
+      ]
+    },
+    {
+      "kind": "brief_without_rules_source",
+      "word": "paper",
+      "detail": [
+        "art-of-chording-website"
+      ]
+    }
+  ],
+  "issue_counts": {
+    "brief_without_rules_source": 88
+  },
+  "flags": {
+    "multi_phone_coda": 172,
+    "word_list_overcitation": 4,
+    "collision_resolved_rule": 3,
+    "star_collision_rule": 3
+  },
+  "source_id_counts": {
+    "art-of-chording-website": 25,
+    "plover-wiki-top-100": 84,
+    "cmudict": 412,
+    "wikipedia-stenotype": 411,
+    "steno-start-rules": 412,
+    "steno-start-word-list": 4
+  }
+}

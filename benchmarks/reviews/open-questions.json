@@ -1,0 +1,51 @@
+{
+  "format": "steno-start-open-questions",
+  "date": "2026-10-29",
+  "questions": [
+    {
+      "id": "star-collisions",
+      "question": "Keep asterisks for non-homophone collisions?",
+      "examples": ["certain S*ERPBT", "corner KO*RPB", "cross KRO*S", "away WA*EU"],
+      "options": ["keep", "right-hand tag", "multi-stroke"]
+    },
+    {
+      "id": "le-elision",
+      "question": "Keep the authored -le elision?",
+      "examples": ["little HREUL", "circle SEURBG"],
+      "options": ["keep", "restore the dropped consonant"]
+    },
+    {
+      "id": "er-row",
+      "question": "Keep the authored r-coloured ER row?",
+      "options": ["keep", "require an external source", "remove and use multi-stroke"]
+    },
+    {
+      "id": "use-sense",
+      "question": "Which sense of use should the bank teach?",
+      "options": ["verb AOUZ", "noun AOUS"]
+    },
+    {
+      "id": "general-bank",
+      "question": "What should happen to the General bank?",
+      "detail": "358 of its 500 words are absent from the Plover reference.",
+      "options": ["keep the random CMUdict sample", "replace with a frequency list", "drop the bank"]
+    },
+    {
+      "id": "published-alternatives",
+      "question": "Which published form should be used where a page gives alternatives?",
+      "examples": ["my PHEU or PHAOEU", "we WE or WAOE", "she SHE or SHAOE", "go TKPWO or TKPWOE or TKPW", "most PHOFT or PHOEFT", "even AOEPB or AOEFPB", "but PWUT or PWU"],
+      "options": ["current form", "first published alternative", "specify per word"]
+    },
+    {
+      "id": "coda-packing",
+      "question": "Accept single-chord packing when a multi-consonant coda cannot fit in phone order?",
+      "examples": ["music PHAOUBGZ", "animal APBL"],
+      "options": ["accept", "require multi-stroke"]
+    },
+    {
+      "id": "four",
+      "question": "Which four form?",
+      "options": ["TPAOR", "TPAUR", "another documented form"]
+    }
+  ]
+}

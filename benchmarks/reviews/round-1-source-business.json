@@ -1,0 +1,27 @@
+{
+  "name": "business",
+  "bank_dir": "benchmarks/banks_data/business",
+  "words": 199,
+  "entries": 199,
+  "issues": [
+    {
+      "kind": "brief_without_rules_source",
+      "word": "up",
+      "detail": [
+        "plover-wiki-top-100"
+      ]
+    }
+  ],
+  "issue_counts": {
+    "brief_without_rules_source": 1
+  },
+  "flags": {
+    "multi_phone_coda": 139
+  },
+  "source_id_counts": {
+    "cmudict": 198,
+    "wikipedia-stenotype": 198,
+    "steno-start-rules": 198,
+    "plover-wiki-top-100": 1
+  }
+}
