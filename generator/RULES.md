@@ -213,6 +213,25 @@ writes `STROKE/STROKE`. The AoC `OUT/SEUD` form for *outside* is used when the
 archive supplies it. The single-stroke teaching form remains the dictionary
 entry. No word requires the multi-stroke form to be covered.
 
+## Known limitations
+
+- A single chord has a fixed key order. Multi-consonant codas are packed into
+  the available right-hand keys, so a coda can be compressed or reordered
+  relative to the phone list in the provenance. `music` (`Z K`) and `animal`
+  (`N M L`) are examples. The phone list is the derivation record, not a claim
+  that every phone has its own key.
+- A few collisions use an asterisk even though the words are not homophones:
+  `certain` `S*ERPBT`, `corner` `KO*RPB` and `cross` `KRO*S`. These are
+  documented teaching compromises, not Plover-compatible forms.
+- The `-le` elisions (`little` `HREUL`, `circle` `SEURBG`) and the silent-letter
+  restorations are authored Steno Start spelling rules. The chart does not
+  supply them.
+- The `ER`/r-coloured vowel row is authored because the cited chart has no `ER`
+  row.
+- The current 500-word set matches 319/500 (63.8%) of the pinned Plover
+  teaching reference exactly. Exact personal Plover compatibility comes from
+  importing the user's own dictionary, not from these built-in banks.
+
 ## Provenance and licence
 
 Each entry records `sourceIds`, the rule/source description, its CMUdict

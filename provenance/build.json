@@ -32,7 +32,7 @@
   },
   "sourceRegistry": {
     "path": "sources/sources.json",
-    "sha256": "19a191c56993cbf54b99b6e0a2bf8f1bcadaf7e7ec33f5719125956e4a388172"
+    "sha256": "d182bb44c05befc6cc9f441d41442f6909c4f33171515648ad161a29feca72d0"
   },
   "inputs": [
     {
@@ -72,8 +72,8 @@
     },
     {
       "path": "generator/RULES.md",
-      "sha256": "a2a67bab3cea2ee630dd8e897c96cc1d5d68217ba36bdfb74814418e8aecca24",
-      "bytes": 9329
+      "sha256": "e7e259b67b1892bf7526df6887d7573d0d656a41da977959a42160024d21fb4e",
+      "bytes": 10386
     },
     {
       "path": "generator/bin/generate.dart",
@@ -332,8 +332,8 @@
     },
     {
       "path": "sources/sources.json",
-      "sha256": "19a191c56993cbf54b99b6e0a2bf8f1bcadaf7e7ec33f5719125956e4a388172",
-      "bytes": 8022
+      "sha256": "d182bb44c05befc6cc9f441d41442f6909c4f33171515648ad161a29feca72d0",
+      "bytes": 8023
     },
     {
       "path": "sources/wikipedia/LICENSE-EVIDENCE.md",
@@ -364,8 +364,8 @@
       "bytes": 8265
     },
     "data/manifest.json": {
-      "sha256": "6e1ca95b73c15cfe712cf34f6de41dbb345278ad6cca42d01723fa85b1add1fc",
-      "bytes": 9563
+      "sha256": "fbec309ebcc3764d4ebca2912fa3928c2270cb7ebb7975dea2b4591e2af9f8f6",
+      "bytes": 9564
     }
   },
   "notes": [

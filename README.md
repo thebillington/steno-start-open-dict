@@ -85,6 +85,8 @@ example. `data/multi_stroke.json` currently has 8 optional expansions; no word
 requires a multi-stroke form to be covered.
 
 The generator does not claim accuracy against Plover or any other dictionary.
+The current 500-word bank matches 319/500 (63.8%) of the pinned reference
+exactly; see `validation/report.md` and `benchmarks/results.json`.
 It is a rule-based, open-source derivation. The parent project runs the pinned
 black-box comparison and writes `validation/report.md`.
 
