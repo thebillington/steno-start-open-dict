@@ -102,5 +102,6 @@ shipped data.
 | Legal | 59 | 63 | +4 |
 | Business | 71 | 80 | +9 |
 | General | 215 | 228 | +13 |
+| Sentence words | 121 | 122 | +1 |
 
 Source review after round 3: 0 issues in all four generated banks.

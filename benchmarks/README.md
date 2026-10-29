@@ -27,6 +27,7 @@ published outline for that word.
 | Legal 200 | 200 | 199 | 63 / 200 = 31.5% | 63 / 199 = 31.7% |
 | Business 200 | 199 | 197 | 80 / 199 = 40.2% | 80 / 197 = 40.6% |
 | General 500 | 500 | 500 | 228 / 500 = 45.6% | 45.6% |
+| Sentence words | 135 | 135 | 122 / 135 = 90.4% | 90.4% |
 
 The General bank now uses NGSL ranks 501-1000. All 500 words are present in the
 Plover reference; the earlier random CMUdict sample was replaced.

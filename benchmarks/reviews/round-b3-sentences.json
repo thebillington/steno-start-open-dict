@@ -1,0 +1,98 @@
+{
+  "name": "sentences",
+  "words": 135,
+  "present": 135,
+  "missing": 0,
+  "missing_words": [],
+  "exact": 122,
+  "exact_percent_all": 90.4,
+  "exact_percent_present": 90.4,
+  "mismatch_single": 13,
+  "multi_only": 0,
+  "categories": {
+    "vowel": 6,
+    "coda": 3,
+    "star": 3,
+    "onset+vowel+coda": 1
+  },
+  "mismatch_sample": [
+    {
+      "word": "is",
+      "generated": "EUZ",
+      "reference": "S",
+      "category": "onset+vowel+coda"
+    },
+    {
+      "word": "very",
+      "generated": "SRER",
+      "reference": "SRE",
+      "category": "coda"
+    },
+    {
+      "word": "read",
+      "generated": "RAOED",
+      "reference": "RAED",
+      "category": "vowel"
+    },
+    {
+      "word": "city",
+      "generated": "STEUS",
+      "reference": "STEU",
+      "category": "coda"
+    },
+    {
+      "word": "tea",
+      "generated": "TAOE",
+      "reference": "TAE",
+      "category": "vowel"
+    },
+    {
+      "word": "baby",
+      "generated": "PWAEUB",
+      "reference": "PWA*EUB",
+      "category": "star"
+    },
+    {
+      "word": "water",
+      "generated": "WAURT",
+      "reference": "WAUR",
+      "category": "coda"
+    },
+    {
+      "word": "chair",
+      "generated": "KHAER",
+      "reference": "KHAEUR",
+      "category": "vowel"
+    },
+    {
+      "word": "learn",
+      "generated": "HREURPB",
+      "reference": "HRERPB",
+      "category": "vowel"
+    },
+    {
+      "word": "drive",
+      "generated": "TKRAO*EUF",
+      "reference": "TKRAOEUF",
+      "category": "star"
+    },
+    {
+      "word": "blue",
+      "generated": "PWHRAOU",
+      "reference": "PWHRAO*U",
+      "category": "star"
+    },
+    {
+      "word": "weak",
+      "generated": "WAOEBG",
+      "reference": "WAEBG",
+      "category": "vowel"
+    },
+    {
+      "word": "dirty",
+      "generated": "TKEURT",
+      "reference": "TKOEURT",
+      "category": "vowel"
+    }
+  ]
+}

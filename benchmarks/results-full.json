@@ -59,6 +59,17 @@
       "exact_percent_present": 45.6,
       "mismatch_single": 248,
       "multi_only": 24
+    },
+    {
+      "name": "sentences",
+      "words": 135,
+      "present": 135,
+      "missing": 0,
+      "exact": 122,
+      "exact_percent_all": 90.4,
+      "exact_percent_present": 90.4,
+      "mismatch_single": 13,
+      "multi_only": 0
     }
   ]
 }
