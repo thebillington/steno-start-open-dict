@@ -11,7 +11,6 @@ Allowed inputs:
 
 Excluded:
 
-- Art of Chording, CC BY-SA 4.0, with attribution and share-alike.
 - Plover main.json and derivatives.
 - Typey Type and other GPL dictionaries.
 - Lapwing dictionary until its licence is clarified.

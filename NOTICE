@@ -5,7 +5,6 @@ Dictionary data is licensed CC BY-SA 4.0. Generator code is licensed MIT.
 
 Sources used for the dictionary:
 - CMU Pronouncing Dictionary, BSD-2-Clause
-- Art of Chording by Thea Morin, CC BY-SA 4.0, https://www.artofchording.com/
 - Wikipedia: Stenotype, CC BY-SA 4.0
 - Plover Wiki: Top 100 Words, Brief Ideas, Stenography Cheat Sheets and
   Plover theory, CC BY as stated in the Plover Wiki footer
@@ -13,3 +12,6 @@ Sources used for the dictionary:
 
 No Plover main.json, GPL dictionary data, Typey Type data, Lapwing data,
 StenEd, Magnum or Phoenix data is included.
+
+Art of Chording is not included. It is CC BY-NC-SA 4.0 and is not suitable for
+a paid application without separate permission.
