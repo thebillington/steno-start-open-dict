@@ -1,84 +1,101 @@
 {
   "format": "steno-start-source-registry",
-  "version": 1,
+  "version": 2,
   "sources": [
     {
       "id": "cmudict",
       "name": "CMU Pronouncing Dictionary",
       "url": "https://github.com/cmusphinx/cmudict",
       "license": "BSD-2-Clause",
-      "file": "sources/cmudict/cmudict.dict",
+      "revision": "74790861f652b15e4ac49015a90074ad62a27690",
+      "fetchUrl": "https://raw.githubusercontent.com/cmusphinx/cmudict/74790861f652b15e4ac49015a90074ad62a27690/cmudict.dict",
+      "cachePath": "sources/cache/cmudict/cmudict.dict",
       "sha256": "81917843c7f44ce2b094ac63873c2c7a4cf802040792c455ba3ca406891c3d22",
       "bytes": 3618488,
       "usedFor": "pronunciation",
-      "modified": false,
-      "retrieved": "2026-10-29",
-      "notes": ""
+      "retrieved": "2026-10-29"
     },
     {
       "id": "wikipedia-stenotype",
       "name": "Wikipedia: Stenotype",
       "url": "https://en.wikipedia.org/wiki/Stenotype",
       "license": "CC-BY-SA-4.0",
-      "file": "sources/wikipedia/stenotype.wiki",
+      "revision": "1378936604",
+      "timestamp": "2026-10-07T00:32:23Z",
+      "fetchUrl": "https://en.wikipedia.org/w/index.php?oldid=1378936604&action=raw",
+      "cachePath": "sources/cache/wikipedia/stenotype.wiki",
       "sha256": "9c2f02a0fda6c6faa794e7228105eb3c9f8e70ad7c1984fe518c5fb06caa6784",
       "bytes": 27699,
       "usedFor": "layout, chart and theory examples",
-      "modified": false,
-      "retrieved": "2026-10-29",
-      "notes": ""
+      "retrieved": "2026-10-29"
     },
     {
       "id": "plover-wiki-top-100",
       "name": "Plover Wiki: Top 100 Words in Plover's Dictionary",
       "url": "https://plover.wiki/index.php/Top_100_Words_in_Plover%27s_Dictionary",
       "license": "CC-BY (as stated in wiki footer)",
-      "file": "sources/plover-wiki/top-100-words.wiki",
+      "revision": "195",
+      "timestamp": "2024-02-12T21:29:06Z",
+      "fetchUrl": "https://plover.wiki/index.php?oldid=195&action=raw",
+      "cachePath": "sources/cache/plover-wiki/top-100-words.wiki",
       "sha256": "f59888b30f2f28e7960c545cecfa766f0253aa81eb58d564382ae8b4b9e4a73c",
       "bytes": 16738,
       "usedFor": "public standard-form examples",
-      "modified": false,
-      "retrieved": "2026-10-29",
-      "notes": ""
+      "retrieved": "2026-10-29"
     },
     {
       "id": "plover-wiki-brief-ideas",
       "name": "Plover Wiki: Brief Ideas",
       "url": "https://plover.wiki/index.php/Brief_Ideas",
       "license": "CC-BY (as stated in wiki footer)",
-      "file": "sources/plover-wiki/brief-ideas.wiki",
+      "revision": "146",
+      "timestamp": "2024-02-06T04:13:53Z",
+      "fetchUrl": "https://plover.wiki/index.php?oldid=146&action=raw",
+      "cachePath": "sources/cache/plover-wiki/brief-ideas.wiki",
       "sha256": "265f9cfa964004325fae43b0a7a1fd92b403174018699001ccf2ab71074bf290",
       "bytes": 3643,
       "usedFor": "brief patterns and examples",
-      "modified": false,
-      "retrieved": "2026-10-29",
-      "notes": ""
+      "retrieved": "2026-10-29"
     },
     {
       "id": "plover-wiki-cheat-sheets",
       "name": "Plover Wiki: Stenography Cheat Sheets",
       "url": "https://plover.wiki/index.php/Stenography_Cheat_Sheets",
       "license": "CC-BY (as stated in wiki footer)",
-      "file": "sources/plover-wiki/cheat-sheets.wiki",
+      "revision": "3320",
+      "timestamp": "2025-05-12T15:21:07Z",
+      "fetchUrl": "https://plover.wiki/index.php?oldid=3320&action=raw",
+      "cachePath": "sources/cache/plover-wiki/cheat-sheets.wiki",
       "sha256": "444b9fad16a82518a22bcffa9ed3fdc8dea49b03b00f97adbf15a653ad3296ce",
       "bytes": 2034,
       "usedFor": "theory references",
-      "modified": false,
-      "retrieved": "2026-10-29",
-      "notes": ""
+      "retrieved": "2026-10-29"
     },
     {
       "id": "plover-wiki-theory",
       "name": "Plover Wiki: Plover theory",
       "url": "https://plover.wiki/index.php/Plover_theory",
       "license": "CC-BY (as stated in wiki footer)",
-      "file": "sources/plover-wiki/plover-theory.wiki",
+      "revision": "4709",
+      "timestamp": "2026-03-26T03:15:09Z",
+      "fetchUrl": "https://plover.wiki/index.php?oldid=4709&action=raw",
+      "cachePath": "sources/cache/plover-wiki/plover-theory.wiki",
       "sha256": "3357b0f801236315bf2187c4c4058705bd2effdd15f4859f17c03cdccaa3a91b",
       "bytes": 4537,
       "usedFor": "theory context",
-      "modified": false,
-      "retrieved": "2026-10-29",
-      "notes": ""
+      "retrieved": "2026-10-29"
+    },
+    {
+      "id": "art-of-chording-website",
+      "name": "Art of Chording website (Wayback archive)",
+      "url": "https://www.artofchording.com/",
+      "license": "CC-BY-SA-4.0",
+      "archive": "Internet Archive Wayback Machine",
+      "manifest": "sources/art-of-chording/web-archive/pages.json",
+      "manifestSha256": "110e9eccebfe52cba0a8d667ee26cd7752b113b1726291148aff9348bace7a08",
+      "cacheDir": "sources/cache/art-of-chording",
+      "usedFor": "theory, chord examples and briefs",
+      "retrieved": "2026-10-29"
     },
     {
       "id": "steno-start-word-list",
@@ -89,22 +106,7 @@
       "sha256": "bbd0819d7623b337a271d2b7005a5e09074138e87f0eb4b2447c1cd927c17e22",
       "bytes": 2641,
       "usedFor": "word selection",
-      "modified": false,
-      "retrieved": "2026-10-29",
-      "notes": ""
-    },
-    {
-      "id": "art-of-chording-website",
-      "name": "Art of Chording website (Wayback archive)",
-      "url": "https://www.artofchording.com/",
-      "license": "CC-BY-SA-4.0",
-      "file": "sources/art-of-chording/web-archive/pages.json",
-      "sha256": "533c3680f56c70f048651096b88cec9bda3062678a70261b78eb650b505f353f",
-      "bytes": 10554,
-      "usedFor": "theory, chord examples and briefs",
-      "modified": false,
-      "retrieved": "2026-10-29",
-      "notes": "Wayback snapshot attached; archived home footer states CC BY-SA 4.0."
+      "retrieved": "2026-10-29"
     }
   ]
 }
