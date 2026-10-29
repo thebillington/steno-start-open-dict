@@ -1,13 +1,12 @@
-# Art of Chording: excluded pending licence clarification
+# Art of Chording website archive
 
-The website footer says:
+Source: https://www.artofchording.com/
+Licence: CC BY-SA 4.0, as stated in the website footer:
+"Licensed CC BY-SA 4.0 | © 2017-2026 by Thea Morin"
+Retrieved: 2026-10-29
 
-> Licensed CC BY-SA 4.0 | © 2017-2026 by Thea Morin
+The archive contains the published website pages in HTML and plain text.
+`website/pages.json` records every URL, page title, file, and SHA-256.
 
-The source repository LICENSE.txt says:
-
-> Attribution-NonCommercial-ShareAlike 4.0 International
-
-These conflict. CC BY-NC-SA is not suitable for a paid app. The material is
-excluded from the dictionary build until the author clarifies which licence
-applies. No Art of Chording text is included in this repository.
+Used for steno theory, chord examples and briefs. Attribution and share-alike
+apply to adapted dictionary data.

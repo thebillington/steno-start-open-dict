@@ -43,8 +43,7 @@ Allowed inputs:
 
 Excluded:
 
-- Art of Chording. The website says CC BY-SA 4.0, but the source repository
-  says CC BY-NC-SA 4.0. It is not used until the author clarifies.
+- Art of Chording, CC BY-SA 4.0, https://www.artofchording.com/
 - Plover `main.json` and any GPL dictionary.
 - Typey Type, Lapwing, StenEd, Magnum, Phoenix and other dictionaries.
 
