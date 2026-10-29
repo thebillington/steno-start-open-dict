@@ -1,0 +1,26 @@
+Quick image and text references.
+
+* QWERTY to steno layout
+** [https://lh3.googleusercontent.com/-w2QPSfUjHo8/V18o1J9cZNI/AAAAAAAAA-s/qPYSz2XkJhoLARsznLA_rMAq26i_G6oPgCLcB/s1600/US.png Steno board next to the QWERTY layout]
+** Steno keys on top of a QWERTY keyboard
+*** [http://i.imgur.com/qIh1iJ0.png Full keyboard]
+*** [[:File:Steno keys_on_QWERTY keyboard by Jen.png|Faded QWERTY]]
+*** [[:File:Steno keys on QWERTY keyboard, with finger positions.png|Faded QWERTY, with finger positions]]
+* [https://www.openstenoproject.org/learn-plover/appendix-cheat-sheet Learn Plover! Cheat sheet]
+** [https://docs.google.com/file/d/1Yi93aHaxe3L-_ePtq3bujv7o1CCLmmgim8iuL_Sx2IY/edit Chart with all the standard sounds in Plover on the steno board]
+** [https://docs.google.com/file/d/1grC3Bv3FCAVeNez4OzjzkGJDwQj4JouclzXNdpWzyF4/edit Which fingers to use for each key]
+** [https://docs.google.com/file/d/1jhAEN4NfSmbCcuLRug_h1TKdWSKOcQYAxlkFuBopXs4/edit Steno order]
+** Quick text references for:
+*** [https://www.openstenoproject.org/learn-plover/appendix-cheat-sheet#TOC-Fingerspelling Fingerspelling]
+*** [https://www.openstenoproject.org/learn-plover/appendix-cheat-sheet#TOC-Briefs Briefs]
+*** [https://www.openstenoproject.org/learn-plover/appendix-cheat-sheet#TOC-Prefix-And-Suffix-Strokes Prefix/Suffix strokes]
+*** [https://www.openstenoproject.org/learn-plover/appendix-cheat-sheet#TOC-Non-Letters Non-letters]
+*** [https://www.openstenoproject.org/learn-plover/appendix-cheat-sheet#TOC-Numbers Numbers]
+* [https://steno.sammdot.ca/explainers Steno Explained]
+** [https://steno.sammdot.ca/steno-terminology.png Steno Terminology]
+** [https://steno.sammdot.ca/plover-basics.png Plover Theory Basics]
+** [https://steno.sammdot.ca/plover-numbers.png Numbers]
+** [https://steno.sammdot.ca/plover-fingerspelling.png Fingerspelling]
+** charts for popular dictionary systems (e.g. for symbols and phrasing) and other language theories also available on [https://steno.sammdot.ca/explainers Steno Explained]
+
+[[Category:Learning stenography]]

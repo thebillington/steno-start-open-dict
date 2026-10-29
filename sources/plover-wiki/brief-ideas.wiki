@@ -1,0 +1,75 @@
+[https://www.openstenoproject.org/learn-plover/ Learn Plover!] is a great introduction to Plover's theory and has everything you need to get started writing in steno. However, there are some patterns across Plover's dictionary which are not documented there. This document aims to show some of the hidden patterns. It also suggests some others that you can consider using in your personal dictionary.
+
+== In the Main Dictionary ==
+You can start using these patterns today!
+
+=== <code>SPW-</code> for int- and ent- ===
+
+This originated in the first steno theory, published by Ward Stone Ireland in the early 20th century. Today, it is also a part of Magnum steno. There are some entries in the default dictionary that use <code>SPW-</code>, although it's not documented in [https://www.openstenoproject.org/learn-plover/ Learn Plover.] Examples:
+
+* <code>SPWEPBLGT</code> for "intelligent".
+* <code>SPWRABGT</code> for "interact".
+* <code>SPWER</code> for "enter".
+* <code>SPWAOEURL</code> for "entirely".
+
+=== <code>-FRP</code> for -mp ===
+
+Usually, Plover theory (and Mirabai) uses <code>*PL</code> for the -mp sound in the end of a syllable. It can be difficult to add sounds after it. Instead, you can use <code>-FRP</code> to avoid conflicts and add <code>-B</code>, <code>-L</code> after -mp.
+
+Common uses of this are to add -mpl or -mbl to the end of a stroke:
+
+* <code>AFRP</code> for "amp" and <code>AFRPL</code> for "ample". This reduces conflicts with "apple" and "am".
+* <code>EUFRP</code> for "imp"
+
+=== <code>-FP</code> and <code>-AOUFP</code> for -ture ===
+
+<code>-FP</code> is used for the -ch sound in words like "catch". The default dictionary also includes many briefs where it is used for the -ture suffix. for example: "nature", which can be stroked as <code>TPHAEUFP</code> (naich).
+
+A note: For some of these words, a tense u sound (<code>AOUFP</code>) is used for -ture instead of just the <code>-FP</code>:
+
+* <code>TPHAEUFP</code> for "nature"
+* <code>KRAOEFP</code> for "creature"
+* <code>KAOUFP</code> for "culture"
+* <code>TPAOEFP</code> for "feature"
+* <code>P*EUFP</code> for "picture"
+* <code>STRAOUFP</code> for "structure"
+* <code>SKAOUFP</code> for "sculpture"
+* <code>FRA*FP</code> or <code>FRAOUFP</code> for "fracture"
+
+== Non-Plover Theory Ideas ==
+You will need to define new strokes in your dictionary with these ideas.
+
+=== <code>SKP-</code> for ex- ===
+
+The default dictionary uses a combination of <code>KP-</code> and <code>S-</code> to make the leading ex- sound. For example: <code>KPEUT</code> for "exit" for <code>SPHRAEUPB</code> for "explain".
+
+The rules for which one to use [https://www.dropbox.com/s/fa7fch2eocubrde/Philadelphia%20Clinic.pdf?dl=0 depend on the consonant following the ex-]. If you don't like this, you can use <code>SKP-</code> for a leading ex-:
+
+* <code>SKPRAGT</code> for "extract".
+* <code>SKPERPBL</code> for "external".
+* <code>SKPHRAEUPB</code> for "explain".
+
+Note: The leading <code>SKP-</code> is also used for some phrase briefs starting with "and" in the default dictionary. For example:
+
+* <code>SKPEBG</code> for "and he can"
+* <code>SKPALS</code> for "and also".
+
+If this is a problem for you, you can also try <code>SK*</code> instead of <code>SKP-</code>.
+
+=== <code>KPW-</code> for im- and em- ===
+
+Examples:
+
+* <code>KPWRES</code> for "impress".
+
+=== <code>-FR</code> for -m ===
+
+Above it's shown that <code>-FRP</code> can be used in the default dictionary for -mp. This stroke extends that idea:
+
+If <code>-PL</code> causes an issue (for example: "camel"), use <code>-FR</code>.
+
+For example:
+
+* <code>KAFRL</code> for "camel"
+
+[[Category:Stenography]]

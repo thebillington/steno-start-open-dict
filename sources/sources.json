@@ -1,0 +1,97 @@
+{
+  "format": "steno-start-source-registry",
+  "version": 1,
+  "sources": [
+    {
+      "id": "cmudict",
+      "name": "CMU Pronouncing Dictionary",
+      "url": "https://github.com/cmusphinx/cmudict",
+      "license": "BSD-2-Clause",
+      "file": "sources/cmudict/cmudict.dict",
+      "sha256": "81917843c7f44ce2b094ac63873c2c7a4cf802040792c455ba3ca406891c3d22",
+      "bytes": 3618488,
+      "usedFor": "pronunciation",
+      "modified": false,
+      "retrieved": "2026-10-29",
+      "notes": ""
+    },
+    {
+      "id": "wikipedia-stenotype",
+      "name": "Wikipedia: Stenotype",
+      "url": "https://en.wikipedia.org/wiki/Stenotype",
+      "license": "CC-BY-SA-4.0",
+      "file": "sources/wikipedia/stenotype.wiki",
+      "sha256": "9c2f02a0fda6c6faa794e7228105eb3c9f8e70ad7c1984fe518c5fb06caa6784",
+      "bytes": 27699,
+      "usedFor": "layout, chart and theory examples",
+      "modified": false,
+      "retrieved": "2026-10-29",
+      "notes": ""
+    },
+    {
+      "id": "plover-wiki-top-100",
+      "name": "Plover Wiki: Top 100 Words in Plover's Dictionary",
+      "url": "https://plover.wiki/index.php/Top_100_Words_in_Plover%27s_Dictionary",
+      "license": "CC-BY (as stated in wiki footer)",
+      "file": "sources/plover-wiki/top-100-words.wiki",
+      "sha256": "f59888b30f2f28e7960c545cecfa766f0253aa81eb58d564382ae8b4b9e4a73c",
+      "bytes": 16738,
+      "usedFor": "public standard-form examples",
+      "modified": false,
+      "retrieved": "2026-10-29",
+      "notes": ""
+    },
+    {
+      "id": "plover-wiki-brief-ideas",
+      "name": "Plover Wiki: Brief Ideas",
+      "url": "https://plover.wiki/index.php/Brief_Ideas",
+      "license": "CC-BY (as stated in wiki footer)",
+      "file": "sources/plover-wiki/brief-ideas.wiki",
+      "sha256": "265f9cfa964004325fae43b0a7a1fd92b403174018699001ccf2ab71074bf290",
+      "bytes": 3643,
+      "usedFor": "brief patterns and examples",
+      "modified": false,
+      "retrieved": "2026-10-29",
+      "notes": ""
+    },
+    {
+      "id": "plover-wiki-cheat-sheets",
+      "name": "Plover Wiki: Stenography Cheat Sheets",
+      "url": "https://plover.wiki/index.php/Stenography_Cheat_Sheets",
+      "license": "CC-BY (as stated in wiki footer)",
+      "file": "sources/plover-wiki/cheat-sheets.wiki",
+      "sha256": "444b9fad16a82518a22bcffa9ed3fdc8dea49b03b00f97adbf15a653ad3296ce",
+      "bytes": 2034,
+      "usedFor": "theory references",
+      "modified": false,
+      "retrieved": "2026-10-29",
+      "notes": ""
+    },
+    {
+      "id": "plover-wiki-theory",
+      "name": "Plover Wiki: Plover theory",
+      "url": "https://plover.wiki/index.php/Plover_theory",
+      "license": "CC-BY (as stated in wiki footer)",
+      "file": "sources/plover-wiki/plover-theory.wiki",
+      "sha256": "3357b0f801236315bf2187c4c4058705bd2effdd15f4859f17c03cdccaa3a91b",
+      "bytes": 4537,
+      "usedFor": "theory context",
+      "modified": false,
+      "retrieved": "2026-10-29",
+      "notes": ""
+    },
+    {
+      "id": "steno-start-word-list",
+      "name": "Steno Start authored 500-word list",
+      "url": "local",
+      "license": "CC-BY-SA-4.0",
+      "file": "data/source_words.txt",
+      "sha256": "bbd0819d7623b337a271d2b7005a5e09074138e87f0eb4b2447c1cd927c17e22",
+      "bytes": 2641,
+      "usedFor": "word selection",
+      "modified": false,
+      "retrieved": "2026-10-29",
+      "notes": ""
+    }
+  ]
+}

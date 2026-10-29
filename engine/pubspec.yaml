@@ -1,0 +1,10 @@
+name: steno_engine
+description: >-
+  A small, dependency-free clean-room steno (stenotype) chord engine:
+  parses strokes, formats them canonically, describes keys, and indexes a
+  word -> stroke dictionary.
+version: 0.1.0
+publish_to: none
+
+environment:
+  sdk: ^3.5.0
