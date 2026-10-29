@@ -92,6 +92,19 @@
       "modified": false,
       "retrieved": "2026-10-29",
       "notes": ""
+    },
+    {
+      "id": "art-of-chording-website",
+      "name": "Art of Chording website",
+      "url": "https://www.artofchording.com/",
+      "license": "CC-BY-SA-4.0",
+      "file": "sources/art-of-chording/website/pages.json",
+      "sha256": "2e9891cc9b58cc20cb84e7eb3b940407247031e7730deac6ceb44dfcf64d6065",
+      "bytes": 18373,
+      "usedFor": "theory, chord examples and briefs",
+      "modified": false,
+      "retrieved": "2026-10-29",
+      "notes": "Website footer states CC BY-SA 4.0. Wayback CDX snapshots retained as archive evidence."
     }
   ]
 }

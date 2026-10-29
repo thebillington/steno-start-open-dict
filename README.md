@@ -37,6 +37,7 @@ licence, file, SHA-256 and intended use.
 Allowed inputs:
 
 - CMUdict, BSD-2-Clause, pronunciation only.
+- Art of Chording, CC BY-SA 4.0, https://www.artofchording.com/.
 - Wikipedia: Stenotype, CC BY-SA 4.0.
 - Plover Wiki pages listed in the registry, CC BY as stated in the wiki footer.
 - The Steno Start authored 500-word list.
