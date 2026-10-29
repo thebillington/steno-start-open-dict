@@ -1,0 +1,142 @@
+{
+  "format": "steno-start-bank-compatibility",
+  "version": 2,
+  "date": "2026-10-29",
+  "reference": "pinned Plover-compatible teaching dictionary (500) and 6,046-word prototype subset; external, not shipped",
+  "generator": "clean-room Steno Start engine; no Plover feedback",
+  "banks": {
+    "basics": {
+      "bank_words": 500,
+      "generated_coverage": 1.0,
+      "reference_coverage": 1.0,
+      "compared": 500,
+      "exact": 324,
+      "exact_percent": 64.8,
+      "mean_jaccard": 0.862,
+      "categories": {
+        "onset+vowel+coda": 19,
+        "vowel": 42,
+        "vowel+coda": 18,
+        "coda": 38,
+        "star": 6,
+        "onset": 14,
+        "star+coda": 9,
+        "vowel+star": 10,
+        "onset+vowel": 7,
+        "onset+vowel+star": 1,
+        "onset+star": 2,
+        "onset+coda": 3,
+        "onset+vowel+star+coda": 1,
+        "vowel+star+coda": 6
+      }
+    },
+    "everyday": {
+      "bank_words": 500,
+      "generated_coverage": 1.0,
+      "reference_coverage": 0.834,
+      "compared": 417,
+      "exact": 218,
+      "exact_percent": 52.3,
+      "mean_jaccard": 0.795,
+      "categories": {
+        "onset+vowel+coda": 31,
+        "vowel": 34,
+        "onset": 14,
+        "coda": 43,
+        "vowel+coda": 17,
+        "star+coda": 9,
+        "onset+vowel": 8,
+        "vowel+star": 9,
+        "vowel+star+coda": 8,
+        "onset+coda": 9,
+        "star": 4,
+        "onset+star": 2,
+        "onset+vowel+star": 1,
+        "onset+star+coda": 3,
+        "onset+vowel+star+coda": 7
+      }
+    },
+    "legal": {
+      "bank_words": 200,
+      "generated_coverage": 1.0,
+      "reference_coverage": 0.415,
+      "compared": 83,
+      "exact": 23,
+      "exact_percent": 27.7,
+      "mean_jaccard": 0.63,
+      "categories": {
+        "vowel+coda": 12,
+        "onset+vowel+coda": 11,
+        "coda": 12,
+        "vowel+star+coda": 4,
+        "onset+vowel+star+coda": 6,
+        "onset+star": 1,
+        "onset+coda": 5,
+        "star": 1,
+        "onset": 2,
+        "vowel": 5,
+        "star+coda": 1
+      }
+    },
+    "business": {
+      "bank_words": 200,
+      "generated_coverage": 0.995,
+      "reference_coverage": 0.51,
+      "compared": 102,
+      "exact": 28,
+      "exact_percent": 27.5,
+      "mean_jaccard": 0.682,
+      "categories": {
+        "vowel+coda": 10,
+        "coda": 23,
+        "vowel+star+coda": 2,
+        "star+coda": 2,
+        "onset": 3,
+        "onset+vowel+coda": 9,
+        "vowel": 11,
+        "onset+vowel": 2,
+        "onset+coda": 6,
+        "onset+vowel+star+coda": 1,
+        "onset+star+coda": 3,
+        "vowel+star": 1,
+        "onset+vowel+star": 1
+      }
+    },
+    "general": {
+      "bank_words": 500,
+      "generated_coverage": 1.0,
+      "reference_coverage": 0.032,
+      "compared": 16,
+      "exact": 8,
+      "exact_percent": 50.0,
+      "mean_jaccard": 0.823,
+      "categories": {
+        "onset": 1,
+        "onset+coda": 1,
+        "coda": 3,
+        "star+coda": 1,
+        "star": 1,
+        "onset+vowel+star+coda": 1
+      }
+    },
+    "sentences": {
+      "bank_words": 135,
+      "generated_coverage": 1.0,
+      "reference_coverage": 1.0,
+      "compared": 135,
+      "exact": 113,
+      "exact_percent": 83.7,
+      "mean_jaccard": 0.942,
+      "categories": {
+        "onset+vowel+coda": 3,
+        "vowel+coda": 2,
+        "vowel": 10,
+        "coda": 2,
+        "onset": 2,
+        "star": 1,
+        "vowel+star": 1,
+        "star+coda": 1
+      }
+    }
+  }
+}
