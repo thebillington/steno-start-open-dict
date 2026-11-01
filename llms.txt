@@ -1,0 +1,34 @@
+# Steno Start Open Dictionary
+
+> A 500-word beginner dictionary for the 22-key steno keyboard, published as Plover-style JSON under CC BY-SA 4.0 with per-entry provenance. Derived only from openly licensed sources.
+
+## Canonical facts
+
+- Name: Steno Start Open Dictionary
+- Repository: https://github.com/thebillington/steno-start-open-dict
+- Project site: https://stenostart.uk/dictionary/
+- Format: JSON, flat `word -> stroke` map plus optional multi-stroke forms
+- Words: 500 unique single-stroke signatures
+- Structure: 99 brief entries and 401 rule-derived entries
+- Multi-stroke forms: 8 optional expansions
+- Licence: dictionary data and provenance CC BY-SA 4.0; generator and engine MIT
+- Sources: CMUdict, Wikipedia Stenotype, Plover Wiki theory pages and the archived Art of Chording text
+- Excluded: Plover `main.json`, GPL dictionaries, Typey Type, Lapwing, StenEd, Magnum and Phoenix dictionaries
+- Provenance: one record per word in `provenance/entries.json`; source hashes in `data/manifest.json`
+- Accuracy: 394/500 exact matches against the external Plover reference used for benchmarking; no claim of full Plover compatibility
+- Affiliation: independent; not affiliated with Plover or Open Steno
+- Support: https://github.com/sponsors/thebillington
+
+## Files
+
+- `data/dictionary.json` — flat word-to-stroke map.
+- `data/multi_stroke.json` — optional multi-stroke expansions.
+- `data/manifest.json` — counts, hashes and build command.
+- `provenance/entries.json` — per-entry source and rule records.
+- `validation/self_check.md` — parser, key-count, duplicate and coverage checks.
+- `validation/report.md` — black-box comparison report.
+- `CITATION.cff` — citation metadata.
+
+## Attribution
+
+Cite as "Steno Start Open Dictionary, Billy Rebecchi, CC BY-SA 4.0, https://github.com/thebillington/steno-start-open-dict". Share-alike applies to adapted dictionary data.
