@@ -1,6 +1,20 @@
 # steno-start-open-dict
 
+[![Sponsor on GitHub](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/thebillington)
+
 An openly licensed English steno dictionary for **Steno Start**.
+
+A 500-word beginner dictionary for the 22-key steno keyboard, published as
+plain JSON under CC BY-SA 4.0 with per-entry provenance. It is designed for
+learning the steno layout, for import into Plover-style tools, and for reuse in
+other open stenography projects.
+
+## Who it is for
+
+- People building an open steno trainer, dictionary viewer or keyboard tool.
+- Teachers and learners who want a small, clearly licensed beginner word bank.
+- Anyone who needs a Plover-style JSON dictionary without copying the GPL
+  `main.json`.
 
 ## Purpose
 
@@ -110,6 +124,27 @@ briefs layer and the deterministic collision handling.
 - No entry without a source and licence.
 - The build must be reproducible from `provenance/build.json`.
 - The app asset is exported from this repo, not hand-edited.
+
+## Support
+
+This project is free and open source. If it saves you time, you can support
+ongoing maintenance through [GitHub Sponsors](https://github.com/sponsors/thebillington).
+
+## Related projects
+
+These are independent projects in the same space. Steno Start is not affiliated
+with them and does not bundle their dictionaries.
+
+- [Plover](https://www.openstenoproject.org/plover/) — the open-source steno
+  engine and the default Plover theory.
+- [Lapwing](https://lapwing.aerick.ca/) — an open-source steno theory and
+  dictionary aimed at hobbyists.
+- [Typey Type](https://didoesdigital.com/typey-type/) — free steno lessons and
+  drills, powered by Di's Plover-theory dictionaries.
+- [Steno Jig](https://joshuagrams.github.io/steno-jig/) — free drill generator
+  for steno learners.
+- [Art of Chording](https://www.artofchording.com/) — a free online textbook
+  for learning steno.
 
 ## Status
 

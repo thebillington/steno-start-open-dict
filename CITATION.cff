@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dictionary, cite it as below."
+title: "Steno Start Open Dictionary"
+abstract: "A 500-word beginner steno dictionary for the 22-key keyboard, derived from openly licensed sources with per-entry provenance. Published as Plover-style JSON under CC BY-SA 4.0."
+type: dataset
+version: "1.0.0"
+date-released: "2026-10-29"
+license: CC-BY-SA-4.0
+url: "https://github.com/thebillington/steno-start-open-dict"
+repository-code: "https://github.com/thebillington/steno-start-open-dict"
+keywords:
+  - stenography
+  - steno
+  - plover
+  - dictionary
+  - open data
+  - keyboard
+  - stenotype
+authors:
+  - family-names: Rebecchi
+    given-names: Billy
+    website: "https://thebillington.co.uk"
